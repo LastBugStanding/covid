@@ -2802,17 +2802,17 @@
   ],
   "success": true,
   "summary": {
-    "active": 63972,
-    "deaths": 3456,
-    "delta_active": 807,
-    "delta_deaths": 22,
-    "delta_recovered": 464,
-    "delta_total": 1293,
+    "active": 0,
+    "deaths": 15,
+    "delta_active": 0,
+    "delta_deaths": 0,
+    "delta_recovered": 100,
+    "delta_total": 100,
     "id": 1,
-    "last_updated_time": "21/05/2020 15:37:23",
+    "last_updated_time": "21/05/2020 16:58:23",
     "record_time": "2020-05-21 15:54:14",
-    "recovered": 45886,
-    "total": 113321
+    "recovered": 100,
+    "total": 115
   },
   "total_diff": 1293,
   "undefinedage": 24505
