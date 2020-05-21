@@ -916,18 +916,32 @@
       "total": 403
     },
     {
-      "active": 400,
-      "daily_active": 75,
-      "daily_deaths": 1,
-      "daily_recovered": 15,
-      "daily_total": 91,
+      "active": 57894,
+      "daily_active": 2015,
+      "daily_deaths": 131,
+      "daily_recovered": 2482,
+      "daily_total": 4628,
       "day": "18 May 2020",
-      "deaths": 8,
-      "id": 54,
+      "deaths": 3155,
+      "id": 281,
       "record_time": "Tue, 19 May 2020 20:39:15 GMT",
-      "recovered": 0,
+      "recovered": 39277,
       "timestamp": "1589760000",
-      "total": 491
+      "total": 100326
+    },
+    {
+      "active": 60870,
+      "daily_active": 2976,
+      "daily_deaths": 146,
+      "daily_recovered": 3032,
+      "daily_total": 6154,
+      "day": "19 May 2020",
+      "deaths": 3301,
+      "id": 282,
+      "record_time": "Wed, 20 May 2020 17:09:15 GMT",
+      "recovered": 42309,
+      "timestamp": "1589846400",
+      "total": 106480
     }
   ],
   "deaths_diff": 22,
