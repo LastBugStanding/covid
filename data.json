@@ -915,7 +915,6 @@
       "timestamp": "1584835200",
       "total": 403
     },
-    
     {
       "active": 400,
       "daily_active": 75,
@@ -926,7 +925,7 @@
       "deaths": 8,
       "id": 54,
       "record_time": "Tue, 19 May 2020 20:39:15 GMT",
-      "recovered": 38,
+      "recovered": 0,
       "timestamp": "1589760000",
       "total": 491
     }
