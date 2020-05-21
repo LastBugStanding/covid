@@ -32,143 +32,143 @@
   ],
   "cumulative_confirmed": [
     {
-      "count": ,
+      "count": 12371,
       "timestamp": "1586908800"
     },
     {
-      "count": 0,
+      "count": 13432,
       "timestamp": "1586995200"
     },
     {
-      "count": 45,
+      "count": 14354,
       "timestamp": "1587081600"
     },
     {
-      "count": 55,
+      "count": 15725,
       "timestamp": "1587168000"
     },
     {
-      "count": 65,
+      "count": 17305,
       "timestamp": "1587254400"
     },
     {
-      "count": 74,
+      "count": 18544,
       "timestamp": "1587340800"
     },
     {
-      "count": 81,
+      "count": 20081,
       "timestamp": "1587427200"
     },
     {
-      "count": 73,
+      "count": 21373,
       "timestamp": "1587513600"
     },
     {
-      "count": 40,
+      "count": 23040,
       "timestamp": "1587600000"
     },
     {
-      "count": 48,
+      "count": 24448,
       "timestamp": "1587686400"
     },
     {
-      "count": 83,
+      "count": 26283,
       "timestamp": "1587772800"
     },
     {
-      "count": 90,
+      "count": 27890,
       "timestamp": "1587859200"
     },
     {
-      "count": 58,
+      "count": 29458,
       "timestamp": "1587945600"
     },
     {
-      "count": 60,
+      "count": 31360,
       "timestamp": "1588032000"
     },
     {
-      "count": 65,
+      "count": 33065,
       "timestamp": "1588118400"
     },
     {
-      "count": 66,
+      "count": 34866,
       "timestamp": "1588204800"
     },
     {
-      "count": 62,
+      "count": 37262,
       "timestamp": "1588291200"
     },
     {
-      "count": 26,
+      "count": 39826,
       "timestamp": "1588377600"
     },
     {
-      "count": 78,
+      "count": 42778,
       "timestamp": "1588464000"
     },
     {
-      "count": 34,
+      "count": 46434,
       "timestamp": "1588550400"
     },
     {
-      "count": 05,
+      "count": 49405,
       "timestamp": "1588636800"
     },
     {
-      "count": 07,
+      "count": 53007,
       "timestamp": "1588723200"
     },
     {
-      "count": 51,
+      "count": 56351,
       "timestamp": "1588809600"
     },
     {
-      "count": 90,
+      "count": 59690,
       "timestamp": "1588896000"
     },
     {
-      "count": 65,
+      "count": 62865,
       "timestamp": "1588982400"
     },
     {
-      "count": 76,
+      "count": 67176,
       "timestamp": "1589068800"
     },
     {
-      "count": 68,
+      "count": 70768,
       "timestamp": "1589155200"
     },
     {
-      "count": 30,
+      "count": 74330,
       "timestamp": "1589241600"
     },
     {
-      "count": 56,
+      "count": 78056,
       "timestamp": "1589328000"
     },
     {
-      "count": 47,
+      "count": 82047,
       "timestamp": "1589414400"
     },
     {
-      "count": 55,
+      "count": 85855,
       "timestamp": "1589500800"
     },
     {
-      "count": 49,
+      "count": 90649,
       "timestamp": "1589587200"
     },
     {
-      "count": 98,
+      "count": 95698,
       "timestamp": "1589673600"
     },
     {
-      "count": 326,
+      "count": 100326,
       "timestamp": "1589760000"
     },
     {
-      "count": 480,
+      "count": 106480,
       "timestamp": "1589846400"
     }
   ],
@@ -2237,15 +2237,15 @@
   "deaths_diff": 22,
   "gender": [
     {
-      "count": 3,
+      "count": 1763,
       "gender": "Female"
     },
     {
-      "count": 7,
+      "count": 3547,
       "gender": "Male"
     },
     {
-      "count": 35,
+      "count": 21535,
       "gender": "Not Available"
     }
   ],
