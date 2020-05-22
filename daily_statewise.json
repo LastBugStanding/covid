@@ -1,0 +1,482 @@
+{
+  "data": [
+    {
+      "confirmed": 2161,
+      "date": "20 May 2020",
+      "deaths": 65,
+      "id": 2510,
+      "recovered": 679
+    },
+    {
+      "confirmed": 2078,
+      "date": "19 May 2020",
+      "deaths": 76,
+      "id": 2473,
+      "recovered": 1202
+    },
+    {
+      "confirmed": 2005,
+      "date": "18 May 2020",
+      "deaths": 51,
+      "id": 2436,
+      "recovered": 749
+    },
+    {
+      "confirmed": 2347,
+      "date": "17 May 2020",
+      "deaths": 63,
+      "id": 2399,
+      "recovered": 600
+    },
+    {
+      "confirmed": 1606,
+      "date": "16 May 2020",
+      "deaths": 67,
+      "id": 2362,
+      "recovered": 524
+    },
+    {
+      "confirmed": 1576,
+      "date": "15 May 2020",
+      "deaths": 49,
+      "id": 2325,
+      "recovered": 475
+    },
+    {
+      "confirmed": 1602,
+      "date": "14 May 2020",
+      "deaths": 44,
+      "id": 2288,
+      "recovered": 542
+    },
+    {
+      "confirmed": 1495,
+      "date": "13 May 2020",
+      "deaths": 54,
+      "id": 2251,
+      "recovered": 422
+    },
+    {
+      "confirmed": 1026,
+      "date": "12 May 2020",
+      "deaths": 53,
+      "id": 2214,
+      "recovered": 339
+    },
+    {
+      "confirmed": 1230,
+      "date": "11 May 2020",
+      "deaths": 36,
+      "id": 2177,
+      "recovered": 587
+    },
+    {
+      "confirmed": 1943,
+      "date": "10 May 2020",
+      "deaths": 53,
+      "id": 2140,
+      "recovered": 399
+    },
+    {
+      "confirmed": 1165,
+      "date": "09 May 2020",
+      "deaths": 48,
+      "id": 2103,
+      "recovered": 330
+    },
+    {
+      "confirmed": 1089,
+      "date": "08 May 2020",
+      "deaths": 37,
+      "id": 2066,
+      "recovered": 169
+    },
+    {
+      "confirmed": 1216,
+      "date": "07 May 2020",
+      "deaths": 43,
+      "id": 2029,
+      "recovered": 207
+    },
+    {
+      "confirmed": 1233,
+      "date": "06 May 2020",
+      "deaths": 34,
+      "id": 1992,
+      "recovered": 275
+    },
+    {
+      "confirmed": 984,
+      "date": "05 May 2020",
+      "deaths": 34,
+      "id": 1955,
+      "recovered": 354
+    },
+    {
+      "confirmed": 1567,
+      "date": "04 May 2020",
+      "deaths": 35,
+      "id": 1918,
+      "recovered": 350
+    },
+    {
+      "confirmed": 678,
+      "date": "03 May 2020",
+      "deaths": 27,
+      "id": 1881,
+      "recovered": 115
+    },
+    {
+      "confirmed": 790,
+      "date": "02 May 2020",
+      "deaths": 36,
+      "id": 1844,
+      "recovered": 121
+    },
+    {
+      "confirmed": 1008,
+      "date": "01 May 2020",
+      "deaths": 26,
+      "id": 1807,
+      "recovered": 106
+    },
+    {
+      "confirmed": 583,
+      "date": "30 April 2020",
+      "deaths": 27,
+      "id": 1770,
+      "recovered": 180
+    },
+    {
+      "confirmed": 597,
+      "date": "29 April 2020",
+      "deaths": 32,
+      "id": 1733,
+      "recovered": 205
+    },
+    {
+      "confirmed": 728,
+      "date": "28 April 2020",
+      "deaths": 31,
+      "id": 1696,
+      "recovered": 106
+    },
+    {
+      "confirmed": 522,
+      "date": "27 April 2020",
+      "deaths": 27,
+      "id": 1659,
+      "recovered": 94
+    },
+    {
+      "confirmed": 440,
+      "date": "26 April 2020",
+      "deaths": 19,
+      "id": 1622,
+      "recovered": 112
+    },
+    {
+      "confirmed": 811,
+      "date": "25 April 2020",
+      "deaths": 22,
+      "id": 1585,
+      "recovered": 119
+    },
+    {
+      "confirmed": 390,
+      "date": "24 April 2020",
+      "deaths": 18,
+      "id": 1548,
+      "recovered": 117
+    },
+    {
+      "confirmed": 778,
+      "date": "23 April 2020",
+      "deaths": 14,
+      "id": 1511,
+      "recovered": 51
+    },
+    {
+      "confirmed": 431,
+      "date": "22 April 2020",
+      "deaths": 18,
+      "id": 1474,
+      "recovered": 67
+    },
+    {
+      "confirmed": 552,
+      "date": "21 April 2020",
+      "deaths": 19,
+      "id": 1437,
+      "recovered": 150
+    },
+    {
+      "confirmed": 466,
+      "date": "20 April 2020",
+      "deaths": 9,
+      "id": 1400,
+      "recovered": 65
+    },
+    {
+      "confirmed": 552,
+      "date": "19 April 2020",
+      "deaths": 12,
+      "id": 1363,
+      "recovered": 142
+    },
+    {
+      "confirmed": 327,
+      "date": "18 April 2020",
+      "deaths": 10,
+      "id": 1326,
+      "recovered": 34
+    },
+    {
+      "confirmed": 120,
+      "date": "17 April 2020",
+      "deaths": 7,
+      "id": 1289,
+      "recovered": 31
+    },
+    {
+      "confirmed": 285,
+      "date": "16 April 2020",
+      "deaths": 7,
+      "id": 1252,
+      "recovered": 5
+    },
+    {
+      "confirmed": 236,
+      "date": "15 April 2020",
+      "deaths": 9,
+      "id": 1215,
+      "recovered": 36
+    },
+    {
+      "confirmed": 346,
+      "date": "14 April 2020",
+      "deaths": 18,
+      "id": 1178,
+      "recovered": 30
+    },
+    {
+      "confirmed": 352,
+      "date": "13 April 2020",
+      "deaths": 11,
+      "id": 1141,
+      "recovered": 12
+    },
+    {
+      "confirmed": 221,
+      "date": "12 April 2020",
+      "deaths": 22,
+      "id": 1104,
+      "recovered": 9
+    },
+    {
+      "confirmed": 187,
+      "date": "11 April 2020",
+      "deaths": 17,
+      "id": 1067,
+      "recovered": 20
+    },
+    {
+      "confirmed": 210,
+      "date": "10 April 2020",
+      "deaths": 12,
+      "id": 1030,
+      "recovered": 63
+    },
+    {
+      "confirmed": 229,
+      "date": "09 April 2020",
+      "deaths": 25,
+      "id": 993,
+      "recovered": 8
+    },
+    {
+      "confirmed": 117,
+      "date": "08 April 2020",
+      "deaths": 8,
+      "id": 956,
+      "recovered": 38
+    },
+    {
+      "confirmed": 150,
+      "date": "07 April 2020",
+      "deaths": 12,
+      "id": 919,
+      "recovered": 9
+    },
+    {
+      "confirmed": 121,
+      "date": "06 April 2020",
+      "deaths": 7,
+      "id": 882,
+      "recovered": 14
+    },
+    {
+      "confirmed": 112,
+      "date": "05 April 2020",
+      "deaths": 13,
+      "id": 845,
+      "recovered": 4
+    },
+    {
+      "confirmed": 148,
+      "date": "04 April 2020",
+      "deaths": 6,
+      "id": 808,
+      "recovered": 2
+    },
+    {
+      "confirmed": 64,
+      "date": "03 April 2020",
+      "deaths": 5,
+      "id": 771,
+      "recovered": 8
+    },
+    {
+      "confirmed": 88,
+      "date": "02 April 2020",
+      "deaths": 8,
+      "id": 734,
+      "recovered": 3
+    },
+    {
+      "confirmed": 33,
+      "date": "01 April 2020",
+      "deaths": 3,
+      "id": 697,
+      "recovered": 0
+    },
+    {
+      "confirmed": 82,
+      "date": "31 March 2020",
+      "deaths": 1,
+      "id": 660,
+      "recovered": 0
+    },
+    {
+      "confirmed": 17,
+      "date": "30 March 2020",
+      "deaths": 2,
+      "id": 623,
+      "recovered": 14
+    },
+    {
+      "confirmed": 17,
+      "date": "29 March 2020",
+      "deaths": 1,
+      "id": 586,
+      "recovered": 0
+    },
+    {
+      "confirmed": 30,
+      "date": "28 March 2020",
+      "deaths": 2,
+      "id": 549,
+      "recovered": 6
+    },
+    {
+      "confirmed": 31,
+      "date": "27 March 2020",
+      "deaths": 1,
+      "id": 512,
+      "recovered": 18
+    },
+    {
+      "confirmed": 3,
+      "date": "26 March 2020",
+      "deaths": 1,
+      "id": 475,
+      "recovered": 0
+    },
+    {
+      "confirmed": 15,
+      "date": "25 March 2020",
+      "deaths": 0,
+      "id": 438,
+      "recovered": 1
+    },
+    {
+      "confirmed": 10,
+      "date": "24 March 2020",
+      "deaths": 0,
+      "id": 401,
+      "recovered": 0
+    },
+    {
+      "confirmed": 23,
+      "date": "23 March 2020",
+      "deaths": 0,
+      "id": 364,
+      "recovered": 0
+    },
+    {
+      "confirmed": 10,
+      "date": "22 March 2020",
+      "deaths": 1,
+      "id": 327,
+      "recovered": 0
+    },
+    {
+      "confirmed": 12,
+      "date": "21 March 2020",
+      "deaths": 0,
+      "id": 290,
+      "recovered": 0
+    },
+    {
+      "confirmed": 4,
+      "date": "20 March 2020",
+      "deaths": 0,
+      "id": 253,
+      "recovered": 0
+    },
+    {
+      "confirmed": 4,
+      "date": "19 March 2020",
+      "deaths": 0,
+      "id": 216,
+      "recovered": 0
+    },
+    {
+      "confirmed": 3,
+      "date": "18 March 2020",
+      "deaths": 0,
+      "id": 179,
+      "recovered": 0
+    },
+    {
+      "confirmed": 3,
+      "date": "17 March 2020",
+      "deaths": 1,
+      "id": 142,
+      "recovered": 0
+    },
+    {
+      "confirmed": 6,
+      "date": "16 March 2020",
+      "deaths": 0,
+      "id": 105,
+      "recovered": 0
+    },
+    {
+      "confirmed": 18,
+      "date": "15 March 2020",
+      "deaths": 0,
+      "id": 68,
+      "recovered": 0
+    },
+    {
+      "confirmed": 14,
+      "date": "14 March 2020",
+      "deaths": 0,
+      "id": 31,
+      "recovered": 0
+    }
+  ],
+  "state": "Maharashtra",
+  "success": true
+}
