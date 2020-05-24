@@ -2269,7 +2269,7 @@
     },
     {
       "active": 0,
-      "deaths": 88,
+      "deaths": 15,
       "delta_active": 0,
       "delta_deaths": 0,
       "delta_recovered": 0,
@@ -2279,11 +2279,11 @@
       "record_time": "Thu, 21 May 2020 07:54:14 GMT",
       "recovered": 100,
       "state": "Girne | Kyrenia",
-      "total": 188
+      "total": 115
     },
     {
-      "active": 6571,
-      "deaths": 749,
+      "active": 0,
+      "deaths": 8,
       "delta_active": 0,
       "delta_deaths": 0,
       "delta_recovered": 0,
@@ -2291,41 +2291,41 @@
       "id": 5,
       "last_updated_time": "20/05/2020 20:40:25",
       "record_time": "Thu, 21 May 2020 07:54:14 GMT",
-      "recovered": 5219,
+      "recovered": 112,
       "state": "Gazimağusa | Famagusta",
-      "total": 12539
+      "total": 120
     },
     {
-      "active": 5898,
-      "deaths": 194,
-      "delta_active": 178,
-      "delta_deaths": 18,
-      "delta_recovered": 375,
-      "delta_total": 571,
+      "active": 0,
+      "deaths": 2,
+      "delta_active": 0,
+      "delta_deaths": 0,
+      "delta_recovered": 0,
+      "delta_total": 0,
       "id": 4,
       "last_updated_time": "21/05/2020 15:37:24",
       "record_time": "Thu, 21 May 2020 15:54:14 GMT",
-      "recovered": 5567,
+      "recovered": 50,
       "state": "Güzelyurt | Morphou",
-      "total": 11659
+      "total": 52
     },
     {
-      "active": 2583,
-      "deaths": 150,
-      "delta_active": 119,
-      "delta_deaths": 3,
-      "delta_recovered": 17,
-      "delta_total": 139,
+      "active": 0,
+      "deaths": 8,
+      "delta_active": 0,
+      "delta_deaths": 0,
+      "delta_recovered": 0,
+      "delta_total": 0,
       "id": 17,
       "last_updated_time": "21/05/2020 15:23:26",
       "record_time": "Thu, 21 May 2020 15:44:14 GMT",
-      "recovered": 3421,
+      "recovered": 25,
       "state": "İskele | Trikomo",
-      "total": 6154
+      "total": 33
     },
     {
-      "active": 2734,
-      "deaths": 267,
+      "active": 0,
+      "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
       "delta_recovered": 0,
@@ -2333,9 +2333,9 @@
       "id": 10,
       "last_updated_time": "20/05/2020 21:00:25",
       "record_time": "Thu, 21 May 2020 07:54:14 GMT",
-      "recovered": 2734,
+      "recovered": 10,
       "state": "Karpaz | Karpasia",
-      "total": 5735
+      "total": 10
     }
   ],
   "success": true,
