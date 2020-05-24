@@ -2254,8 +2254,8 @@
   "recovered_diff": 464,
   "statewise": [
     {
-      "active": 27589,
-      "deaths": 1390,
+      "active": 0,
+      "deaths": 15,
       "delta_active": 0,
       "delta_deaths": 0,
       "delta_recovered": 0,
@@ -2263,9 +2263,9 @@
       "id": 11,
       "last_updated_time": "21/05/2020 08:05:53",
       "record_time": "Thu, 21 May 2020 08:24:14 GMT",
-      "recovered": 10318,
+      "recovered": 55,
       "state": "Lefkoşa | Nicosia",
-      "total": 39297
+      "total": 70
     },
     {
       "active": 7221,
