@@ -2255,17 +2255,17 @@
   "statewise": [
     {
       "active": 0,
-      "deaths": 0,
+      "deaths": 12,
       "delta_active": 0,
       "delta_deaths": 0,
-      "delta_recovered": 0,
+      "delta_recovered": 55,
       "delta_total": 0,
       "id": 11,
       "last_updated_time": "24/05/2020 08:05:53",
       "record_time": "Thu, 24 May 2020 08:24:14 GMT",
-      "recovered": 10318,
+      "recovered": 55,
       "state": "Lefkoşa",
-      "total": 0
+      "total": 55
     },
     {
       "active": 0,
