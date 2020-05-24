@@ -2264,7 +2264,7 @@
       "last_updated_time": "21/05/2020 08:05:53",
       "record_time": "Thu, 21 May 2020 08:24:14 GMT",
       "recovered": 10318,
-      "state": "Alsancak",
+      "state": "Lefkoşa | Nicosia",
       "total": 39297
     },
     {
@@ -2278,7 +2278,7 @@
       "last_updated_time": "20/05/2020 20:40:24",
       "record_time": "Thu, 21 May 2020 07:54:14 GMT",
       "recovered": 5882,
-      "state": "Karaoğlanoğlu",
+      "state": "Girne | Kyrenia",
       "total": 13191
     },
     {
@@ -2292,7 +2292,7 @@
       "last_updated_time": "20/05/2020 20:40:25",
       "record_time": "Thu, 21 May 2020 07:54:14 GMT",
       "recovered": 5219,
-      "state": "Karmi",
+      "state": "Gazimağusa | Famagusta",
       "total": 12539
     },
     {
@@ -2306,7 +2306,7 @@
       "last_updated_time": "21/05/2020 15:37:24",
       "record_time": "Thu, 21 May 2020 15:54:14 GMT",
       "recovered": 5567,
-      "state": "Girne Kapısı",
+      "state": "Güzelyurt | Morphou",
       "total": 11659
     },
     {
@@ -2320,7 +2320,7 @@
       "last_updated_time": "21/05/2020 15:23:26",
       "record_time": "Thu, 21 May 2020 15:44:14 GMT",
       "recovered": 3421,
-      "state": "Çatalköy",
+      "state": "İskele | Trikomo",
       "total": 6154
     },
     {
@@ -2334,78 +2334,8 @@
       "last_updated_time": "20/05/2020 21:00:25",
       "record_time": "Thu, 21 May 2020 07:54:14 GMT",
       "recovered": 2734,
-      "state": "Esentepe",
+      "state": "Karpaz | Karpasia",
       "total": 5735
-    },
-    {
-      "active": 1982,
-      "deaths": 127,
-      "delta_active": 0,
-      "delta_deaths": 0,
-      "delta_recovered": 0,
-      "delta_total": 0,
-      "id": 23,
-      "last_updated_time": "20/05/2020 23:23:24",
-      "record_time": "Thu, 21 May 2020 07:54:14 GMT",
-      "recovered": 3066,
-      "state": "Girne Merkez",
-      "total": 5175
-    },
-    {
-      "active": 1714,
-      "deaths": 253,
-      "delta_active": 0,
-      "delta_deaths": 0,
-      "delta_recovered": 0,
-      "delta_total": 0,
-      "id": 25,
-      "last_updated_time": "20/05/2020 20:40:27",
-      "record_time": "Thu, 21 May 2020 07:54:15 GMT",
-      "recovered": 1136,
-      "state": "Karşıyaka",
-      "total": 3103
-    },
-    {
-      "active": 843,
-      "deaths": 53,
-      "delta_active": 0,
-      "delta_deaths": 0,
-      "delta_recovered": 0,
-      "delta_total": 0,
-      "id": 1,
-      "last_updated_time": "20/05/2020 16:57:25",
-      "record_time": "Thu, 21 May 2020 07:54:15 GMT",
-      "recovered": 1664,
-      "state": "Ozanköy",
-      "total": 2560
-    },
-    {
-      "active": 173,
-      "deaths": 38,
-      "delta_active": 0,
-      "delta_deaths": 0,
-      "delta_recovered": 0,
-      "delta_total": 0,
-      "id": 16,
-      "last_updated_time": "20/05/2020 18:43:25",
-      "record_time": "Thu, 21 May 2020 07:54:15 GMT",
-      "recovered": 1794,
-      "state": "Doğanköy",
-      "total": 2005
-    },
-    {
-      "active": 1123,
-      "deaths": 9,
-      "delta_active": 96,
-      "delta_deaths": 0,
-      "delta_recovered": 0,
-      "delta_total": 96,
-      "id": 2,
-      "last_updated_time": "21/05/2020 15:13:24",
-      "record_time": "Thu, 21 May 2020 15:34:14 GMT",
-      "recovered": 571,
-      "state": "Bihar",
-      "total": 1703
     }
   ],
   "success": true,
