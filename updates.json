@@ -1,0 +1,36 @@
+{
+  "success": true,
+  "tags": [
+    "startups",
+    "info",
+    "news",
+    "productivity",
+    "history",
+    "medium",
+    "lifestyle",
+    "business",
+    "travel",
+    "science",
+    "healthcare",
+    "informative",
+    "explanation"
+  ],
+  "updates": [
+    {
+      "body": "Coronavirus interaktif haritası sizin için SnipeSec Bilişim tarafından hazırlanıp düzenli olarak güncellenmektedir | Coronavirus map for Cyprus is brought to you by SnipeSec.",
+      "headline": "SnipeSec Bilişim ve Siber Güvenlik tarafıdan hazırlanan İnteraktif Coronavirus (Covid-19) haritası | Interactive Coronavirus (Covid-19) map brpught to you by SnipeSec Information Technologies anc Cyber Security",
+      "id": 1,
+      "link": "https://snipesec.com",
+      "record_time": "02 June 2020 01:15 PM",
+      "tags": "business"
+    },
+    /*{
+      "body": "With 8,171 new coronavirus cases, India is close to the 2 lakh-mark of total cases. In the past 24 hours, India has reported 204 deaths. With these numbers, India now ranks above France and below Italy in the global charts.",
+      "headline": "Coronavirus tally in India nears 2 lakh-mark with 8,171 new cases, ranks 7th in world after Italy",
+      "id": 2,
+      "link": "https://www.indiatoday.in/india/story/total-coronavirus-cases-in-india-death-toll-covid-numbers-1684545-2020-06-02",
+      "record_time": "02 June 2020 03:15 PM",
+      "tags": "news"
+    }*/
+  ]
+}
