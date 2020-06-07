@@ -611,9 +611,9 @@
       "id": 18,
       "last_updated_time": "24/05/2020 10:40:24",
       "record_time": "Thu, 24 May 2020 07:54:14 GMT",
-      "recovered": 40,
+      "recovered": 38,
       "state": "Girne | Kyrenia",
-      "total": 40
+      "total": 38
     },
     {
       "active": 0,
@@ -653,9 +653,9 @@
       "id": 17,
       "last_updated_time": "24/05/2020 15:23:26",
       "record_time": "Thu, 24 May 2020 15:44:14 GMT",
-      "recovered": 0,
+      "recovered": 1,
       "state": "İskele | Trikomo",
-      "total": 0
+      "total": 1
     },
     {
       "active": 0,
@@ -667,9 +667,9 @@
       "id": 10,
       "last_updated_time": "24/05/2020 11:00:25",
       "record_time": "Thu, 24 May 2020 07:54:14 GMT",
-      "recovered": 0,
+      "recovered": 1,
       "state": "Karpaz | Karpasia",
-      "total": 0
+      "total": 1
     }
   ],
   "success": true,
