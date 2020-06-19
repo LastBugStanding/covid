@@ -437,9 +437,9 @@
     {
       "active": 1,
       "daily_active": 1,
-      "daily_deaths": 4,
+      "daily_deaths": 3,
       "daily_recovered": 103,
-      "daily_total": 108,
+      "daily_total": 1,
       "day": "04 May 2020",
       "deaths": 0,
       "id": 267,
