@@ -38,11 +38,11 @@
     },
     {
       "count": 16431,
-      "timestamp": "1588680000"
+      "timestamp": "1588723200"
     },
     {
       "count": 17786,
-      "timestamp": "1588766400"
+      "timestamp": "1588809600"
     },
     {
       "count": 19201,
@@ -445,7 +445,7 @@
       "id": 267,
       "record_time": "Sun, 10 May 2020 12:39:03 GMT",
       "recovered": 0,
-      "timestamp": "1588550400",
+      "timestamp": "1588593600",
       "total": 108
     },
     {
