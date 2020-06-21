@@ -976,9 +976,9 @@
     },
     {
       "active": 1050,
-      "daily_active": 1050,
+      "daily_active": 10,
       "daily_deaths": 0,
-      "daily_recovered": 10,
+      "daily_recovered": 1050,
       "daily_total": 1060,
       "day": "08 May 2020",
       "deaths": 0,
