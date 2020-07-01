@@ -15,18 +15,27 @@
   },
   "articles": [
     {
-      "body": "Başbakanlık’ta gerçekleştirilen programda gündeme ilişkin gazetecilerin sorularını yanıtlayan Tatar, gerek Güney gerekse Türkiye ile 1 Temmuz’da sınırların açılması noktasında  kararları olduğunu bunu daha erkene alma yönünde de çabaladıklarını ancak şartların önemli olduğunu söyledi.",
-      "headline": "Başbakan Tatar:Kapıların açılmasına karşı değiliz",
+      "body": "Ercan Havalimanında yeniden başlayan tarifeli seferler konusunu değerlendiren Bakan Pilli, bu açılımın eninde sonunda olması gerektiğini ve açılım kararının uzun uzun tartışma ve değerlendirilmelerin ardından hükümet tarafından alındığını kaydetti.",
+      "headline": "Pilli: İkinci dalgaya hazırız, yol haritası belirlendi",
       "id": 1,
-      "link": "https://haberkibris.com/basbakan-tatarkapilarin-acilmasina-karsi-degiliz-2310-2020-06-04.html",
+      "link": "https://www.brtk.net/pilli-ikinci-dalgaya-haziriz-yol-haritasi-belirlendi/",
+      "record_time": "01 Tem 20 3:05 PM",
+      "tags": "news"
+    },
+    
+    {
+      "body": "Türk Hava Yolları’nın ikisi bebek 167 yolcu ile İstanbul’dan gelen uçağı sabaha karşı 02.20’de Ercan Havalimanına indi. Ülkeye gelen yolcular, uçaktan indikten sonra pasaport işlemlerine girmeden, oluşturulan özel alanda form doldurarak PCR testine tabi tutulu.",
+      "headline": "Bugünden itibaren yurtdışından ülkeye gelişlerde yeni bir aşamaya geçildi",
+      "id": 2,
+      "link": "https://www.brtk.net/bugunden-itibaren-yurtdisindan-ulkeye-gelislerde-yeni-bir-asamaya-gecildi/",
       "record_time": "04 Haz 20 04:56 PM",
       "tags": "news"
     },
     {
-      "body": "Bayındırlık ve Ulaştırma Bakanı Tolga Atakan, 1 Temmuz’dan önce başlaması planlanan tarifeli uçuşların, 1 Temmuz tarihinde geçilmesi öngörülen yapı ile değil, ülkede halen yürürlükte olan giriş kuralları çerçevesinde düzenleceğini söyledi.",
-      "headline": "Atakan'dan 1 Temmuz’dan önceki uçuşlarla ilgili açıklama",
-      "id": 2,
-      "link": "https://haberkibris.com/atakandan-1-temmuzdan-onceki-ucuslarla-ilgili-aciklama-1914-2020-06-04.html",
+      "body": "Kovid-19 salgını önlemleri nedeniyle tarifeli seferlere kapalı olan Ercan Havalimanı’na 3 buçuk ay aradan sonra ilk tarifeli uçuş gerçekleşti.",
+      "headline": "Ercan Havalimanı’na 3 buçuk ay aradan sonra ilk tarifeli uçuş gerçekleşti",
+      "id": 3,
+      "link": "https://www.brtk.net/ercan-havalimanina-3-bucuk-ay-aradan-sonra-ilk-tarifeli-ucus-gerceklesti/",
       "record_time": "04 Haz 20 04:56 PM",
       "tags": "news"
     },
@@ -34,7 +43,7 @@
     {
       "body": "Bakanlar Kurulu’nun 1 Temmuz’dan sonra karantinasız gelişleri değerlendirme kararı aldığını ifade eden Ali Pilli, ülkeye girişte belli testler yapılacağını, dünyadaki uygulamaların takip edileceğini söyledi. ",
       "headline": "Sağlık Bakanı Pilli: 1 Temmuz’dan sonra karantinasız gelişleri değerlendirme kararı alındı",
-      "id": 3,
+      "id": 4,
       "link": "https://haberkibris.com/saglik-bakani-pilli-1-temmuzdan-sonra-karantinasiz-gelisleri-degerlendirme-karari-alindi-1554-2020-06-04.html",
       "record_time": "04 Haz 20 04:56 PM",
       "tags": "news"
@@ -43,7 +52,7 @@
     {
       "body": "Rum Sağlık bakanlığı bugün yaptığı açıklamada, son 24 saatte  1996 test yapıldığı yeni pozitif vakaya rastlanmadığını duyurdu.",
       "headline": "Güneyde bugün yeni vaka yok",
-      "id": 4,
+      "id": 5,
       "link": "https://haberkibris.com/guneyde-bugun-yeni-vaka-yok-1817-2020-06-04.html",
       "record_time": "04 Haz 20 04:56 PM",
       "tags": "news"
