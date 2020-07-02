@@ -1,6 +1,6 @@
 {
   "tests": 37817,
-  "active_diff": 3,
+  "active_diff": 0,
   "age": {
     "0-10": 0,
     "10-20": 0,
@@ -1228,7 +1228,7 @@
       "daily_active": 3,
       "daily_deaths": 4,
       "daily_recovered": 104,
-      "daily_total": 1,
+      "daily_total": 3,
       "day": "02 Jul 2020",
       "deaths": 0,
       "id": 52,
