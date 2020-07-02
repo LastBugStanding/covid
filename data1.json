@@ -1221,6 +1221,21 @@
       "recovered": 0,
       "timestamp": "1593561600",
       "total": 109
+    },
+
+    {
+      "active": 3,
+      "daily_active": 3,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 1,
+      "day": "02 Jul 2020",
+      "deaths": 0,
+      "id": 52,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1593648000",
+      "total": 111
     }
 
   ],
@@ -1402,17 +1417,17 @@
   ],
   "success": true,
   "summary": {
-    "active": 1,
+    "active": 3,
     "deaths": 4,
-    "delta_active": 0,
+    "delta_active": 2,
     "delta_deaths": 0,
     "delta_recovered": 0,
     "delta_total": 0,
     "id": 1,
-    "last_updated_time": "02/07/2020 15:00:23",
-    "record_time": "2020-07-02 15:00:14",
+    "last_updated_time": "02/07/2020 22:00:23",
+    "record_time": "2020-07-02 22:00:14",
     "recovered": 104,
-    "total": 109
+    "total": 111
   },
   "total_diff": 0,
   "undefinedage": 0
