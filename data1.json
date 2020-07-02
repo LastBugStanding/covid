@@ -1214,7 +1214,7 @@
       "daily_deaths": 4,
       "daily_recovered": 104,
       "daily_total": 0,
-      "day": "1 Jul 2020",
+      "day": "01 Jul 2020",
       "deaths": 0,
       "id": 51,
       "record_time": "Thu, 21 May 2020 01:09:15 GMT",
@@ -1275,7 +1275,7 @@
       "daily_total": 1060,
       "day": "08 May 2020",
       "deaths": 0,
-      "id": 5,
+      "id": 4,
       "record_time": "Sun, 10 May 2020 12:54:01 GMT",
       "recovered": 0,
       "timestamp": "1588896000",
@@ -1283,7 +1283,7 @@
     },
      {
       "active": 1050,
-      "daily_active": 10,
+      "daily_active": 11,
       "daily_deaths": 1,
       "daily_recovered": 1050,
       "daily_total": 1060,
@@ -1293,7 +1293,7 @@
       "record_time": "Sun, 10 May 2020 12:54:01 GMT",
       "recovered": 0,
       "timestamp": "1588896000",
-      "total": 1060
+      "total": 1061
     }
   ],
   "deaths_diff": 0,
