@@ -1,6 +1,6 @@
 {
   "tests": 37817,
-  "active_diff": 0,
+  "active_diff": 3,
   "age": {
     "0-10": 0,
     "10-20": 0,
@@ -1232,7 +1232,7 @@
       "day": "02 Jul 2020",
       "deaths": 0,
       "id": 52,
-      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "record_time": "Thu, 02 Jul 2020 01:09:15 GMT",
       "recovered": 0,
       "timestamp": "1593648000",
       "total": 111
@@ -1331,9 +1331,9 @@
   "recovered_diff": 0,
   "statewise": [
     {
-      "active": 1,
+      "active": 3,
       "deaths": 4,
-      "delta_active": 1,
+      "delta_active": 2,
       "delta_deaths": 0,
       "delta_recovered": 0,
       "delta_total": 0,
@@ -1342,7 +1342,7 @@
       "record_time": "Thu, 02 Jul 2020 08:24:14 GMT",
       "recovered": 40,
       "state": "Lefkoşa | Nicosia",
-      "total": 45
+      "total": 47
     },
     {
       "active": 0,
