@@ -1,5 +1,5 @@
 {
-  "tests": 38251,
+  "tests": 37817,
   "active_diff": 0,
   "age": {
     "0-10": 0,
@@ -1214,7 +1214,7 @@
       "daily_deaths": 4,
       "daily_recovered": 104,
       "daily_total": 0,
-      "day": "25 Jun 2020",
+      "day": "1 Jul 2020",
       "deaths": 0,
       "id": 51,
       "record_time": "Thu, 21 May 2020 01:09:15 GMT",
@@ -1284,7 +1284,7 @@
      {
       "active": 1050,
       "daily_active": 10,
-      "daily_deaths": 0,
+      "daily_deaths": 1,
       "daily_recovered": 1050,
       "daily_total": 1060,
       "day": "08 May 2020",
