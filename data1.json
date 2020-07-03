@@ -1,6 +1,6 @@
 {
-  "tests": 37817,
-  "active_diff": 3,
+  "tests": 40100,
+  "active_diff": 0,
   "age": {
     "0-10": 0,
     "10-20": 0,
@@ -15,44 +15,51 @@
   },
   "articles": [
     {
+      "body": "KKTC’de yapılan son koronavirüs test sonuçlarına göre,  havayolu ile gelen Kazakistan uyruklu bir kişinin daha PCR koronavirüs testi pozitif çıktı. Ülkemizde vaka sayısının 4'te çıktı. Kazakistan uyruklu yolcunun 24 saattir karantinada bulunduğu belirtildi. Kazakistan C  grubu ülke listesinde ve ülkeye Kazakistan'dan gelen yolcuların 14 gün süre ile karantina altında tutuluyor.",
+      "headline": "1 yeni pozitif  vaka daha tespit edildi",
+      "id": 1,
+      "link": "https://haberkibris.com/1-yeni-pozitif-daha-vaka-tespit-edildi-1122-2020-07-03_m.html",
+      "record_time": "03 Tem 20 12:35 PM",
+      "tags": "news"
+    },
+    {
       "body": "Ercan Havalimanında yeniden başlayan tarifeli seferler konusunu değerlendiren Bakan Pilli, bu açılımın eninde sonunda olması gerektiğini ve açılım kararının uzun uzun tartışma ve değerlendirilmelerin ardından hükümet tarafından alındığını kaydetti.",
       "headline": "Pilli: İkinci dalgaya hazırız, yol haritası belirlendi",
-      "id": 1,
+      "id": 2,
       "link": "https://www.brtk.net/pilli-ikinci-dalgaya-haziriz-yol-haritasi-belirlendi/",
       "record_time": "01 Tem 20 3:05 PM",
       "tags": "news"
     },
-    
     {
       "body": "Türk Hava Yolları’nın ikisi bebek 167 yolcu ile İstanbul’dan gelen uçağı sabaha karşı 02.20’de Ercan Havalimanına indi. Ülkeye gelen yolcular, uçaktan indikten sonra pasaport işlemlerine girmeden, oluşturulan özel alanda form doldurarak PCR testine tabi tutulu.",
       "headline": "Bugünden itibaren yurtdışından ülkeye gelişlerde yeni bir aşamaya geçildi",
-      "id": 2,
+      "id": 3,
       "link": "https://www.brtk.net/bugunden-itibaren-yurtdisindan-ulkeye-gelislerde-yeni-bir-asamaya-gecildi/",
-      "record_time": "04 Haz 20 04:56 PM",
+      "record_time": "01 Tem 20 10:00 AM",
       "tags": "news"
     },
     {
       "body": "Kovid-19 salgını önlemleri nedeniyle tarifeli seferlere kapalı olan Ercan Havalimanı’na 3 buçuk ay aradan sonra ilk tarifeli uçuş gerçekleşti.",
       "headline": "Ercan Havalimanı’na 3 buçuk ay aradan sonra ilk tarifeli uçuş gerçekleşti",
-      "id": 3,
+      "id": 4,
       "link": "https://www.brtk.net/ercan-havalimanina-3-bucuk-ay-aradan-sonra-ilk-tarifeli-ucus-gerceklesti/",
-      "record_time": "04 Haz 20 04:56 PM",
+      "record_time": "01 Tem 20 12:56 PM",
       "tags": "news"
     },
 
     {
       "body": "Bakanlar Kurulu’nun 1 Temmuz’dan sonra karantinasız gelişleri değerlendirme kararı aldığını ifade eden Ali Pilli, ülkeye girişte belli testler yapılacağını, dünyadaki uygulamaların takip edileceğini söyledi. ",
       "headline": "Sağlık Bakanı Pilli: 1 Temmuz’dan sonra karantinasız gelişleri değerlendirme kararı alındı",
-      "id": 4,
+      "id": 5,
       "link": "https://haberkibris.com/saglik-bakani-pilli-1-temmuzdan-sonra-karantinasiz-gelisleri-degerlendirme-karari-alindi-1554-2020-06-04.html",
-      "record_time": "04 Haz 20 04:56 PM",
+      "record_time": "25 Haz 20 04:56 PM",
       "tags": "news"
     },
 
     {
       "body": "Rum Sağlık bakanlığı bugün yaptığı açıklamada, son 24 saatte  1996 test yapıldığı yeni pozitif vakaya rastlanmadığını duyurdu.",
       "headline": "Güneyde bugün yeni vaka yok",
-      "id": 5,
+      "id": 6,
       "link": "https://haberkibris.com/guneyde-bugun-yeni-vaka-yok-1817-2020-06-04.html",
       "record_time": "04 Haz 20 04:56 PM",
       "tags": "news"
@@ -276,7 +283,13 @@
     {
       "count": 38820,
       "timestamp" : "1593648000"
+    },
+
+     {
+      "count": 40100,
+      "timestamp" : "1593734400"
     }
+    
   ],
   
   "daily_tests":[
@@ -503,6 +516,11 @@
     {
       "count": 596,
       "timestamp" : "1593648000"
+    },
+
+    {
+      "count": 1280,
+      "timestamp" : "1593734400"
     }
 
     
@@ -1246,7 +1264,23 @@
       "recovered": 0,
       "timestamp": "1593648000",
       "total": 111
+    },
+
+    {
+      "active": 4,
+      "daily_active": 1,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 5,
+      "day": "03 Jul 2020",
+      "deaths": 0,
+      "id": 53,
+      "record_time": "Fri, 03 Jul 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1593648000",
+      "total": 112
     }
+
 
   ],
   "dashboard_graphs": [
@@ -1337,22 +1371,22 @@
     }
   ],
   "message": "readings",
-  "num_days": 154,
+  "num_days": 155,
   "recovered_diff": 0,
   "statewise": [
     {
-      "active": 3,
+      "active": 4,
       "deaths": 4,
-      "delta_active": 2,
+      "delta_active": 1,
       "delta_deaths": 0,
       "delta_recovered": 0,
       "delta_total": 0,
-      "id": 11,
-      "last_updated_time": "02/07/2020 08:05:53",
-      "record_time": "Thu, 02 Jul 2020 08:24:14 GMT",
+      "id": 12,
+      "last_updated_time": "03/07/2020 08:05:53",
+      "record_time": "Fri, 03 Jul 2020 08:24:14 GMT",
       "recovered": 40,
       "state": "Lefkoşa | Nicosia",
-      "total": 47
+      "total": 48
     },
     {
       "active": 0,
@@ -1427,18 +1461,18 @@
   ],
   "success": true,
   "summary": {
-    "active": 3,
+    "active": 4,
     "deaths": 4,
-    "delta_active": 2,
+    "delta_active": 1,
     "delta_deaths": 0,
     "delta_recovered": 0,
     "delta_total": 0,
     "id": 1,
-    "last_updated_time": "02/07/2020 22:00:23",
-    "record_time": "2020-07-02 22:00:14",
+    "last_updated_time": "03/07/2020 22:00:23",
+    "record_time": "2020-07-03 22:00:14",
     "recovered": 104,
-    "total": 111
+    "total": 112
   },
-  "total_diff": 0,
+  "total_diff": 3,
   "undefinedage": 0
 }
