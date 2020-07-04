@@ -17,7 +17,33 @@
   ],
   "updates": [
    
-     
+     {
+      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 889  olduğunu,  1 pozitif vakanın tespit edildiğini açıkladı. Bakan Pilli, bugün yapılan 889test sonucuna göre 1 pozitif vaka tespit edildiğini,  vakanın havayolu ile ülkemize gelen TC uyruklu bir kişi olduğunu belirtti. Pilli, bugün çıkan 1 pozitif vaka ile birlikte ülkemizde vaka sayısının 5 ’e çıktığını söyledi.",
+      "headline": "Bakan Pilli:Toplam 889 test yapıldı, 1 pozitif vaka tespit edildi",
+      "id": 10,
+      "link": "https://www.brtk.net/bakan-pillitoplam-889-test-yapildi-1-pozitif-vaka-tespit-edildi/",
+      "record_time": "04 Tem 20 8:05 PM",
+      "tags": "news"
+    },
+
+    {
+      "body": "Güney Kıbrıs’ta son 24 saatte yapılan 1699 testle,3 yeni Covid-19 vakası tespit edildi. Böylece toplam vaka sayısı 1002’ye yükseldi.",
+      "headline": "Güney Kıbrıs’ta 3 yeni vaka!",
+      "id": 9,
+      "link": "https://www.brtk.net/guney-kibrista-3-yeni-vaka/",
+      "record_time": "04 Tem 20 3:05 PM",
+      "tags": "news"
+    },
+
+    {
+      "body": "KKTC’de yapılan son koronavirüs test sonuçlarına göre,  havayolu ile gelen Kazakistan uyruklu bir kişinin daha PCR koronavirüs testi pozitif çıktı. Ülkemizde vaka sayısının 4'te çıktı. Kazakistan uyruklu yolcunun 24 saattir karantinada bulunduğu belirtildi. Kazakistan C  grubu ülke listesinde ve ülkeye Kazakistan'dan gelen yolcuların 14 gün süre ile karantina altında tutuluyor.",
+      "headline": "1 yeni pozitif  vaka daha tespit edildi",
+      "id": 8,
+      "link": "https://haberkibris.com/1-yeni-pozitif-daha-vaka-tespit-edildi-1122-2020-07-03_m.html",
+      "record_time": "03 Tem 20 12:35 PM",
+      "tags": "news"
+    },
+
     {
       "body": "Ercan Havalimanında yeniden başlayan tarifeli seferler konusunu değerlendiren Bakan Pilli, bu açılımın eninde sonunda olması gerektiğini ve açılım kararının uzun uzun tartışma ve değerlendirilmelerin ardından hükümet tarafından alındığını kaydetti.",
       "headline": "Pilli: İkinci dalgaya hazırız, yol haritası belirlendi",
@@ -78,34 +104,7 @@
       "link": "https://haberkibris.com/guneyde-bugun-yeni-vaka-yok-1817-2020-06-04.html",
       "record_time": "04 Haz 20 04:56 PM",
       "tags": "news"
-    },
-
-    {
-      "body": "KKTC’de yapılan son koronavirüs test sonuçlarına göre,  havayolu ile gelen Kazakistan uyruklu bir kişinin daha PCR koronavirüs testi pozitif çıktı. Ülkemizde vaka sayısının 4'te çıktı. Kazakistan uyruklu yolcunun 24 saattir karantinada bulunduğu belirtildi. Kazakistan C  grubu ülke listesinde ve ülkeye Kazakistan'dan gelen yolcuların 14 gün süre ile karantina altında tutuluyor.",
-      "headline": "1 yeni pozitif  vaka daha tespit edildi",
-      "id": 8,
-      "link": "https://haberkibris.com/1-yeni-pozitif-daha-vaka-tespit-edildi-1122-2020-07-03_m.html",
-      "record_time": "03 Tem 20 12:35 PM",
-      "tags": "news"
-    },
-
-    {
-      "body": "Güney Kıbrıs’ta son 24 saatte yapılan 1699 testle,3 yeni Covid-19 vakası tespit edildi. Böylece toplam vaka sayısı 1002’ye yükseldi.",
-      "headline": "Güney Kıbrıs’ta 3 yeni vaka!",
-      "id": 9,
-      "link": "https://www.brtk.net/guney-kibrista-3-yeni-vaka/",
-      "record_time": "04 Tem 20 3:05 PM",
-      "tags": "news"
-    },
-
-    {
-      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 889  olduğunu,  1 pozitif vakanın tespit edildiğini açıkladı. Bakan Pilli, bugün yapılan 889test sonucuna göre 1 pozitif vaka tespit edildiğini,  vakanın havayolu ile ülkemize gelen TC uyruklu bir kişi olduğunu belirtti. Pilli, bugün çıkan 1 pozitif vaka ile birlikte ülkemizde vaka sayısının 5 ’e çıktığını söyledi.",
-      "headline": "Bakan Pilli:Toplam 889 test yapıldı, 1 pozitif vaka tespit edildi",
-      "id": 10,
-      "link": "https://www.brtk.net/bakan-pillitoplam-889-test-yapildi-1-pozitif-vaka-tespit-edildi/",
-      "record_time": "04 Tem 20 8:05 PM",
-      "tags": "news"
-    }
+    }   
    
   ]
 }
