@@ -1351,11 +1351,9 @@
       "id": 55,
       "record_time": "Mon, 06 Jul 2020 01:09:15 GMT",
       "recovered": 0,
-      "timestamp": "1593980000",
+      "timestamp": "1594051200",
       "total": 113
     }
-
-
   ],
   "dashboard_graphs": [
             {
@@ -1531,8 +1529,7 @@
       "recovered": 1,
       "state": "Karpaz | Karpasia",
       "total": 1
-    },
-
+    }
   ],
   "success": true,
   "summary": {
