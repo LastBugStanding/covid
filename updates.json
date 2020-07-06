@@ -18,9 +18,41 @@
   "updates": [
    
      {
+      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte yapılan test sayısının 1182 olduğunu, pozitif vakaya rastlanmadığını açıkladı.",
+      "headline": "Pilli: 1182 test yapıldı, pozitif vaka yok",
+      "id": 1,
+      "link": "https://haberkibris.com/pilli-1182-test-yapildi-pozitif-vaka-yok-1842-2020-07-06.html",
+      "record_time": "06 Tem 20 3:05 PM",
+      "tags": "news"
+    },
+	{
+      "body": "Sağlık Bakanlığı ülkeye giriş-çıkış ve güneye geçişlerle ilgili aldığı kararları açıkladı.",
+      "headline": "Sağlık Bakanlığı'ndan gece yarısı açıklaması",
+      "id": 2,
+      "link": "http://www.yeniduzen.com/saglik-bakanligindan-gece-yarisi-aciklamasi-128861h.htm",
+      "record_time": "05 Tem 20 3:05 PM",
+      "tags": "news"
+    },
+	{
+      "body": "Güney Kıbrıs’ta bazı haber ajanslarında yer alan haberlere göre bugün Güney Kıbrıs’ta görülen vaka Kuzey’den Güney’e geçen biri.",
+      "headline": "Rum Basını: Bugün tespit edilen vaka Kuzey'den geldi",
+      "id": 3,
+      "link": "https://haberkibris.com/rum-basini-bugun-tespit-edilen-vaka-kuzeyden-geldi-2215-2020-07-05.html",
+      "record_time": "05 Tem 20 3:05 PM",
+      "tags": "news"
+    },
+	{
+      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 664  olduğunu,  pozitif vakaya  rastlanmadığını açıkladı.",
+      "headline": "Pilli: Toplam 664 test yapıldı, pozitif vakaya rastlanmadı",
+      "id": 4,
+      "link": "https://haberkibris.com/pilli-toplam-664-test-yapildi-pozitif-vakaya-rastlanmadi-1941-2020-07-05.html",
+      "record_time": "05 Tem 20 3:05 PM",
+      "tags": "news"
+    },
+	{
       "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 889  olduğunu,  1 pozitif vakanın tespit edildiğini açıkladı. Bakan Pilli, bugün yapılan 889test sonucuna göre 1 pozitif vaka tespit edildiğini,  vakanın havayolu ile ülkemize gelen TC uyruklu bir kişi olduğunu belirtti. Pilli, bugün çıkan 1 pozitif vaka ile birlikte ülkemizde vaka sayısının 5 ’e çıktığını söyledi.",
       "headline": "Bakan Pilli:Toplam 889 test yapıldı, 1 pozitif vaka tespit edildi",
-      "id": 1,
+      "id": 5,
       "link": "https://www.brtk.net/bakan-pillitoplam-889-test-yapildi-1-pozitif-vaka-tespit-edildi/",
       "record_time": "04 Tem 20 8:05 PM",
       "tags": "news"
@@ -29,7 +61,7 @@
     {
       "body": "Güney Kıbrıs’ta son 24 saatte yapılan 1699 testle,3 yeni Covid-19 vakası tespit edildi. Böylece toplam vaka sayısı 1002’ye yükseldi.",
       "headline": "Güney Kıbrıs’ta 3 yeni vaka!",
-      "id": 2,
+      "id": 6,
       "link": "https://www.brtk.net/guney-kibrista-3-yeni-vaka/",
       "record_time": "04 Tem 20 3:05 PM",
       "tags": "news"
@@ -38,7 +70,7 @@
     {
       "body": "KKTC’de yapılan son koronavirüs test sonuçlarına göre,  havayolu ile gelen Kazakistan uyruklu bir kişinin daha PCR koronavirüs testi pozitif çıktı. Ülkemizde vaka sayısının 4'te çıktı. Kazakistan uyruklu yolcunun 24 saattir karantinada bulunduğu belirtildi. Kazakistan C  grubu ülke listesinde ve ülkeye Kazakistan'dan gelen yolcuların 14 gün süre ile karantina altında tutuluyor.",
       "headline": "1 yeni pozitif  vaka daha tespit edildi",
-      "id": 3,
+      "id": 7,
       "link": "https://haberkibris.com/1-yeni-pozitif-daha-vaka-tespit-edildi-1122-2020-07-03_m.html",
       "record_time": "03 Tem 20 12:35 PM",
       "tags": "news"
@@ -47,7 +79,7 @@
     {
       "body": "Ercan Havalimanında yeniden başlayan tarifeli seferler konusunu değerlendiren Bakan Pilli, bu açılımın eninde sonunda olması gerektiğini ve açılım kararının uzun uzun tartışma ve değerlendirilmelerin ardından hükümet tarafından alındığını kaydetti.",
       "headline": "Pilli: İkinci dalgaya hazırız, yol haritası belirlendi",
-      "id": 4,
+      "id": 8,
       "link": "https://www.brtk.net/pilli-ikinci-dalgaya-haziriz-yol-haritasi-belirlendi/",
       "record_time": "01 Tem 20 3:05 PM",
       "tags": "news"
@@ -56,7 +88,7 @@
     {
       "body": "Türk Hava Yolları’nın ikisi bebek 167 yolcu ile İstanbul’dan gelen uçağı sabaha karşı 02.20’de Ercan Havalimanına indi. Ülkeye gelen yolcular, uçaktan indikten sonra pasaport işlemlerine girmeden, oluşturulan özel alanda form doldurarak PCR testine tabi tutulu.",
       "headline": "Bugünden itibaren yurtdışından ülkeye gelişlerde yeni bir aşamaya geçildi",
-      "id": 5,
+      "id": 9,
       "link": "https://www.brtk.net/bugunden-itibaren-yurtdisindan-ulkeye-gelislerde-yeni-bir-asamaya-gecildi/",
       "record_time": "01 Tem 20 3:05 PM",
       "tags": "news"
@@ -64,7 +96,7 @@
     {
       "body": "Kovid-19 salgını önlemleri nedeniyle tarifeli seferlere kapalı olan Ercan Havalimanı’na 3 buçuk ay aradan sonra ilk tarifeli uçuş gerçekleşti.",
       "headline": "Ercan Havalimanı’na 3 buçuk ay aradan sonra ilk tarifeli uçuş gerçekleşti",
-      "id": 6,
+      "id": 10,
       "link": "https://www.brtk.net/ercan-havalimanina-3-bucuk-ay-aradan-sonra-ilk-tarifeli-ucus-gerceklesti/",
       "record_time": "01 Tem 20 3:05 PM",
       "tags": "news"
@@ -74,7 +106,7 @@
     {
       "body": "Başbakanlık’ta gerçekleştirilen programda gündeme ilişkin gazetecilerin sorularını yanıtlayan Tatar, gerek Güney gerekse Türkiye ile 1 Temmuz’da sınırların açılması noktasında  kararları olduğunu bunu daha erkene alma yönünde de çabaladıklarını ancak şartların önemli olduğunu söyledi.",
       "headline": "Başbakan Tatar:Kapıların açılmasına karşı değiliz",
-      "id": 7,
+      "id": 11,
       "link": "https://haberkibris.com/basbakan-tatarkapilarin-acilmasina-karsi-degiliz-2310-2020-06-04.html",
       "record_time": "04 Haz 20 04:56 PM",
       "tags": "news"
@@ -82,7 +114,7 @@
     {
       "body": "Bayındırlık ve Ulaştırma Bakanı Tolga Atakan, 1 Temmuz’dan önce başlaması planlanan tarifeli uçuşların, 1 Temmuz tarihinde geçilmesi öngörülen yapı ile değil, ülkede halen yürürlükte olan giriş kuralları çerçevesinde düzenleceğini söyledi.",
       "headline": "Atakan'dan 1 Temmuz’dan önceki uçuşlarla ilgili açıklama",
-      "id": 8,
+      "id": 12,
       "link": "https://haberkibris.com/atakandan-1-temmuzdan-onceki-ucuslarla-ilgili-aciklama-1914-2020-06-04.html",
       "record_time": "04 Haz 20 04:56 PM",
       "tags": "news"
@@ -91,7 +123,7 @@
     {
       "body": "Bakanlar Kurulu’nun 1 Temmuz’dan sonra karantinasız gelişleri değerlendirme kararı aldığını ifade eden Ali Pilli, ülkeye girişte belli testler yapılacağını, dünyadaki uygulamaların takip edileceğini söyledi. ",
       "headline": "Sağlık Bakanı Pilli: 1 Temmuz’dan sonra karantinasız gelişleri değerlendirme kararı alındı",
-      "id": 9,
+      "id": 13,
       "link": "https://haberkibris.com/saglik-bakani-pilli-1-temmuzdan-sonra-karantinasiz-gelisleri-degerlendirme-karari-alindi-1554-2020-06-04.html",
       "record_time": "04 Haz 20 04:56 PM",
       "tags": "news"
@@ -100,7 +132,7 @@
     {
       "body": "Rum Sağlık bakanlığı bugün yaptığı açıklamada, son 24 saatte  1996 test yapıldığı yeni pozitif vakaya rastlanmadığını duyurdu.",
       "headline": "Güneyde bugün yeni vaka yok",
-      "id": 10,
+      "id": 14,
       "link": "https://haberkibris.com/guneyde-bugun-yeni-vaka-yok-1817-2020-06-04.html",
       "record_time": "04 Haz 20 04:56 PM",
       "tags": "news"
