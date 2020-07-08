@@ -15,6 +15,30 @@
   },
   "articles": [
     {
+      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte yapılan test sayısının 778 olduğunu, 1 pozitif vakaya  rastlandığını açıkladı.",
+      "headline": "Pilli: Toplam 778 test yapıldı, 1 pozitif vakaya rastlandı",
+      "id": 1,
+      "link": "https://haberkibris.com/pilli-toplam-778-test-yapildi-1-pozitif-vakaya-rastlandi-1829-2020-07-08.html",
+      "record_time": "08 Tem 20 3:05 PM",
+      "tags": "news"
+    },
+	{
+      "body": "Bakanlar Kurulu, DNA laboratuvarlarında kullanılmak üzere 172 bin 500 ABD Doları değerinde 15 bin PCR test kiti alınmasını onayladı.",
+      "headline": "172 bin 500 ABD dolarlık 15 bin test kiti alındı",
+      "id": 2,
+      "link": "https://haberkibris.com/172-bin-500-abd-dolarlik-15-bin-test-kiti-alindi-1958-2020-07-08.html",
+      "record_time": "08 Tem 20 3:05 PM",
+      "tags": "news"
+    },
+	{
+      "body": "üney Kıbrıs’ta son 24 saatte yapılan 1691 testle 3 yeni pozitif Covid-19 vakası tespit edildi. Toplam vaka sayısı 1008’e ulaştı.",
+      "headline": "Güney Kıbrıs’ta 3 yeni vaka!",
+      "id": 3,
+      "link": "https://haberkibris.com/guney-kibrista-3-yeni-vaka-1742-2020-07-08.html",
+      "record_time": "08 Tem 20 3:05 PM",
+      "tags": "news"
+    },
+	{
       "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte yapılan test sayısının 991 olduğunu, pozitif vakaya rastlanmadığını açıkladı.",
       "headline": "Pilli: 991 test yapıldı, pozitif vakaya rastlanmadı",
       "id": 1,
@@ -36,30 +60,6 @@
       "id": 3,
       "link": "https://haberkibris.com/pilli-1182-test-yapildi-pozitif-vaka-yok-1842-2020-07-06.html",
       "record_time": "06 Tem 20 3:05 PM",
-      "tags": "news"
-    },
-	{
-      "body": "Sağlık Bakanlığı ülkeye giriş-çıkış ve güneye geçişlerle ilgili aldığı kararları açıkladı.",
-      "headline": "Sağlık Bakanlığı'ndan gece yarısı açıklaması",
-      "id": 4,
-      "link": "http://www.yeniduzen.com/saglik-bakanligindan-gece-yarisi-aciklamasi-128861h.htm",
-      "record_time": "05 Tem 20 3:05 PM",
-      "tags": "news"
-    },
-	{
-      "body": "Güney Kıbrıs’ta bazı haber ajanslarında yer alan haberlere göre bugün Güney Kıbrıs’ta görülen vaka Kuzey’den Güney’e geçen biri.",
-      "headline": "Rum Basını: Bugün tespit edilen vaka Kuzey'den geldi",
-      "id": 5,
-      "link": "https://haberkibris.com/rum-basini-bugun-tespit-edilen-vaka-kuzeyden-geldi-2215-2020-07-05.html",
-      "record_time": "05 Tem 20 3:05 PM",
-      "tags": "news"
-    },
-	{
-      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 664  olduğunu,  pozitif vakaya  rastlanmadığını açıkladı.",
-      "headline": "Pilli: Toplam 664 test yapıldı, pozitif vakaya rastlanmadı",
-      "id": 6,
-      "link": "https://haberkibris.com/pilli-toplam-664-test-yapildi-pozitif-vakaya-rastlanmadi-1941-2020-07-05.html",
-      "record_time": "05 Tem 20 3:05 PM",
       "tags": "news"
     }
   ],
