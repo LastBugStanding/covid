@@ -1383,6 +1383,21 @@
       "recovered": 0,
       "timestamp": "1594167100",
       "total": 113
+    },
+	
+	{
+      "active": 6,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 6,
+      "day": "08 Jul 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Wed, 08 Jul 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1594228100",
+      "total": 114
     }
   ],
   "dashboard_graphs": [
