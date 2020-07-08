@@ -1479,7 +1479,7 @@
     {
       "active": 6,
       "deaths": 4,
-      "delta_active": 6,
+      "delta_active": 1,
       "delta_deaths": 0,
       "delta_recovered": 0,
       "delta_total": 0,
@@ -1563,7 +1563,7 @@
   ],
   "success": true,
   "summary": {
-    "active": 5,
+    "active": 6,
     "deaths": 4,
     "delta_active": 1,
     "delta_deaths": 0,
@@ -1575,6 +1575,6 @@
     "recovered": 104,
     "total": 113
   },
-  "total_diff": 6,
+  "total_diff": 1,
   "undefinedage": 0
 }
