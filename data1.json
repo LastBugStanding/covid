@@ -1,6 +1,6 @@
 {
-  "tests": 42835,
-  "active_diff": 1182,
+  "tests": 43826,
+  "active_diff": 991,
   "age": {
     "0-10": 0,
     "10-20": 0,
@@ -301,6 +301,11 @@
 	{
       "count": 42835,
       "timestamp" : "1594051200"
+    },
+	
+	{
+      "count": 43826,
+      "timestamp" : "1594167100"
     }
 
     
@@ -550,6 +555,11 @@
 	{
       "count": 1182,
       "timestamp" : "1594051200"
+    },
+	
+	{
+      "count": 991,
+      "timestamp" : "1594167100"
     }
 
     
@@ -1353,6 +1363,21 @@
       "recovered": 0,
       "timestamp": "1594051200",
       "total": 113
+    },
+	
+	{
+      "active": 5,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 5,
+      "day": "07 Jul 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Tue, 07 Jul 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1594167100",
+      "total": 113
     }
   ],
   "dashboard_graphs": [
@@ -1540,8 +1565,8 @@
     "delta_recovered": 0,
     "delta_total": 0,
     "id": 1,
-    "last_updated_time": "06/07/2020 22:00:23",
-    "record_time": "2020-07-06 22:00:14",
+    "last_updated_time": "07/07/2020 22:00:23",
+    "record_time": "2020-07-07 22:00:14",
     "recovered": 104,
     "total": 113
   },
