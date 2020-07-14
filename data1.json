@@ -15,9 +15,17 @@
   },
   "articles": [
     {
+      "body": "İngiltere üzerinden Türkiye’ye oradan da ülkemize gelen KKTC vatandaşında korona virüs tespit edildi…",
+      "headline": "KKTC vatandaşı bir kişide korona virüs saptandı!",
+      "id": 1,
+      "link": "https://haberkibris.com/kktc-vatandasi-bir-kiside-korona-virus-saptandi-2241-2020-07-13.html",
+      "record_time": "13 Tem 20 3:05 PM",
+      "tags": "news"
+    },
+	{
       "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte yapılan test sayısının 1080 olduğunu,  1 pozitif vakaya rastlandığını  açıkladı.",
       "headline": "Pilli: 1 yeni pozitif vakaya rastlandı ",
-      "id": 1,
+      "id": 2,
       "link": "https://haberkibris.com/pilli-1-yeni-pozitif-vakaya-rastlandi-1811-2020-07-13.html",
       "record_time": "13 Tem 20 3:05 PM",
       "tags": "news"
@@ -25,7 +33,7 @@
 	{
       "body": "Güney Kıbrıs’ta bugün 942 test yapıldı 1 yeni korona virüs vakası tespit edildi.",
       "headline": "Güney Kıbrıs’ta 1 yeni vaka",
-      "id": 2,
+      "id": 3,
       "link": "https://haberkibris.com/guney-kibrista-1-yeni-vaka-1805-2020-07-13.html",
       "record_time": "13 Tem 20 3:05 PM",
       "tags": "news"
@@ -33,7 +41,7 @@
 	{
       "body": "Sağlık Bakanı Ali Pilli, Meclis'te eleştirileri yanıtlamak üzere söz alarak, “Herkes rahat olsun, Sağlık Bakanlığı olarak biz görevimizin başındayız ve sağlıktaki sorunları en iyi şekilde çözmeye çalışıyoruz. Halkımızın sağlığını en iyi şekilde koruyacağımızdan kimsenin endişesi olmasın” dedi. ",
       "headline": "KKTC’nin Covid 19 raporu milletvekillerine de sunulacak",
-      "id": 3,
+      "id": 4,
       "link": "https://haberkibris.com/kktcnin-covid-19-raporu-milletvekillerine-de-sunulacak-1633-2020-07-13.html",
       "record_time": "13 Tem 20 3:05 PM",
       "tags": "news"
@@ -41,7 +49,7 @@
 	{
       "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte yapılan test sayısının 743 olduğunu,  pozitif vakaya rastlanmadığını açıkladı.",
       "headline": "Bakan Pilli: Toplam 743 test yapıldı, pozitif vakaya rastlanmadı",
-      "id": 1,
+      "id": 5,
       "link": "https://haberkibris.com/bakan-pilli-toplam-743-test-yapildipozitif-vakaya-rastlanmadi-1902-2020-07-12.html",
       "record_time": "12 Tem 20 3:05 PM",
       "tags": "news"
@@ -49,16 +57,8 @@
 	{
       "body": "Sağlık Bakanlığı Pazar günü yaptığı açıklamada, bugün yapılan 1176 testte 7 pozitif vaka tespit edildiğini duyurdu.",
       "headline": "Güneyde 7 yeni vakaya: 5’i Kuzey’den geldi",
-      "id": 2,
+      "id": 6,
       "link": "https://haberkibris.com/guneyde-7-yeni-vakaya-5i-kuzeyden-geldi-1838-2020-07-12.html",
-      "record_time": "12 Tem 20 3:05 PM",
-      "tags": "news"
-    },
-	{
-      "body": "Rum Bilim Kurulu Üyesi, Lefkoşa Üniversitesi Mikrobiyoloji-Moleküler Viroloji Tıp Fakültesi Profesörü Petros Karayiannis, koronavirüs pandemisinde ikinci dalgaya hazırlıklı olduklarını söyledi",
-      "headline": "Karayiannis: Güney Kıbrıs ikinci dalgaya hazır",
-      "id": 3,
-      "link": "https://haberkibris.com/karayiannis-guney-kibris-ikinci-dalgaya-hazir-1707-2020-07-12.html",
       "record_time": "12 Tem 20 3:05 PM",
       "tags": "news"
     }
