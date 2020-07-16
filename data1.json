@@ -1760,6 +1760,7 @@
     "delta_recovered": 1,
     "delta_total": 0,
     "id": 1,
+    "active" : 8,
     "last_updated_time": "15/07/2020 22:00:23",
     "record_time": "2020-07-15 22:00:14",
     "recovered": 105,
