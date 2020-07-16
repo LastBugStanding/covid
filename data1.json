@@ -1634,7 +1634,7 @@
     },
      {
       "active": 1050,
-      "daily_active": 11,
+      "daily_active": 100,
       "daily_deaths": 1,
       "daily_recovered": 1050,
       "daily_total": 1060,
@@ -1644,7 +1644,7 @@
       "record_time": "Sun, 10 May 2020 12:54:01 GMT",
       "recovered": 0,
       "timestamp": "1588896000",
-      "total": 1061
+      "total": 1161
     }
   ],
   "deaths_diff": 0,
@@ -1663,8 +1663,8 @@
     }
   ],
   "message": "readings",
-  "num_days": 167,
-  "recovered_diff": 0,
+  "num_days": 169,
+  "recovered_diff": 1,
   "statewise": [
     {
       "active": 8,
