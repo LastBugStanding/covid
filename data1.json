@@ -1,6 +1,6 @@
 {
-  "tests": 56268,
-  "tests_diff": 1702,
+  "tests": 57882,
+  "tests_diff": 1614,
   "age": {
     "0-10": 0,
     "10-20": 0,
@@ -15,9 +15,25 @@
   },
   "articles": [
     {
+      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1614 olduğunu,  2  pozitif vakaya  rastlandığını açıkladı.",
+      "headline": "Bakan Pilli: Toplam 1614 test yapıldı, 2 pozitif vakaya rastlandı",
+      "id": 1,
+      "link": "https://haberkibris.com/bakan-pilli-toplam-1614-test-yapildi-2-pozitif-vakaya-rastlandi-1853-2020-07-20.html",
+      "record_time": "20 Tem 20 3:05 PM",
+      "tags": "news"
+    },
+	{
+      "body": "Güney Kıbrıs’ta son 24 saatte yapılan 1565 Covid-19 testinde hiçbir pozitif vakaya rastlanmadığı açıklandı.",
+      "headline": "Güney Kıbrıs’ta bugün pozitif vaka yok",
+      "id": 2,
+      "link": "https://haberkibris.com/guney-kibrista-bugun-pozitif-vaka-yok-1748-2020-07-20.html",
+      "record_time": "20 Tem 20 3:05 PM",
+      "tags": "news"
+    },
+	{
       "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1702 olduğunu,  3 pozitif vakaya  rastlandığını açıkladı.",
       "headline": "Bakan Pilli: Toplam 1702 test yapıldı, 3 pozitif vakaya rastlandı",
-      "id": 1,
+      "id": 3,
       "link": "https://haberkibris.com/bakan-pilli-toplam-1702-test-yapildi-3-pozitif-vakaya-rastlandi-1932-2020-07-19.html",
       "record_time": "19 Tem 20 3:05 PM",
       "tags": "news"
@@ -25,7 +41,7 @@
 	{
       "body": "Güney Kıbrıs'ta bir yeni koronavirüs vakası tespit edildi. Toplam vaka sayısı 1038'e yükseldi.",
       "headline": "Güney Kıbrıs'ta 1 yeni koronavirüs vakası",
-      "id": 2,
+      "id": 4,
       "link": "https://haberkibris.com/guney-kibrista-1-yeni-koronavirus-vakasi-1758-2020-07-19.html",
       "record_time": "19 Tem 20 3:05 PM",
       "tags": "news"
@@ -33,7 +49,7 @@
 	{
       "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte yapılan test sayısının 1582 olduğunu, 1 pozitif vakaya rastlandığını açıkladı",
       "headline": "Sağlık Bakanı Pilli: Toplam 1582 test yapıldı, 1 pozitif vakaya rastlandı",
-      "id": 3,
+      "id": 5,
       "link": "https://haberkibris.com/saglik-bakani-pilli-toplam-1582-test-yapildi1-pozitif-vakaya-rastlandi-1921-2020-07-18.html",
       "record_time": "18 Tem 20 3:05 PM",
       "tags": "news"
@@ -41,25 +57,9 @@
 	{
       "body": "Güney Kıbrıs’ta son 24 saatte yapılan bin 831 test sonucunda 4 yeni Kovid-19 vakası tespit edildi.",
       "headline": "Güney Kıbrıs’ta 4 yeni vaka!",
-      "id": 4,
+      "id": 6,
       "link": "https://haberkibris.com/guney-kibrista-4-yeni-vaka-1900-2020-07-18.html",
       "record_time": "18 Tem 20 3:05 PM",
-      "tags": "news"
-    },
-	{
-      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1602  olduğunu,  pozitif vakaya  rastlanmadığını açıkladı.",
-      "headline": "Bakan Pilli:Toplam 1602 test yapıldı, pozitif vakaya rastlanmadı",
-      "id": 5,
-      "link": "https://haberkibris.com/bakan-pillitoplam-1602-test-yapildipozitif-vakaya-rastlanmadi--1830-2020-07-17.html",
-      "record_time": "17 Tem 20 3:05 PM",
-      "tags": "news"
-    },
-	{
-      "body": "Güney Kıbrıs’ta bugün yapılan bir açıklamada son 24 saatte 1329 test yapıldı 2 yeni Covid -19 vakası tespit edildiği bildirildi",
-      "headline": "Güney Kıbrıs’ta 2 yeni vaka",
-      "id": 6,
-      "link": "https://haberkibris.com/guney-kibrista-2-yeni-vaka-1808-2020-07-17.html",
-      "record_time": "17 Tem 20 3:05 PM",
       "tags": "news"
     }
   ],
@@ -361,6 +361,11 @@
 	{
       "count": 56268,
       "timestamp" : "1595179000"
+    },
+	
+	{
+      "count": 57882,
+      "timestamp" : "1595281300"
     }
 
     
@@ -675,6 +680,11 @@
 	{
       "count": 1702,
       "timestamp" : "1595179000"
+    },
+	
+	{
+      "count": 1614,
+      "timestamp" : "1595281300"
     }
 
     
@@ -1673,6 +1683,21 @@
       "recovered": 0,
       "timestamp": "1595179000",
       "total": 121
+    },
+	
+	{
+      "active": 13,
+      "daily_active": 2,
+      "daily_deaths": 4,
+      "daily_recovered": 106,
+      "daily_total": 13,
+      "day": "20 Jul 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Mon, 20 Jul 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1595281300",
+      "total": 123
     }
   ],
   "dashboard_graphs": [
@@ -1763,22 +1788,22 @@
     }
   ],
   "message": "readings",
-  "num_days": 172,
+  "num_days": 174,
   "recovered_diff": 0,
   "statewise": [
     {
-      "active": 11,
+      "active": 13,
       "deaths": 4,
-      "delta_active": 3,
+      "delta_active": 2,
       "delta_deaths": 0,
       "delta_recovered": 0,
-      "delta_total": 3,
+      "delta_total": 2,
       "id": 12,
-      "last_updated_time": "19/07/2020 08:05:53",
-      "record_time": "Sun, 19 Jul 2020 08:24:14 GMT",
+      "last_updated_time": "20/07/2020 08:05:53",
+      "record_time": "Mon, 20 Jul 2020 08:24:14 GMT",
       "recovered": 42,
       "state": "Lefkoşa | Nicosia",
-      "total": 57
+      "total": 59
     },
     {
       "active": 0,
@@ -1853,20 +1878,20 @@
   ],
   "success": true,
   "summary": {
-    "active": 11,
+    "active": 13,
     "deaths": 4,
-    "delta_active": 3,
+    "delta_active": 2,
     "delta_deaths": 0,
     "delta_recovered": 0,
-    "delta_total": 3,
+    "delta_total": 2,
     "id": 1,
-    "active" : 8,
-    "last_updated_time": "19/07/2020 22:00:23",
-    "record_time": "2020-07-19 22:00:14",
+    "active" : 13,
+    "last_updated_time": "20/07/2020 22:00:23",
+    "record_time": "2020-07-20 22:00:14",
     "recovered": 106,
-    "total": 121
+    "total": 123
   },
-  "total_diff": 3,
+  "total_diff": 2,
   "undefinedage": 0,
-  "active_diff": 3
+  "active_diff": 2
 }
