@@ -15,6 +15,22 @@
   },
   "articles": [
     {
+      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 703 olduğunu,  1  pozitif vakaya  rastlandığını, vakanın hava yolu ile ülkemize geldiğini açıkladı.",
+      "headline": "Pilli: 1 pozitif vakaya rastlandı",
+      "id": 1,
+      "link": "https://haberkibris.com/pilli-1-pozitif-vakaya-rastlandi-1920-2020-07-23.html",
+      "record_time": "23 Tem 20 3:05 PM",
+      "tags": "news"
+    },
+	{
+      "body": "Güney Kıbrıs’ta bugün 1575 test yapıldı, 5 yeni korona virüs vakasına rastlandı.",
+      "headline": "Güney Kıbrıs’ta 5 yeni vaka",
+      "id": 2,
+      "link": "https://haberkibris.com/guney-kibrista-5-yeni-vaka-1728-2020-07-23.html",
+      "record_time": "23 Tem 20 3:05 PM",
+      "tags": "news"
+    },
+	{
       "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1142 olduğunu,  5  pozitif vakaya  rastlandığını açıkladı.",
       "headline": "Pilli: 5 pozitif vakaya rastlandı",
       "id": 1,
@@ -44,22 +60,6 @@
       "id": 4,
       "link": "https://haberkibris.com/guney-kibrista-2-yeni-vaka-1729-2020-07-21.html",
       "record_time": "21 Tem 20 3:05 PM",
-      "tags": "news"
-    },
-	{
-      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1614 olduğunu,  2  pozitif vakaya  rastlandığını açıkladı.",
-      "headline": "Bakan Pilli: Toplam 1614 test yapıldı, 2 pozitif vakaya rastlandı",
-      "id": 5,
-      "link": "https://haberkibris.com/bakan-pilli-toplam-1614-test-yapildi-2-pozitif-vakaya-rastlandi-1853-2020-07-20.html",
-      "record_time": "20 Tem 20 3:05 PM",
-      "tags": "news"
-    },
-	{
-      "body": "Güney Kıbrıs’ta son 24 saatte yapılan 1565 Covid-19 testinde hiçbir pozitif vakaya rastlanmadığı açıklandı.",
-      "headline": "Güney Kıbrıs’ta bugün pozitif vaka yok",
-      "id": 6,
-      "link": "https://haberkibris.com/guney-kibrista-bugun-pozitif-vaka-yok-1748-2020-07-20.html",
-      "record_time": "20 Tem 20 3:05 PM",
       "tags": "news"
     }
   ],
