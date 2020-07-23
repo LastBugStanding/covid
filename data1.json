@@ -1865,7 +1865,7 @@
   ],
   "message": "readings",
   "num_days": 176,
-  "recovered_diff": 0,
+  "recovered_diff": 3,
   "statewise": [
     {
       "active": 18,
