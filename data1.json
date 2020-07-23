@@ -1762,16 +1762,16 @@
     },
 	
 	{
-      "active": 21,
+      "active": 18,
       "daily_active": 1,
       "daily_deaths": 4,
-      "daily_recovered": 106,
-      "daily_total": 21,
+      "daily_recovered": 109,
+      "daily_total": 18,
       "day": "23 Jul 2020",
       "deaths": 0,
       "id": 55,
       "record_time": "Thu, 23 Jul 2020 01:09:15 GMT",
-      "recovered": 0,
+      "recovered": 3,
       "timestamp": "1595522100",
       "total": 131
     }
@@ -1868,16 +1868,16 @@
   "recovered_diff": 0,
   "statewise": [
     {
-      "active": 21,
+      "active": 18,
       "deaths": 4,
       "delta_active": 1,
       "delta_deaths": 0,
-      "delta_recovered": 0,
+      "delta_recovered": 3,
       "delta_total": 1,
       "id": 12,
       "last_updated_time": "23/07/2020 08:05:53",
       "record_time": "Thu, 23 Jul 2020 08:24:14 GMT",
-      "recovered": 42,
+      "recovered": 45,
       "state": "Lefkoşa | Nicosia",
       "total": 67
     },
@@ -1954,17 +1954,17 @@
   ],
   "success": true,
   "summary": {
-    "active": 21,
+    "active": 18,
     "deaths": 4,
     "delta_active": 1,
     "delta_deaths": 0,
-    "delta_recovered": 0,
+    "delta_recovered": 3,
     "delta_total": 1,
     "id": 1,
-    "active" : 21,
+    "active" : 18,
     "last_updated_time": "23/07/2020 22:00:23",
     "record_time": "2020-07-23 22:00:14",
-    "recovered": 106,
+    "recovered": 109,
     "total": 131
   },
   "total_diff": 1,
