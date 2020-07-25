@@ -31,9 +31,17 @@
       "tags": "news"
     },
 	{
+      "body": "Güney Kıbrıs'ta son 24 saatte yapılan 1682 test sonucunda 6 pozitif Covid-19 vakası saptandı.",
+      "headline": "Güneyde Bugün 6 Vaka Çıktı",
+      "id": 3,
+      "link": "https://haberkibris.com/guneyde-bugun-6-vaka-cikti-1816-2020-07-25.html",
+      "record_time": "25 Tem 20 3:05 PM",
+      "tags": "news"
+    },
+	{
       "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1150 olduğunu,   pozitif vakaya  rastlanmadığını açıkladı.",
       "headline": "Pilli: Toplam 1150 test yapıldı, pozitif vakaya rastlanmadı",
-      "id": 3,
+      "id": 4,
       "link": "https://haberkibris.com/pilli-toplam-1150-test-yapildi-pozitif-vakaya-rastlanmadi-1858-2020-07-24.html",
       "record_time": "24 Tem 20 3:05 PM",
       "tags": "news"
@@ -41,7 +49,7 @@
 	{
       "body": "Güney Kıbrıs’ta bugün 1047 test yapıldı 2 yeni korona virüs vakası tespit edildi.",
       "headline": "Güney Kıbrıs’ta 2 yeni vaka!",
-      "id": 4,
+      "id": 5,
       "link": "https://haberkibris.com/guney-kibrista-2-yeni-vaka-1737-2020-07-24.html",
       "record_time": "24 Tem 20 3:05 PM",
       "tags": "news"
@@ -49,16 +57,8 @@
 	{
       "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 703 olduğunu,  1  pozitif vakaya  rastlandığını, vakanın hava yolu ile ülkemize geldiğini açıkladı.",
       "headline": "Pilli: 1 pozitif vakaya rastlandı",
-      "id": 5,
-      "link": "https://haberkibris.com/pilli-1-pozitif-vakaya-rastlandi-1920-2020-07-23.html",
-      "record_time": "23 Tem 20 3:05 PM",
-      "tags": "news"
-    },
-	{
-      "body": "Güney Kıbrıs’ta bugün 1575 test yapıldı, 5 yeni korona virüs vakasına rastlandı.",
-      "headline": "Güney Kıbrıs’ta 5 yeni vaka",
       "id": 6,
-      "link": "https://haberkibris.com/guney-kibrista-5-yeni-vaka-1728-2020-07-23.html",
+      "link": "https://haberkibris.com/pilli-1-pozitif-vakaya-rastlandi-1920-2020-07-23.html",
       "record_time": "23 Tem 20 3:05 PM",
       "tags": "news"
     }
