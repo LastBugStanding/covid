@@ -1862,11 +1862,11 @@
     },
 	
 	{
-      "active": 20,
+      "active": 21,
       "daily_active": 1,
       "daily_deaths": 4,
       "daily_recovered": 109,
-      "daily_total": 20,
+      "daily_total": 21,
       "day": "27 Jul 2020",
       "deaths": 0,
       "id": 55,
@@ -1968,7 +1968,7 @@
   "recovered_diff": 0,
   "statewise": [
     {
-      "active": 21,
+      "active": 20,
       "deaths": 4,
       "delta_active": 1,
       "delta_deaths": 0,
