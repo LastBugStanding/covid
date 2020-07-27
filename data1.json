@@ -1973,7 +1973,7 @@
       "delta_active": 1,
       "delta_deaths": 0,
       "delta_recovered": 0,
-      "delta_total": 1,
+      "delta_total": 2,
       "id": 12,
       "last_updated_time": "27/07/2020 08:05:53",
       "record_time": "Mon, 27 Jul 2020 08:24:14 GMT",
@@ -2059,7 +2059,7 @@
     "delta_active": 1,
     "delta_deaths": 0,
     "delta_recovered": 0,
-    "delta_total": 1,
+    "delta_total": 2,
     "id": 1,
     "active" : 21,
     "last_updated_time": "27/07/2020 10:00:23",
@@ -2067,7 +2067,7 @@
     "recovered": 109,
     "total": 135
   },
-  "total_diff": 1,
+  "total_diff": 2,
   "undefinedage": 0,
   "active_diff": 1
 }
