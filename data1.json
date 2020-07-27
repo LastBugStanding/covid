@@ -1979,7 +1979,7 @@
       "record_time": "Mon, 27 Jul 2020 08:24:14 GMT",
       "recovered": 45,
       "state": "Lefkoşa | Nicosia",
-      "total": 71
+      "total": 70
     },
     {
       "active": 0,
@@ -2062,8 +2062,8 @@
     "delta_total": 2,
     "id": 1,
     "active" : 21,
-    "last_updated_time": "27/07/2020 10:00:23",
-    "record_time": "2020-07-27 10:00:14",
+    "last_updated_time": "27/07/2020 20:00:23",
+    "record_time": "2020-07-27 20:00:14",
     "recovered": 109,
     "total": 135
   },
