@@ -15,9 +15,25 @@
   },
   "articles": [
     {
+      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 857 olduğunu, 3 pozitif vakaya  rastlandığını  açıkladı.",
+      "headline": "Pilli: 3 pozitif vakaya rastlandı!",
+      "id": 1,
+      "link": "https://haberkibris.com/pilli-3-pozitif-vakaya-rastlandi-1936-2020-07-28.html",
+      "record_time": "28 Tem 20 8:05 PM",
+      "tags": "news"
+    },
+	{
+      "body": "Güney Kıbrıs’ta bugün akşam saatlerinde açıklanan 3 yeni koronavirüs vakasının ardından 4 vaka daha açıklandı.",
+      "headline": "Güney Kıbrıs’ta bugün tespit edilen vaka sayısı 7’ye çıktı",
+      "id": 2,
+      "link": "https://haberkibris.com/guney-kibrista-bugun-tespit-edilen-vaka-sayisi-7ye-cikti-2211-2020-07-28.html",
+      "record_time": "28 Tem 20 8:05 PM",
+      "tags": "news"
+    },
+	{
       "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte yapılan test sayısının 1391 olduğunu, 2 pozitif vakaya  rastlandığını  açıkladı.",
       "headline": "Pilli: Durumun ciddiyetinin farkında olalım, sağlığımız için kurallara uyalım",
-      "id": 1,
+      "id": 3,
       "link": "https://haberkibris.com/pilli-durumun-ciddiyetinin-farkinda-olalim-sagligimiz-icin-kurallara-uyalim-2030-2020-07-27.html",
       "record_time": "27 Tem 20 8:05 PM",
       "tags": "news"
@@ -25,7 +41,7 @@
 	{
       "body": "Güney Kıbrıs’ta bugün 1855 test yapıldı, 3 yeni korona virüs vakası tespit edildi.",
       "headline": "Güney Kıbrıs’ta 3 yeni vaka",
-      "id": 2,
+      "id": 4,
       "link": "https://haberkibris.com/guney-kibrista-3-yeni-vaka-1814-2020-07-27.html",
       "record_time": "27 Tem 20 8:05 PM",
       "tags": "news"
@@ -33,7 +49,7 @@
 	{
       "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1021 olduğunu, pozitif vakaya rastlanmadığını açıkladı.",
       "headline": "Bakan Pilli: Toplam 1021 test yapıldı, pozitif vaka yok",
-      "id": 3,
+      "id": 5,
       "link": "https://haberkibris.com/bakan-pilli-toplam-1021-test-yapildi-pozitif-vaka-yok-1824-2020-07-26.html",
       "record_time": "26 Tem 20 8:05 PM",
       "tags": "news"
@@ -41,25 +57,9 @@
 	{
       "body": "Güney Kıbrıs Sağlık Bakanlığı tarafından yapılan açıklamada, bugün 912 test yapıldığı ve 4 yeni vakaya rastlandığı duyuruldu.",
       "headline": "Güney Kıbrıs’ta 4 yeni vaka",
-      "id": 4,
+      "id": 6,
       "link": "https://haberkibris.com/guney-kibrista-4-yeni-vaka-1738-2020-07-26.html",
       "record_time": "26 Tem 20 8:05 PM",
-      "tags": "news"
-    },
-	{
-      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1179 olduğunu,  2 pozitif vakaya  rastlandığını açıkladı.",
-      "headline": "Bakan Pilli: Toplam 1179 test yapıldı, 2 pozitif vakaya rastlandı",
-      "id": 5,
-      "link": "https://haberkibris.com/bakan-pilli-toplam-1179-test-yapildi-2-pozitif-vakaya-rastlandi-1745-2020-07-25.html",
-      "record_time": "25 Tem 20 8:05 PM",
-      "tags": "news"
-    },
-	{
-      "body": "Ulusal Birlik Partisi Genel Başkanı ve Başbakan Ersin Tatar, “ne Türkiye ne de Güney Kıbrıs’tan gelenlere 7 gün karantina uygulanması gibi bir durumun söz konusu olmadığını belirtti.",
-      "headline": "Başbakan Tatar: 7 gün karantina yok",
-      "id": 6,
-      "link": "https://haberkibris.com/basbakan-tatar-7-gun-karantina-yok-1711-2020-07-25.html",
-      "record_time": "25 Tem 20 8:05 PM",
       "tags": "news"
     }
   ],
