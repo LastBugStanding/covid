@@ -2276,7 +2276,7 @@
       "id": 55,
       "record_time": "Wed, 12 Aug 2020 01:09:15 GMT",
       "recovered": 0,
-      "timestamp": "1597300503",
+      "timestamp": "1597309448",
       "total": 185
     }
 	
@@ -2468,8 +2468,8 @@
     "delta_total": 4,
     "id": 1,
     "active" : 43,
-    "last_updated_time": "13/08/2020 10:25:20",
-    "record_time": "2020-08-13 10:25:14",
+    "last_updated_time": "13/08/2020 12:05:20",
+    "record_time": "2020-08-13 12:05:14",
     "recovered": 138,
     "total": 185
   },
