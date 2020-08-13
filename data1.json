@@ -1,6 +1,6 @@
 {
-  "tests": 88926,
-  "tests_diff": 1778,
+  "tests": 90315,
+  "tests_diff": 1389,
   "age": {
     "0-10": 0,
     "10-20": 0,
@@ -485,6 +485,11 @@
 	{
       "count": 88926,
       "timestamp" : "1597300503"
+    },
+	
+	{
+      "count": 90315,
+      "timestamp" : "1597336519"
     }
 
     
@@ -919,6 +924,11 @@
 	{
       "count": 1778,
       "timestamp" : "1597300503"
+    },
+	
+	{
+      "count": 1389,
+      "timestamp" : "1597336519"
     }
 
 
@@ -2278,6 +2288,21 @@
       "recovered": 0,
       "timestamp": "1597309448",
       "total": 185
+    },
+	
+	{
+      "active": 49,
+      "daily_active": 6,
+      "daily_deaths": 4,
+      "daily_recovered": 138,
+      "daily_total": 49,
+      "day": "13 Aug 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Thu, 13 Aug 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1597336519",
+      "total": 191
     }
 	
 	
@@ -2370,22 +2395,22 @@
     }
   ],
   "message": "readings",
-  "num_days": 196,
+  "num_days": 197,
   "recovered_diff": 0,
   "statewise": [
     {
-      "active": 43,
+      "active": 49,
       "deaths": 4,
-      "delta_active": 2,
+      "delta_active": 6,
       "delta_deaths": 0,
-      "delta_recovered": 1,
+      "delta_recovered": 0,
       "delta_total": 4,
       "id": 12,
-      "last_updated_time": "12/08/2020 08:05:53",
-      "record_time": "Wed, 12 Aug 2020 08:24:14 GMT",
+      "last_updated_time": "13/08/2020 08:05:53",
+      "record_time": "Thu, 13 Aug 2020 08:24:14 GMT",
       "recovered": 74,
       "state": "Lefkoşa | Nicosia",
-      "total": 121
+      "total": 129
     },
     {
       "active": 0,
@@ -2460,20 +2485,20 @@
   ],
   "success": true,
   "summary": {
-    "active": 43,
+    "active": 49,
     "deaths": 4,
-    "delta_active": 2,
+    "delta_active": 6,
     "delta_deaths": 0,
-    "delta_recovered": 1,
+    "delta_recovered": 0,
     "delta_total": 4,
     "id": 1,
-    "active" : 43,
-    "last_updated_time": "13/08/2020 12:05:20",
-    "record_time": "2020-08-13 12:05:14",
+    "active" : 49,
+    "last_updated_time": "13/08/2020 19:57:20",
+    "record_time": "2020-08-13 19:57:14",
     "recovered": 138,
-    "total": 185
+    "total": 191
   },
-  "total_diff": 2,
+  "total_diff": 6,
   "undefinedage": 0,
-  "active_diff": 2
+  "active_diff": 6
 }
