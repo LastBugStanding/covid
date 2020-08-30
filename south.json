@@ -1,59 +1,61 @@
 {
-	"tests": 111617,
-	"test_diff": 100,
-	"articles": [
-		{
-	  "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1503 olduğunu, 4 pozitif vakaya  rastlandığını, 6 kişinin taburcu edildiğini açıkladı.",
-      "headline": "Pilli:Toplam 1503 test yapıldı, 4 pozitif vakaya rastlandı, 6 kişi taburcu edildi.",
+  "tests": 116383,
+  "tests_diff": 1723,
+  "information": [
+    
+	{
+      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1723 olduğunu, 10 pozitif vakaya  rastlandığını, 7 kişinin taburcu edildiğini açıkladı.",
+      "headline": "Pilli:Toplam 1723  test yapıldı, 10  pozitif vakaya rastlandı, 7 kişi taburcu edildi.",
       "id": 1,
-      "link": "https://www.brtk.net/bakan-pillitoplam-1503-test-yapildi-4-pozitif-vakaya-rastlandi-6-kisi-taburcu-edildi/",
-      "record_time": "25 Ağu 20 6:22 PM",
+      "link": "https://www.brtk.net/bakan-pillitoplam-1723-test-yapildi-10-pozitif-vakaya-rastlandi-7-kisi-taburcu-edildi/",
+      "record_time": "28 Ağu 20 7:11 PM",
       "tags": "news"
-		},
-		{
-      "body": "Güney Kıbrıs Sağlık Bakanlığı, bugün 2769 test yapıldığını ve 14 yeni Koronavirüs pozitif vakaya rastlandığını duyurdu. ",
+    },
+	{
+      "body": "Güney Kıbrıs Sağlık Bakanlığı tarafından yapılan açıklamada bugün 2917 PCR testi yapıldığı ve 14 yeni Koronavirüs pozitif vakanın tespit edildiği duyuruldu.",
       "headline": "Güney Kıbrıs'ta 14 yeni vaka!",
       "id": 2,
-      "link": "https://www.brtk.net/guney-kibrista-14-yeni-vaka-5/",
-      "record_time": "25 Ağu 20 6:19 PM",
+      "link": "https://www.brtk.net/guney-kibrista-14-yeni-vaka-6/",
+      "record_time": "28 Ağu 20 6:05 PM",
       "tags": "news"
     },
 	{
-      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte yapılan test sayısının 1922 olduğunu, 6 pozitif vakaya rastlandığını, 6 kişinin taburcu edildiğini açıkladı.",
-      "headline": "Pilli:6 pozitif vakaya rastlandı, 6 kişi taburcu edildi ",
+      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1592 olduğunu, 1 pozitif vakaya  rastlandığını, 10 kişinin taburcu edildiğini açıkladı.",
+      "headline": "Pilli: Toplam 1592 test yapıldı, 1 pozitif vakaya rastlandı,10 kişi taburcu edildi.",
       "id": 3,
-      "link": "https://www.brtk.net/bakan-pillitoplam-1922-test-yapildi-6-pozitif-vakaya-rastlandi-6-kisi-taburcu-edildi/",
-      "record_time": "24 Ağu 20 7:06 PM",
+      "link": "https://www.brtk.net/bakan-pilli-toplam-1592-test-yapildi-1-pozitif-vakaya-rastlandi10-kisi-taburcu-edildi/",
+      "record_time": "27 Ağu 20 7:25 PM",
       "tags": "news"
     },
 	{
-      "body": "Güney Kıbrıs’ta son 24 saatte gerçekleştirilen 3 bin 176 test sonucunda toplam 39 yeni Covid-19 vakası tespit edildi",
-      "headline": "Güney'de 39 yeni vaka!",
+      "body": "Güney Kıbrıs Sağlık Bakanlığı bugün 2 bin 755 PCR testi yapıldığını ve 11 yeni Koronavirüs pozitif vakaya rastlandığını duyurdu.",
+      "headline": "Güney'de 11 yeni vaka!",
       "id": 4,
-      "link": "https://www.brtk.net/guney-kibrista-39-yeni-vaka/",
-      "record_time": "24 Ağu 20 6:47 PM",
+      "link": "https://www.brtk.net/guney-kibrista-11-yeni-vaka-4/",
+      "record_time": "27 Ağu 20 5:58 PM",
       "tags": "news"
     },
 	{
-      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1181 olduğunu, 8 pozitif vakaya  rastlandığını, 4 kişinin taburcu edildiğini açıkladı.",
-      "headline": "Pilli:Toplam 1181 test yapıldı, 8 pozitif vakaya rastlandı, 4 kişi taburcu edildi",
+      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1451 olduğunu, 19 pozitif vakaya  rastlandığını, 2 kişinin taburcu edildiğini açıkladı.",
+      "headline": "Pilli:Toplam 1451 test yapıldı, 19 pozitif vakaya rastlandı, 2 kişi taburcu edildi.",
       "id": 5,
-      "link": "https://www.brtk.net/bakan-pillitoplam-1181-test-yapildi-8-pozitif-vakaya-rastlandi-4-kisi-taburcu-edildi/",
-      "record_time": "23 Ağu 20 6:46 PM",
+      "link": "https://www.brtk.net/bakan-pillitoplam-1451-test-yapildi-19-pozitif-vakaya-rastlandi-2-kisi-taburcu-edildi/",
+      "record_time": "26 Ağu 20 7:46 PM",
       "tags": "news"
     },
 	{
-      "body": "Güney Kıbrıs’ta son 24 saatte gerçekleştirilen 3 bin 281 test sonucunda 4 yeni Covid-19 vakası daha tespit edildi.",
-      "headline": "Güney'de 4 yeni vaka!",
+      "body": "Güney Kıbrıs’ta son 24 saatte yapılan 3 bin 207 test sonucunda 10 yeni vaka belirlendi. Toplam vaka sayısı 1484 oldu.",
+      "headline": "Güney'de 10 yeni vaka!",
       "id": 6,
-      "link": "https://www.brtk.net/guney-kibrista-4-yeni-vaka-4/",
-      "record_time": "23 Ağu 20 6:12 PM",
+      "link": "https://www.brtk.net/guney-kibrista-10-yeni-vaka-2/",
+      "record_time": "26 Ağu 20 6:18 PM",
       "tags": "news"
     }
-
-	],
-
-	"cumulative_confirmed": [
+	
+	
+	
+  ],
+  "cumulative_confirmed": [
     {
       "count": 15428,
       "timestamp": "1588593600"
@@ -65,23 +67,1014 @@
     {
       "count": 17786,
       "timestamp": "1588809600"
+    },
+    {
+      "count": 19201,
+      "timestamp": "1588809600"
+    },
+    {
+      "count": 21076,
+      "timestamp": "1588896000"
+    },
+    {
+      "count": 23064,
+      "timestamp": "1588982400"
+    },
+    {
+      "count": 24044,
+      "timestamp": "1589068800"
+    },
+    {
+      "count": 26073,
+      "timestamp": "1589241600"
+    },
+    {
+      "count": 27633,
+      "timestamp": "1589328000"
+    },
+    {
+      "count": 28621,
+      "timestamp": "1589414400"
+    },
+    {
+      "count": 30025,
+      "timestamp": "1589500800"
+    },
+    {
+      "count": 30228,
+      "timestamp": "1589587200"
+    },
+    {
+      "count": 30295,
+      "timestamp": "1589673600"
+    },
+    {
+      "count": 30496,
+      "timestamp": "1589760000"
+    },
+    {
+      "count": 30797,
+      "timestamp": "1589932800"
+    },
+    {
+      "count": 30902,
+      "timestamp": "  1590019200"
+    },
+    {
+      "count": 30954,
+      "timestamp": "1590105600"
+    },
+    {
+      "count": 31005,
+      "timestamp": "1590192000"
+    },
+    {
+      "count": 31039,
+      "timestamp": "1590278400"
+    },
+    {
+      "count": 31063,
+      "timestamp": "1590364800"
+    },
+    {
+      "count": 31162,
+      "timestamp": "1590537600"
+    },
+    {
+      "count": 31204,
+      "timestamp": "1590624000"
+    },
+    {
+      "count": 31290,
+      "timestamp": "1590710400"
+    },
+    {
+      "count": 31346,
+      "timestamp": "1590796800"
+    },
+    {
+      "count": 31915,
+      "timestamp": "1590969600"
+    },
+    {
+      "count": 32228,
+      "timestamp": "1591056000"
+    },
+    {
+      "count": 32466,
+      "timestamp": "1591142400"
+    },
+    {
+      "count": 33008,
+      "timestamp": "1591228800"
+    },
+    {
+      "count": 33140,
+      "timestamp": "1591315200"
+    },
+    {
+      "count": 33432,
+      "timestamp": "1591401600"
+    },
+    {
+      "count": 33456,
+      "timestamp": "1591488000"
+    },
+    {
+      "count": 33500,
+      "timestamp": "1591574400"
+    },
+    {
+      "count": 33553,
+      "timestamp": "1591660800"
+    },
+    {
+      "count": 33601,
+      "timestamp": "1591747200"
+    },
+    {
+      "count": 33630,
+      "timestamp": "1591833600"
+    },
+    {
+      "count": 33709,
+      "timestamp": "1591920000"
+    },
+    {
+      "count": 33730,
+      "timestamp": "1592006400"
+    },
+    {
+      "count": 33895,
+      "timestamp": "1592179200"
+    },
+    {
+      "count": 34125,
+      "timestamp": "1592265600"
+    },
+    {
+      "count": 34211,
+      "timestamp": "1592352000"
+    },
+    
+    {
+      "count": 35445,
+      "timestamp": "1592611200"
+    },
+    
+    {
+      "count": 36008,
+      "timestamp" : "1592697600"
+    },
+    
+    {
+      "count": 36084,
+      "timestamp" : "1592784000"
+    },
+    {
+      "count": 36210,
+      "timestamp" : "1592870400"
+    },
+
+    {
+      "count": 36517,
+      "timestamp" : "1592956800"
+    },
+    {
+      "count": 36700,
+      "timestamp" : "1593043200"
+    },
+
+    {
+      "count": 37116,
+      "timestamp" : "1593216000"
+    },
+
+    {
+      "count": 37149,
+      "timestamp" : "1593302400"
+    },
+
+    {
+      "count": 37215,
+      "timestamp" : "1593388800"
+    },
+
+    {
+      "count": 37817,
+      "timestamp" : "1593475200"
+    },
+
+    {
+      "count": 38251,
+      "timestamp" : "1593561600"
+    },
+
+    {
+      "count": 38820,
+      "timestamp" : "1593648000"
+    },
+
+    {
+      "count": 40100,
+      "timestamp" : "1593734400"
+    },
+
+    {
+      "count": 40989,
+      "timestamp" : "1593820800"
+    },
+	
+	{
+      "count": 41653,
+      "timestamp" : "1593980000"
+    },
+	
+	{
+      "count": 42835,
+      "timestamp" : "1594051200"
+    },
+	
+	{
+      "count": 43826,
+      "timestamp" : "1594167100"
+    },
+	
+	{
+      "count": 45383,
+      "timestamp" : "1594320500"
+    },
+	
+	{
+      "count": 46486,
+      "timestamp" : "1594399400"
+    },
+	
+	{
+      "count": 46914,
+      "timestamp" : "1594504900"
+    },
+	
+	{
+      "count": 47657,
+      "timestamp" : "1594572300"
+    },
+	
+	{
+      "count": 48737,
+      "timestamp" : "1594653900"
+    },
+	
+	{
+      "count": 49290,
+      "timestamp" : "1594755600"
+    },
+	
+	{
+      "count": 50333,
+      "timestamp" : "1594830400"
+    },
+	
+	{
+      "count": 51382,
+      "timestamp" : "1594943000"
+    },
+	
+	{
+      "count": 52984,
+      "timestamp" : "1595000300"
+    },
+	
+	{
+      "count": 54566,
+      "timestamp" : "1595117900"
+    },
+	
+	{
+      "count": 56268,
+      "timestamp" : "1595179000"
+    },
+	
+	{
+      "count": 57882,
+      "timestamp" : "1595281300"
+    },
+	
+	{
+      "count": 58883,
+      "timestamp" : "1595348200"
+    },
+	
+	{
+      "count": 60025,
+      "timestamp" : "1595428000"
+    },
+	
+	{
+      "count": 60728,
+      "timestamp" : "1595522100"
+    },
+	
+	{
+      "count": 61878,
+      "timestamp" : "1595612400"
+    },
+	
+	{
+      "count": 63057,
+      "timestamp" : "1595689000"
+    },
+	
+	{
+      "count": 64028,
+      "timestamp" : "1595814000"
+    },
+	
+	{
+      "count": 65419,
+      "timestamp" : "1595880000"
+    },
+	
+	{
+      "count": 66276,
+      "timestamp" : "1595982000"
+    },
+	
+	{
+      "count": 67719,
+      "timestamp" : "1596053100"
+    },
+	
+	{
+      "count": 68800,
+      "timestamp" : "1596139500"
+    },
+	
+	{
+      "count": 70012,
+      "timestamp" : "1596225900"
+    },
+	
+	{
+      "count": 71454,
+      "timestamp" : "1596312300"
+    },
+	
+	{
+      "count": 72985,
+      "timestamp" : "1596398700"
+    },
+	
+	{
+      "count": 74517,
+      "timestamp" : "1596470600"
+    },
+	
+	{
+      "count": 75755,
+      "timestamp" : "1596636200"
+    },
+	
+	{
+      "count": 76975,
+      "timestamp" : "1596648800"
+    },
+	
+	{
+      "count": 77968,
+      "timestamp" : "1596741300"
+    },
+	
+	{
+      "count": 79819,
+      "timestamp" : "1596825600"
+    },
+	
+	{
+      "count": 81341,
+      "timestamp" : "1596915000"
+    },
+	
+	{
+      "count": 83301,
+      "timestamp" : "1597003200"
+    },
+	
+	{
+      "count": 85581,
+      "timestamp" : "1597176000"
+    },
+	
+	{
+      "count": 87148,
+      "timestamp" : "1597213981"
+    },
+	
+	{
+      "count": 88926,
+      "timestamp" : "1597300503"
+    },
+	
+	{
+      "count": 90315,
+      "timestamp" : "1597336519"
+    },
+	
+	{
+      "count": 92399,
+      "timestamp" : "1597475928"
+    },
+	
+	{
+      "count": 94411,
+      "timestamp" : "1597532400"
+    },
+	
+	{
+      "count": 95825,
+      "timestamp" : "1597601012"
+    },
+	
+	{
+      "count": 98237,
+      "timestamp" : "1597689207"
+    },
+	
+	{
+      "count": 99932,
+      "timestamp" : "1597782439"
+    },
+	
+	{
+      "count": 101241,
+      "timestamp" : "1597857326"
+    },
+	
+	{
+      "count": 102964,
+      "timestamp" : "1597955547"
+    },
+	
+	{
+      "count": 104941,
+      "timestamp" : "1598050800"
+    },
+	
+	{
+      "count": 107011,
+      "timestamp" : "1598116602"
+    },
+	
+	{
+      "count": 108192,
+      "timestamp" : "1598223600"
+    },
+	
+	{
+      "count": 110114,
+      "timestamp" : "1598294624"
+    },
+	
+	{
+      "count": 111617,
+      "timestamp" : "1598396400"
+    },
+	
+	{
+      "count": 113068,
+      "timestamp" : "1598482800"
+    },
+	
+	{
+      "count": 114660,
+      "timestamp" : "1598548371"
+    },
+	
+	{
+      "count": 116383,
+      "timestamp" : "1598655600"
     }
-],
 
-	"daily_tests" : [
-		{
-			"count": 100,
-			"timestamp": "1588593600"
-		},
+    
+  ],
+  
+  "daily_tests":[
+   {
+      "count": 1419,
+      "timestamp": "1588593600"
+    },
+    {
+      "count": 1003,
+      "timestamp": "1588723200"
+    },
+    {
+      "count": 1355,
+      "timestamp": "1588809600"
+    },
+    {
+      "count": 1415,
+      "timestamp": "1588809600"
+    },
+    {
+      "count": 1875,
+      "timestamp": "1588896000"
+    },
+    {
+      "count": 1988,
+      "timestamp": "1588982400"
+    },
+    {
+      "count": 980,
+      "timestamp": "1589068800"
+    },
+    {
+      "count": 1016,
+      "timestamp": "1589241600"
+    },
+    {
+      "count": 1560,
+      "timestamp": "1589328000"
+    },
+    {
+      "count": 988,
+      "timestamp": "1589414400"
+    },
+    {
+      "count": 1404,
+      "timestamp": "1589500800"
+    },
+    {
+      "count": 203,
+      "timestamp": "1589587200"
+    },
+    {
+      "count": 67,
+      "timestamp": "1589673600"
+    },
+    {
+      "count": 201,
+      "timestamp": "1589760000"
+    },
+    {
+      "count": 193,
+      "timestamp": "1589932800"
+    },
+    {
+      "count": 105,
+      "timestamp": "  1590019200"
+    },
+    {
+      "count": 52,
+      "timestamp": "1590105600"
+    },
+    {
+      "count": 51,
+      "timestamp": "1590192000"
+    },
+    {
+      "count": 34,
+      "timestamp": "1590278400"
+    },
+    {
+      "count": 24,
+      "timestamp": "1590364800"
+    },
+    {
+      "count": 42,
+      "timestamp": "1590537600"
+    },
+    {
+      "count": 42,
+      "timestamp": "1590624000"
+    },
+    {
+      "count": 86,
+      "timestamp": "1590710400"
+    },
+    {
+      "count": 56,
+      "timestamp": "1590796800"
+    },
+    {
+      "count": 541,
+      "timestamp": "1590969600"
+    },
+    {
+      "count": 313,
+      "timestamp": "1591056000"
+    },
+    {
+      "count": 238,
+      "timestamp": "1591142400"
+    },
+    {
+      "count": 542,
+      "timestamp": "1591228800"
+    },
+    {
+      "count": 402,
+      "timestamp": "1591315200"
+    },
+    {
+      "count": 22,
+      "timestamp": "1591401600"
+    },
+    {
+      "count": 24,
+      "timestamp": "1591488000"
+    },
+    {
+      "count": 44,
+      "timestamp": "1591574400"
+    },
+    {
+      "count": 53,
+      "timestamp": "1591660800"
+    },
+    {
+      "count": 48,
+      "timestamp": "1591747200"
+    },
+    {
+      "count": 29,
+      "timestamp": "1591833600"
+    },
+    {
+      "count": 79,
+      "timestamp": "1591920000"
+    },
+    {
+      "count": 21,
+      "timestamp": "1592006400"
+    },
+    {
+      "count": 127,
+      "timestamp": "1592179200"
+    },
+    {
+      "count": 230,
+      "timestamp": "1592265600"
+    },
+    {
+      "count": 86,
+      "timestamp": "1592352000"
+    },
+    {
+      "count": 426,
+      "timestamp": "1592524800"
+    },
+    {
+      "count": 599,
+      "timestamp": "1592611200"
+    },
+    {
+      "count": 563,
+      "timestamp": "1592697600"
+    },
+    
+    {
+      "count": 76,
+      "timestamp": "1592784000"
+    },
+    
+    {
+      "count": 616,
+      "timestamp": "1592784000"
+    },
+    {
+      "count": 126,
+      "timestamp" : "1592870400"
+    },
 
-		{
-			"count": 150,
-			"timestamp": "1588723200"
-		},
+    {
+      "count": 307,
+      "timestamp" : "1592956800"
+    },
+    {
+      "count": 183,
+      "timestamp" : "1593043200"
+    },
 
-	],
-	"daily" : [
-		{
+    {
+      "count": 246,
+      "timestamp" : "1593216000"
+    },
+
+    {
+      "count": 33,
+      "timestamp" : "1593302400"
+    },
+
+    {
+      "count": 66,
+      "timestamp" : "1593388800"
+    },
+
+    {
+      "count": 602,
+      "timestamp" : "1593475200"
+    },
+
+    {
+      "count": 434,
+      "timestamp" : "1593561600"
+    },
+    {
+      "count": 596,
+      "timestamp" : "1593648000"
+    },
+
+    {
+      "count": 1280,
+      "timestamp" : "1593734400"
+    },
+
+    {
+      "count": 889,
+      "timestamp" : "1593820800"
+    },
+	
+	{
+      "count": 664,
+      "timestamp" : "1593980000"
+    },
+	
+	{
+      "count": 1182,
+      "timestamp" : "1594051200"
+    },
+	
+	{
+      "count": 991,
+      "timestamp" : "1594167100"
+    },
+	
+	{
+      "count": 778,
+      "timestamp" : "1594228100"
+    },
+	
+	{
+      "count": 779,
+      "timestamp" : "1594320500"
+    },
+	
+	{
+      "count": 1103,
+      "timestamp" : "1594399400"
+    },
+	
+	{
+      "count": 428,
+      "timestamp" : "1594504900"
+    },
+	
+	{
+      "count": 743,
+      "timestamp" : "1594572300"
+    },
+	
+	{
+      "count": 1080,
+      "timestamp" : "1594653900"
+    },
+	
+	{
+      "count": 553,
+      "timestamp" : "1594755600"
+    },
+	
+	{
+      "count": 1043,
+      "timestamp" : "1594830400"
+    },
+	
+	{
+      "count": 1049,
+      "timestamp" : "1594943000"
+    },
+	
+	{
+      "count": 1602,
+      "timestamp" : "1595000300"
+    },
+	
+	{
+      "count": 1582,
+      "timestamp" : "1595117900"
+    },
+	
+	{
+      "count": 1702,
+      "timestamp" : "1595179000"
+    },
+	
+	{
+      "count": 1614,
+      "timestamp" : "1595281300"
+    },
+	
+	{
+      "count": 1001,
+      "timestamp" : "1595348200"
+    },
+	
+	{
+      "count": 1142,
+      "timestamp" : "1595428000"
+    },
+	
+	{
+      "count": 703,
+      "timestamp" : "1595522100"
+    },
+	
+	{
+      "count": 1150,
+      "timestamp" : "1595612400"
+    },
+	
+	{
+      "count": 1179,
+      "timestamp" : "1595689000"
+    },
+	
+	{
+      "count": 1021,
+      "timestamp" : "1595814000"
+    },
+	
+	{
+      "count": 1391,
+      "timestamp" : "1595880000"
+    },
+	
+	{
+      "count": 857,
+      "timestamp" : "1595982000"
+    },
+	
+	{
+      "count": 1443,
+      "timestamp" : "1596053100"
+    },
+	
+	{
+      "count": 1081,
+      "timestamp" : "1596139500"
+    },
+	
+	{
+      "count": 1212,
+      "timestamp" : "1596225900"
+    },
+	
+	{
+      "count": 1442,
+      "timestamp" : "1596312300"
+    },
+	
+	{
+      "count": 1531,
+      "timestamp" : "1596398700"
+    },
+	
+	{
+      "count": 1532,
+      "timestamp" : "1596470600"
+    },
+	
+	{
+      "count": 1238,
+      "timestamp" : "1596636200"
+    },
+	
+	{
+      "count": 1220,
+      "timestamp" : "1596648800"
+    },
+	
+	{
+      "count": 993,
+      "timestamp" : "1596741300"
+    },
+	
+	{
+      "count": 1851,
+      "timestamp" : "1596825600"
+    },
+	
+	{
+      "count": 1522,
+      "timestamp" : "1596915000"
+    },
+	
+	{
+      "count": 1960,
+      "timestamp" : "1597003200"
+    },
+	
+	{
+      "count": 2280,
+      "timestamp" : "1597176000"
+    },
+	
+	{
+      "count": 1567,
+      "timestamp" : "1597213981"
+    },
+	
+	{
+      "count": 1778,
+      "timestamp" : "1597300503"
+    },
+	
+	{
+      "count": 1389,
+      "timestamp" : "1597336519"
+    },
+	
+	{
+      "count": 2084,
+      "timestamp" : "1597475928"
+    },
+	
+	{
+      "count": 2012,
+      "timestamp" : "1597532400"
+    },
+	
+	{
+      "count": 1414,
+      "timestamp" : "1597601012"
+    },
+	
+	{
+      "count": 2412,
+      "timestamp" : "1597689207"
+    },
+	
+	{
+      "count": 1695,
+      "timestamp" : "1597782439"
+    },
+	
+	{
+      "count": 1309,
+      "timestamp" : "1597857326"
+    },
+	
+	{
+      "count": 1723,
+      "timestamp" : "1597955547"
+    },
+	
+	{
+      "count": 1977,
+      "timestamp" : "1598050800"
+    },
+	
+	{
+      "count": 2070,
+      "timestamp" : "1598116602"
+    },
+	
+	{
+      "count": 1181,
+      "timestamp" : "1598223600"
+    },
+	
+	{
+      "count": 1922,
+      "timestamp" : "1598294624"
+    },
+	
+	{
+      "count": 1503,
+      "timestamp" : "1598396400"
+    },
+	
+	{
+      "count": 1451,
+      "timestamp" : "1598482800"
+    },
+	
+	{
+      "count": 1592,
+      "timestamp" : "1598548371"
+    },
+	
+	{
+      "count": 1723,
+      "timestamp" : "1598655600"
+    }
+
+
+    
+  ],
+  
+  "daily": [
+{
       "active": 1,
       "daily_active": 1,
       "daily_deaths": 4,
@@ -94,8 +1087,8 @@
       "recovered": 0,
       "timestamp": "1588593600",
       "total": 108
-		},
-		{
+    },
+    {
       "active": 1,
       "daily_active": 1,
       "daily_deaths": 4,
@@ -108,11 +1101,1577 @@
       "recovered": 0,
       "timestamp": "1588636800",
       "total": 108
-    }
-	],
+    },
+    {
+      "active": 1,
+      "daily_active": 1,
+      "daily_deaths": 4,
+      "daily_recovered": 103,
+      "daily_total": 1,
+      "day": "06 May 2020",
+      "deaths": 0,
+      "id": 3,
+      "record_time": "Sun, 10 May 2020 12:39:03 GMT",
+      "recovered": 0,
+      "timestamp": "1588723200",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 1,
+      "daily_deaths": 4,
+      "daily_recovered": 103,
+      "daily_total": 1,
+      "day": "07 May 2020",
+      "deaths": 0,
+      "id": 4,
+      "record_time": "Sun, 10 May 2020 12:39:03 GMT",
+      "recovered": 0,
+      "timestamp": "1588809600",
+      "total": 108
+    },
+    {"active": 1,
+      "daily_active": 1,
+      "daily_deaths": 4,
+      "daily_recovered": 103,
+      "daily_total": 1,
+      "day": "08 May 2020",
+      "deaths": 0,
+      "id": 5,
+      "record_time": "Sun, 10 May 2020 12:54:01 GMT",
+      "recovered": 0,
+      "timestamp": "1588896000",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 1,
+      "daily_deaths": 4,
+      "daily_recovered": 103,
+      "daily_total": 1,
+      "day": "09 May 2020",
+      "deaths": 0,
+      "id": 6,
+      "record_time": "Sun, 10 May 2020 12:54:01 GMT",
+      "recovered": 0,
+      "timestamp": "1588982400",
+      "total": 108
+    },
+    {
+     "active": 1,
+      "daily_active": 1,
+      "daily_deaths": 4,
+      "daily_recovered": 103,
+      "daily_total": 1,
+      "day": "10 May 2020",
+      "deaths": 0,
+      "id": 7,
+      "record_time": "Mon, 11 May 2020 11:54:01 GMT",
+      "recovered": 0,
+      "timestamp": "1589068800",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "12 May 2020",
+      "deaths": 2414,
+      "id": 8,
+      "record_time": "Thu, 14 May 2020 10:54:01 GMT",
+      "recovered": 24454,
+      "timestamp": "1589241600",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "13 May 2020",
+      "deaths": 0,
+      "id": 9,
+      "record_time": "Thu, 14 May 2020 19:39:03 GMT",
+      "recovered": 0,
+      "timestamp": "1589328000",
+      "total": 108
+    },
+    {
+     "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "14 May 2020",
+      "deaths": 0,
+      "id": 10,
+      "record_time": "Sat, 16 May 2020 11:09:03 GMT",
+      "recovered": 0,
+      "timestamp": "1589414400",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "15 May 2020",
+      "deaths": 0,
+      "id": 11,
+      "record_time": "Sat, 16 May 2020 14:09:03 GMT",
+      "recovered": 0,
+      "timestamp": "1589500800",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "16 May 2020",
+      "deaths": 0,
+      "id": 12,
+      "record_time": "Mon, 18 May 2020 10:54:16 GMT",
+      "recovered": 0,
+      "timestamp": "1589587200",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "17 May 2020",
+      "deaths": 0,
+      "id": 13,
+      "record_time": "Mon, 18 May 2020 20:24:16 GMT",
+      "recovered": 0,
+      "timestamp": "1589673600",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "18 May 2020",
+      "deaths": 0,
+      "id": 14,
+      "record_time": "Tue, 19 May 2020 20:39:15 GMT",
+      "recovered": 0,
+      "timestamp": "1589760000",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "20 May 2020",
+      "deaths": 0,
+      "id": 15,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1589932800",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "21 May 2020",
+      "deaths": 0,
+      "id": 16,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1590019200",
+      "total": 108
+    },
 
-	"dashboard_graphs": [
-		{
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "22 May 2020",
+      "deaths": 0,
+      "id": 17,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1590105600",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "23 May 2020",
+      "deaths": 0,
+      "id": 18,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1590192000",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "24 May 2020",
+      "deaths": 0,
+      "id": 19,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1590278400",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "25 May 2020",
+      "deaths": 0,
+      "id": 20,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1590364800",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "28 May 2020",
+      "deaths": 0,
+      "id": 21,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1590624000",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "29 May 2020",
+      "deaths": 0,
+      "id": 22,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1590710400",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "30 May 2020",
+      "deaths": 0,
+      "id": 23,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1590796800",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "01 Jun 2020",
+      "deaths": 0,
+      "id": 24,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "  1590969600",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "02 Jun 2020",
+      "deaths": 0,
+      "id": 25,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "  1591056000",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "03 Jun 2020",
+      "deaths": 0,
+      "id": 26,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "  1591142400",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "04 Jun 2020",
+      "deaths": 0,
+      "id": 27,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "  1591228800",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "05 Jun 2020",
+      "deaths": 0,
+      "id": 28,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1591315200",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "06 Jun 2020",
+      "deaths": 0,
+      "id": 29,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "  1591401600",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "07 Jun 2020",
+      "deaths": 0,
+      "id": 30,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1591488000",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "08 Jun 2020",
+      "deaths": 0,
+      "id": 31,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1591574400",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "09 Jun 2020",
+      "deaths": 0,
+      "id": 32,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1591660800",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "10 Jun 2020",
+      "deaths": 0,
+      "id": 33,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1591747200",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "11 Jun 2020",
+      "deaths": 0,
+      "id": 34,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1591833600",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "12 Jun 2020",
+      "deaths": 0,
+      "id": 35,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1591920000",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "13 Jun 2020",
+      "deaths": 0,
+      "id": 36,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1592006400",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "15 Jun 2020",
+      "deaths": 0,
+      "id": 37,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1592179200",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "16 Jun 2020",
+      "deaths": 0,
+      "id": 38,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1592265600",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "17 Jun 2020",
+      "deaths": 0,
+      "id": 39,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1592352000",
+      "total": 108
+    },
+    
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "19 Jun 2020",
+      "deaths": 0,
+      "id": 40,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1592352000",
+      "total": 108
+    },
+    
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "20 Jun 2020",
+      "deaths": 0,
+      "id": 41,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1592352000",
+      "total": 108
+    },
+    
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "21 Jun 2020",
+      "deaths": 0,
+      "id": 42,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1592352000",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "22 Jun 2020",
+      "deaths": 0,
+      "id": 43,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1592352000",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "23 Jun 2020",
+      "deaths": 0,
+      "id": 44,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1592870400",
+      "total": 108
+    },
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "24 Jun 2020",
+      "deaths": 0,
+      "id": 45,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1592956800",
+      "total": 108
+    },
+
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "25 Jun 2020",
+      "deaths": 0,
+      "id": 46,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1593043200",
+      "total": 108
+    },
+
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "27 Jun 2020",
+      "deaths": 0,
+      "id": 47,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1593216000",
+      "total": 108
+    },
+
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "28 Jun 2020",
+      "deaths": 0,
+      "id": 48,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1593302400",
+      "total": 108
+    },
+
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "29 Jun 2020",
+      "deaths": 0,
+      "id": 49,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1593388800",
+      "total": 108
+    },
+
+    {
+      "active": 1,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 0,
+      "day": "30 Jun 2020",
+      "deaths": 0,
+      "id": 50,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1593475200",
+      "total": 108
+    },
+
+    {
+      "active": 1,
+      "daily_active": 1,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 1,
+      "day": "01 Jul 2020",
+      "deaths": 0,
+      "id": 51,
+      "record_time": "Thu, 21 May 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1593561600",
+      "total": 109
+    },
+
+    {
+      "active": 3,
+      "daily_active": 3,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 3,
+      "day": "02 Jul 2020",
+      "deaths": 0,
+      "id": 52,
+      "record_time": "Thu, 02 Jul 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1593648000",
+      "total": 111
+    },
+
+    {
+      "active": 4,
+      "daily_active": 1,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 5,
+      "day": "03 Jul 2020",
+      "deaths": 0,
+      "id": 53,
+      "record_time": "Fri, 03 Jul 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1593648000",
+      "total": 112
+    },
+
+    {
+      "active": 5,
+      "daily_active": 1,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 5,
+      "day": "04 Jul 2020",
+      "deaths": 0,
+      "id": 54,
+      "record_time": "Sat, 04 Jul 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1593820800",
+      "total": 113
+    },
+	
+	{
+      "active": 5,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 5,
+      "day": "05 Jul 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Sun, 05 Jul 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1593980000",
+      "total": 113
+    },
+	
+	{
+      "active": 5,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 5,
+      "day": "06 Jul 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Mon, 06 Jul 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1594051200",
+      "total": 113
+    },
+	
+	{
+      "active": 5,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 5,
+      "day": "07 Jul 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Tue, 07 Jul 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1594167100",
+      "total": 113
+    },
+	
+	{
+      "active": 6,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 6,
+      "day": "08 Jul 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Wed, 08 Jul 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1594228100",
+      "total": 114
+    },
+	
+	{
+      "active": 7,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 7,
+      "day": "09 Jul 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Thu, 09 Jul 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1594320500",
+      "total": 115
+    },
+	
+	{
+      "active": 7,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 7,
+      "day": "10 Jul 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Fri, 10 Jul 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1594399400",
+      "total": 115
+    },
+	
+	{
+      "active": 7,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 7,
+      "day": "11 Jul 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Sat, 11 Jul 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1594504900",
+      "total": 115
+    },
+	
+	{
+      "active": 7,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 7,
+      "day": "12 Jul 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Sun, 12 Jul 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1594572300",
+      "total": 115
+    },
+	
+	{
+      "active": 9,
+      "daily_active": 2,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 9,
+      "day": "13 Jul 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Mon, 13 Jul 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1594653900",
+      "total": 117
+    },
+	
+	{
+      "active": 9,
+      "daily_active": 2,
+      "daily_deaths": 4,
+      "daily_recovered": 104,
+      "daily_total": 9,
+      "day": "14 Jul 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Tue, 14 Jul 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1594755600",
+      "total": 117
+    },
+	
+	{
+      "active": 8,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 105,
+      "daily_total": 8,
+      "day": "15 Jul 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Wed, 15 Jul 2020 01:09:15 GMT",
+      "recovered": 1,
+      "timestamp": "1594830400",
+      "total": 117
+    },
+	
+	{
+      "active": 7,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 106,
+      "daily_total": 7,
+      "day": "16 Jul 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Thu, 16 Jul 2020 01:09:15 GMT",
+      "recovered": 1,
+      "timestamp": "1594943000",
+      "total": 117
+    },
+	
+	{
+      "active": 7,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 106,
+      "daily_total": 7,
+      "day": "17 Jul 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Fri, 17 Jul 2020 01:09:15 GMT",
+      "recovered": 1,
+      "timestamp": "1595000300",
+      "total": 117
+    },
+	
+	{
+      "active": 8,
+      "daily_active": 1,
+      "daily_deaths": 4,
+      "daily_recovered": 106,
+      "daily_total": 8,
+      "day": "18 Jul 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Sat, 18 Jul 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1595117900",
+      "total": 117
+    },
+	
+	{
+      "active": 11,
+      "daily_active": 3,
+      "daily_deaths": 4,
+      "daily_recovered": 106,
+      "daily_total": 11,
+      "day": "19 Jul 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Sun, 19 Jul 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1595179000",
+      "total": 121
+    },
+	
+	{
+      "active": 13,
+      "daily_active": 2,
+      "daily_deaths": 4,
+      "daily_recovered": 106,
+      "daily_total": 13,
+      "day": "20 Jul 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Mon, 20 Jul 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1595281300",
+      "total": 123
+    },
+	
+	{
+      "active": 15,
+      "daily_active": 2,
+      "daily_deaths": 4,
+      "daily_recovered": 106,
+      "daily_total": 15,
+      "day": "21 Jul 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Tue, 21 Jul 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1595348200",
+      "total": 125
+    },
+	
+	{
+      "active": 20,
+      "daily_active": 5,
+      "daily_deaths": 4,
+      "daily_recovered": 106,
+      "daily_total": 20,
+      "day": "22 Jul 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Wed, 22 Jul 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1595428000",
+      "total": 130
+    },
+	
+	{
+      "active": 18,
+      "daily_active": 1,
+      "daily_deaths": 4,
+      "daily_recovered": 109,
+      "daily_total": 18,
+      "day": "23 Jul 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Thu, 23 Jul 2020 01:09:15 GMT",
+      "recovered": 3,
+      "timestamp": "1595522100",
+      "total": 131
+    },
+	
+	{
+      "active": 18,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 109,
+      "daily_total": 18,
+      "day": "24 Jul 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Fri, 24 Jul 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1595612400",
+      "total": 131
+    },
+	
+	{
+      "active": 20,
+      "daily_active": 2,
+      "daily_deaths": 4,
+      "daily_recovered": 109,
+      "daily_total": 20,
+      "day": "25 Jul 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Sat, 25 Jul 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1595689000",
+      "total": 133
+    },
+	
+	{
+      "active": 20,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 109,
+      "daily_total": 20,
+      "day": "26 Jul 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Sun, 26 Jul 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1595814000",
+      "total": 133
+    },
+	
+	{
+      "active": 21,
+      "daily_active": 1,
+      "daily_deaths": 4,
+      "daily_recovered": 109,
+      "daily_total": 21,
+      "day": "27 Jul 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Mon, 27 Jul 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1595880000",
+      "total": 135
+    },
+	
+	{
+      "active": 24,
+      "daily_active": 3,
+      "daily_deaths": 4,
+      "daily_recovered": 109,
+      "daily_total": 24,
+      "day": "28 Jul 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Tue, 28 Jul 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1595982000",
+      "total": 138
+    },
+	
+	{
+      "active": 27,
+      "daily_active": 4,
+      "daily_deaths": 4,
+      "daily_recovered": 111,
+      "daily_total": 27,
+      "day": "29 Jul 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Wed, 29 Jul 2020 01:09:15 GMT",
+      "recovered": 2,
+      "timestamp": "1596053100",
+      "total": 142
+    },
+	
+	{
+      "active": 26,
+      "daily_active": 2,
+      "daily_deaths": 4,
+      "daily_recovered": 114,
+      "daily_total": 26,
+      "day": "30 Jul 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Thu, 30 Jul 2020 01:09:15 GMT",
+      "recovered": 3,
+      "timestamp": "1596139500",
+      "total": 144
+    },
+	
+	{
+      "active": 21,
+      "daily_active": 1,
+      "daily_deaths": 4,
+      "daily_recovered": 120,
+      "daily_total": 21,
+      "day": "31 Jul 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Fri, 31 Jul 2020 01:09:15 GMT",
+      "recovered": 6,
+      "timestamp": "1596225900",
+      "total": 145
+    },
+	
+	{
+      "active": 22,
+      "daily_active": 1,
+      "daily_deaths": 4,
+      "daily_recovered": 120,
+      "daily_total": 22,
+      "day": "1 Aug 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Sat, 1 Aug 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1596312300",
+      "total": 146
+    },
+	
+	{
+      "active": 27,
+      "daily_active": 5,
+      "daily_deaths": 4,
+      "daily_recovered": 120,
+      "daily_total": 27,
+      "day": "2 Aug 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Sun, 2 Aug 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1596398700",
+      "total": 151
+    },
+	
+	{
+      "active": 28,
+      "daily_active": 2,
+      "daily_deaths": 4,
+      "daily_recovered": 121,
+      "daily_total": 28,
+      "day": "3 Aug 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Mon, 3 Aug 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1596470600",
+      "total": 153
+    },
+	
+	{
+      "active": 33,
+      "daily_active": 5,
+      "daily_deaths": 4,
+      "daily_recovered": 121,
+      "daily_total": 33,
+      "day": "4 Aug 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Tue, 4 Aug 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1596636200",
+      "total": 158
+    },
+	
+	{
+      "active": 32,
+      "daily_active": 4,
+      "daily_deaths": 4,
+      "daily_recovered": 126,
+      "daily_total": 32,
+      "day": "5 Aug 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Wed, 5 Aug 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1596648800",
+      "total": 162
+    },
+	
+	{
+      "active": 24,
+      "daily_active": 1,
+      "daily_deaths": 4,
+      "daily_recovered": 135,
+      "daily_total": 24,
+      "day": "6 Aug 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Thu, 6 Aug 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1596741300",
+      "total": 163
+    },
+	
+	{
+      "active": 24,
+      "daily_active": 2,
+      "daily_deaths": 4,
+      "daily_recovered": 137,
+      "daily_total": 24,
+      "day": "7 Aug 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Fri, 7 Aug 2020 01:09:15 GMT",
+      "recovered": 2,
+      "timestamp": "1596825600",
+      "total": 165
+    },
+	
+	{
+      "active": 28,
+      "daily_active": 4,
+      "daily_deaths": 4,
+      "daily_recovered": 137,
+      "daily_total": 28,
+      "day": "8 Aug 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Sat, 8 Aug 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1596915000",
+      "total": 169
+    },
+	
+	{
+      "active": 30,
+      "daily_active": 2,
+      "daily_deaths": 4,
+      "daily_recovered": 137,
+      "daily_total": 30,
+      "day": "9 Aug 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Sun, 9 Aug 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1597003200",
+      "total": 171
+    },
+	
+	{
+      "active": 38,
+      "daily_active": 8,
+      "daily_deaths": 4,
+      "daily_recovered": 137,
+      "daily_total": 38,
+      "day": "10 Aug 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Mon, 10 Aug 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1597176000",
+      "total": 179
+    },
+	
+	{
+      "active": 42,
+      "daily_active": 4,
+      "daily_deaths": 4,
+      "daily_recovered": 137,
+      "daily_total": 42,
+      "day": "11 Aug 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Tue, 11 Aug 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1597213981",
+      "total": 183
+    },
+	
+	{
+      "active": 43,
+      "daily_active": 2,
+      "daily_deaths": 4,
+      "daily_recovered": 138,
+      "daily_total": 43,
+      "day": "12 Aug 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Wed, 12 Aug 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1597309448",
+      "total": 185
+    },
+	
+	{
+      "active": 49,
+      "daily_active": 6,
+      "daily_deaths": 4,
+      "daily_recovered": 138,
+      "daily_total": 49,
+      "day": "13 Aug 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Thu, 13 Aug 2020 01:09:15 GMT",
+      "recovered": 0,
+      "timestamp": "1597336519",
+      "total": 191
+    },
+	
+	{
+      "active": 53,
+      "daily_active": 5,
+      "daily_deaths": 4,
+      "daily_recovered": 139,
+      "daily_total": 53,
+      "day": "14 Aug 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Fri, 14 Aug 2020 01:09:15 GMT",
+      "recovered": 1,
+      "timestamp": "1597475928",
+      "total": 196
+    },
+	
+	{
+      "active": 62,
+      "daily_active": 10,
+      "daily_deaths": 4,
+      "daily_recovered": 140,
+      "daily_total": 62,
+      "day": "15 Aug 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Sat, 15 Aug 2020 01:09:15 GMT",
+      "recovered": 1,
+      "timestamp": "1597532400",
+      "total": 206
+    },
+	
+	{
+      "active": 63,
+      "daily_active": 3,
+      "daily_deaths": 4,
+      "daily_recovered": 142,
+      "daily_total": 63,
+      "day": "16 Aug 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Sun, 16 Aug 2020 01:09:15 GMT",
+      "recovered": 1,
+      "timestamp": "1597601012",
+      "total": 209
+    },
+	
+	{
+      "active": 70,
+      "daily_active": 9,
+      "daily_deaths": 4,
+      "daily_recovered": 147,
+      "daily_total": 70,
+      "day": "17 Aug 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Mon, 17 Aug 2020 01:09:15 GMT",
+      "recovered": 5,
+      "timestamp": "1597689207",
+      "total": 221
+    },
+	
+	{
+      "active": 72,
+      "daily_active": 9,
+      "daily_deaths": 4,
+      "daily_recovered": 154,
+      "daily_total": 72,
+      "day": "18 Aug 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Tue, 18 Aug 2020 01:09:15 GMT",
+      "recovered": 7,
+      "timestamp": "1597782439",
+      "total": 230
+    },
+	
+	{
+      "active": 70,
+      "daily_active": 4,
+      "daily_deaths": 4,
+      "daily_recovered": 160,
+      "daily_total": 70,
+      "day": "19 Aug 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Wed, 19 Aug 2020 01:09:15 GMT",
+      "recovered": 6,
+      "timestamp": "1597857326",
+      "total": 234
+    },
+	
+	{
+      "active": 66,
+      "daily_active": 3,
+      "daily_deaths": 4,
+      "daily_recovered": 167,
+      "daily_total": 66,
+      "day": "20 Aug 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Thu, 20 Aug 2020 01:09:15 GMT",
+      "recovered": 7,
+      "timestamp": "1597955547",
+      "total": 237
+    },
+	
+	{
+      "active": 74,
+      "daily_active": 10,
+      "daily_deaths": 4,
+      "daily_recovered": 169,
+      "daily_total": 74,
+      "day": "21 Aug 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Fri, 21 Aug 2020 01:09:15 GMT",
+      "recovered": 2,
+      "timestamp": "1598050800",
+      "total": 247
+    },
+	
+	{
+      "active": 83,
+      "daily_active": 16,
+      "daily_deaths": 4,
+      "daily_recovered": 176,
+      "daily_total": 83,
+      "day": "22 Aug 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Sat, 22 Aug 2020 01:09:15 GMT",
+      "recovered": 7,
+      "timestamp": "1598116602",
+      "total": 263
+    },
+	
+	{
+      "active": 87,
+      "daily_active": 8,
+      "daily_deaths": 4,
+      "daily_recovered": 180,
+      "daily_total": 87,
+      "day": "23 Aug 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Sun, 23 Aug 2020 01:09:15 GMT",
+      "recovered": 4,
+      "timestamp": "1598223600",
+      "total": 271
+    },
+	
+	{
+      "active": 87,
+      "daily_active": 6,
+      "daily_deaths": 4,
+      "daily_recovered": 186,
+      "daily_total": 87,
+      "day": "24 Aug 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Mon, 24 Aug 2020 01:09:15 GMT",
+      "recovered": 6,
+      "timestamp": "1598294624",
+      "total": 277
+    },
+	
+	{
+      "active": 85,
+      "daily_active": 4,
+      "daily_deaths": 4,
+      "daily_recovered": 192,
+      "daily_total": 85,
+      "day": "25 Aug 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Tue, 25 Aug 2020 01:09:15 GMT",
+      "recovered": 6,
+      "timestamp": "1598396400",
+      "total": 281
+    },
+	
+	{
+      "active": 102,
+      "daily_active": 19,
+      "daily_deaths": 4,
+      "daily_recovered": 194,
+      "daily_total": 102,
+      "day": "26 Aug 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Wed, 26 Aug 2020 01:09:15 GMT",
+      "recovered": 2,
+      "timestamp": "1598482800",
+      "total": 300
+    },
+	
+	{
+      "active": 93,
+      "daily_active": 1,
+      "daily_deaths": 4,
+      "daily_recovered": 204,
+      "daily_total": 93,
+      "day": "27 Aug 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Thu, 27 Aug 2020 01:09:15 GMT",
+      "recovered": 10,
+      "timestamp": "1598548371",
+      "total": 301
+    },
+	
+	{
+      "active": 96,
+      "daily_active": 10,
+      "daily_deaths": 4,
+      "daily_recovered": 211,
+      "daily_total": 96,
+      "day": "28 Aug 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Fri, 28 Aug 2020 01:09:15 GMT",
+      "recovered": 7,
+      "timestamp": "1598655600",
+      "total": 311
+    }
+	
+	
+  ],
+  "dashboard_graphs": [
+            {
       "active": 0,
       "daily_active": 1,
       "daily_deaths": 1,
@@ -139,24 +2698,67 @@
       "recovered": 0,
       "timestamp": "1588636800",
       "total": 150
+    },
+    {
+      "active": 150,
+      "daily_active": 300,
+      "daily_deaths": 300,
+      "daily_recovered": 300,
+      "daily_total": 900,
+      "day": "06 May 2020",
+      "deaths": 150,
+      "id": 3,
+      "record_time": "Sun, 10 May 2020 12:39:03 GMT",
+      "recovered": 150,
+      "timestamp": "1588723200",
+      "total": 1050
+    },
+    {
+      "active": 1050,
+      "daily_active": 10,
+      "daily_deaths": 0,
+      "daily_recovered": 0,
+      "daily_total": 10,
+      "day": "08 May 2020",
+      "deaths": 0,
+      "id": 4,
+      "record_time": "Sun, 10 May 2020 12:54:01 GMT",
+      "recovered": 0,
+      "timestamp": "1588896000",
+      "total": 1060
+    },
+     {
+      "active": 1050,
+      "daily_active": 100,
+      "daily_deaths": 1,
+      "daily_recovered": 105,
+      "daily_total": 1060,
+      "day": "08 May 2020",
+      "deaths": 0,
+      "id": 5,
+      "record_time": "Sun, 10 May 2020 12:54:01 GMT",
+      "recovered": 0,
+      "timestamp": "1588896000",
+      "total": 1161
     }
-],
-	"num_days": 208,
-	"recovered_diff" : 6,
-	"statewise": [
-		{
-      "active": 85,
+  ],
+  "deaths_diff": 0,
+  
+
+  "statewise": [
+    {
+      "active": 96,
       "deaths": 4,
-      "delta_active": 4,
+      "delta_active": 10,
       "delta_deaths": 0,
-      "delta_recovered": 6,
-      "delta_total": 4,
+      "delta_recovered": 7,
+      "delta_total": 10,
       "id": 12,
-      "last_updated_time": "25/08/2020 08:05:53",
-      "record_time": "Tue, 25 Aug 2020 08:24:14 GMT",
-      "recovered": 126,
+      "last_updated_time": "28/08/2020 08:05:53",
+      "record_time": "Fri, 28 Aug 2020 08:24:14 GMT",
+      "recovered": 145,
       "state": "Lefkoşa | Nicosia",
-      "total": 215
+      "total": 245
     },
     {
       "active": 0,
@@ -228,38 +2830,39 @@
       "state": "Karpaz | Karpasia",
       "total": 1
     }
-	],
-	"success": true,
-	"summary": {
-		"active": 85,
-	    "deaths": 4,
-	    "delta_active": 4,
-	    "delta_deaths": 0,
-	    "delta_recovered": 6,
-	    "delta_total": 4,
-	    "id": 1,
-	    "active" : 85,
-	    "last_updated_time": "26/08/2020 18:05:45",
-	    "record_time": "2020-08-26 18:05:45",
-	    "recovered": 192,
-	    "total": 281
-	},
+  ],
+  "success": true,
+  "summary": {
+    "active": 96,
+    "deaths": 4,
+    "delta_active": 10,
+    "delta_deaths": 0,
+    "delta_recovered": 7,
+    "delta_total": 10,
+    "id": 1,
+    "active" : 96,
+    "last_updated_time": "29/08/2020 12:50:48",
+    "record_time": "2020-08-29 12:50:48",
+    "recovered": 211,
+    "total": 311
+  },
+	
+	"gender": [
+    {
+      "count": 3,
+      "gender": "Female"
+    },
+    {
+      "count": 7,
+      "gender": "Male"
+    },
+    {
+      "count": 15,
+      "gender": "Not Available"
+    }
+  ],
 
-	"total_diff": 4,
-	"active_diff": 4,
-	"deaths_diff": 0,
-	"gender" : [
-		{
-			"count":3,
-			"gender": "Female"
-		},
-
-		{
-			"count": 7,
-			"gender": "Male"
-		}
-	],
-	 "age": {
+	"age": {
     "0-10": 0,
     "10-20": 0,
     "20-30": 10,
@@ -271,5 +2874,10 @@
     "80-90": 0,
     "90-100": 0
   },
-	"message": "readings"
+  "message": "readings",
+  "num_days": 211,
+  "recovered_diff": 7,
+  "total_diff": 10,
+  "undefinedage": 0,
+  "active_diff": 10
 }
