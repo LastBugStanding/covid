@@ -53,6 +53,21 @@
 
 	],
 
+	"cumulative_confirmed": [
+    {
+      "count": 15428,
+      "timestamp": "1588593600"
+    },
+    {
+      "count": 16431,
+      "timestamp": "1588723200"
+    },
+    {
+      "count": 17786,
+      "timestamp": "1588809600"
+    }
+],
+
 	"daily_tests" : [
 		{
 			"count": 100,
