@@ -1,0 +1,260 @@
+{
+	"tests": 111617,
+	"test_diff": 100,
+	"information": [
+		{
+	  "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1503 olduğunu, 4 pozitif vakaya  rastlandığını, 6 kişinin taburcu edildiğini açıkladı.",
+      "headline": "Pilli:Toplam 1503 test yapıldı, 4 pozitif vakaya rastlandı, 6 kişi taburcu edildi.",
+      "id": 1,
+      "link": "https://www.brtk.net/bakan-pillitoplam-1503-test-yapildi-4-pozitif-vakaya-rastlandi-6-kisi-taburcu-edildi/",
+      "record_time": "25 Ağu 20 6:22 PM",
+      "tags": "news"
+		},
+		{
+      "body": "Güney Kıbrıs Sağlık Bakanlığı, bugün 2769 test yapıldığını ve 14 yeni Koronavirüs pozitif vakaya rastlandığını duyurdu. ",
+      "headline": "Güney Kıbrıs'ta 14 yeni vaka!",
+      "id": 2,
+      "link": "https://www.brtk.net/guney-kibrista-14-yeni-vaka-5/",
+      "record_time": "25 Ağu 20 6:19 PM",
+      "tags": "news"
+    },
+	{
+      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte yapılan test sayısının 1922 olduğunu, 6 pozitif vakaya rastlandığını, 6 kişinin taburcu edildiğini açıkladı.",
+      "headline": "Pilli:6 pozitif vakaya rastlandı, 6 kişi taburcu edildi ",
+      "id": 3,
+      "link": "https://www.brtk.net/bakan-pillitoplam-1922-test-yapildi-6-pozitif-vakaya-rastlandi-6-kisi-taburcu-edildi/",
+      "record_time": "24 Ağu 20 7:06 PM",
+      "tags": "news"
+    },
+	{
+      "body": "Güney Kıbrıs’ta son 24 saatte gerçekleştirilen 3 bin 176 test sonucunda toplam 39 yeni Covid-19 vakası tespit edildi",
+      "headline": "Güney'de 39 yeni vaka!",
+      "id": 4,
+      "link": "https://www.brtk.net/guney-kibrista-39-yeni-vaka/",
+      "record_time": "24 Ağu 20 6:47 PM",
+      "tags": "news"
+    },
+	{
+      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1181 olduğunu, 8 pozitif vakaya  rastlandığını, 4 kişinin taburcu edildiğini açıkladı.",
+      "headline": "Pilli:Toplam 1181 test yapıldı, 8 pozitif vakaya rastlandı, 4 kişi taburcu edildi",
+      "id": 5,
+      "link": "https://www.brtk.net/bakan-pillitoplam-1181-test-yapildi-8-pozitif-vakaya-rastlandi-4-kisi-taburcu-edildi/",
+      "record_time": "23 Ağu 20 6:46 PM",
+      "tags": "news"
+    },
+	{
+      "body": "Güney Kıbrıs’ta son 24 saatte gerçekleştirilen 3 bin 281 test sonucunda 4 yeni Covid-19 vakası daha tespit edildi.",
+      "headline": "Güney'de 4 yeni vaka!",
+      "id": 6,
+      "link": "https://www.brtk.net/guney-kibrista-4-yeni-vaka-4/",
+      "record_time": "23 Ağu 20 6:12 PM",
+      "tags": "news"
+    }
+
+	],
+
+	"daily_tests" : [
+		{
+			"count": 100,
+			"timestamp": "1588593600"
+		},
+
+		{
+			"count": 150,
+			"timestamp": "1588723200"
+		},
+
+	],
+	"daily" : [
+		{
+      "active": 1,
+      "daily_active": 1,
+      "daily_deaths": 4,
+      "daily_recovered": 103,
+      "daily_total": 1,
+      "day": "04 May 2020",
+      "deaths": 0,
+      "id": 1,
+      "record_time": "Sun, 10 May 2020 12:39:03 GMT",
+      "recovered": 0,
+      "timestamp": "1588593600",
+      "total": 108
+		},
+		{
+      "active": 1,
+      "daily_active": 1,
+      "daily_deaths": 4,
+      "daily_recovered": 103,
+      "daily_total": 1,
+      "day": "05 May 2020",
+      "deaths": 0,
+      "id": 2,
+      "record_time": "Sun, 10 May 2020 12:39:03 GMT",
+      "recovered": 0,
+      "timestamp": "1588636800",
+      "total": 108
+    }
+	],
+
+	"dashboard_graphs": [
+		{
+      "active": 0,
+      "daily_active": 1,
+      "daily_deaths": 1,
+      "daily_recovered": 1,
+      "daily_total": 4,
+      "day": "04 May 2020",
+      "deaths": 0,
+      "id": 1,
+      "record_time": "Sun, 10 May 2020 12:39:03 GMT",
+      "recovered": 0,
+      "timestamp": "1588593600",
+      "total": 4
+    },
+    {
+      "active": 1,
+      "daily_active": 50,
+      "daily_deaths": 50,
+      "daily_recovered": 50,
+      "daily_total": 150,
+      "day": "05 May 2020",
+      "deaths": 50,
+      "id": 2,
+      "record_time": "Sun, 10 May 2020 12:39:03 GMT",
+      "recovered": 0,
+      "timestamp": "1588636800",
+      "total": 150
+    }
+],
+	"num_days": 208,
+	"recovered_diff" : 6,
+	"statewise": [
+		{
+      "active": 85,
+      "deaths": 4,
+      "delta_active": 4,
+      "delta_deaths": 0,
+      "delta_recovered": 6,
+      "delta_total": 4,
+      "id": 12,
+      "last_updated_time": "25/08/2020 08:05:53",
+      "record_time": "Tue, 25 Aug 2020 08:24:14 GMT",
+      "recovered": 126,
+      "state": "Lefkoşa | Nicosia",
+      "total": 215
+    },
+    {
+      "active": 0,
+      "deaths": 0,
+      "delta_active": 0,
+      "delta_deaths": 0,
+      "delta_recovered": 0,
+      "delta_total": 0,
+      "id": 18,
+      "last_updated_time": "24/05/2020 10:40:24",
+      "record_time": "Thu, 24 May 2020 07:54:14 GMT",
+      "recovered": 38,
+      "state": "Girne | Kyrenia",
+      "total": 38
+    },
+    {
+      "active": 0,
+      "deaths": 0,
+      "delta_active": 0,
+      "delta_deaths": 0,
+      "delta_recovered": 0,
+      "delta_total": 0,
+      "id": 5,
+      "last_updated_time": "24/05/2020 11:40:25",
+      "record_time": "Thu, 24 May 2020 07:54:14 GMT",
+      "recovered": 10,
+      "state": "Gazimağusa | Famagusta",
+      "total": 10
+    },
+    {
+      "active": 0,
+      "deaths": 0,
+      "delta_active": 0,
+      "delta_deaths": 0,
+      "delta_recovered": 0,
+      "delta_total": 0,
+      "id": 4,
+      "last_updated_time": "24/05/2020 15:37:24",
+      "record_time": "Thu, 24 May 2020 15:54:14 GMT",
+      "recovered": 10,
+      "state": "Güzelyurt | Morphou",
+      "total": 10
+    },
+    {
+      "active": 0,
+      "deaths": 0,
+      "delta_active": 0,
+      "delta_deaths": 0,
+      "delta_recovered": 0,
+      "delta_total": 0,
+      "id": 17,
+      "last_updated_time": "24/05/2020 15:23:26",
+      "record_time": "Thu, 24 May 2020 15:44:14 GMT",
+      "recovered": 1,
+      "state": "İskele | Trikomo",
+      "total": 1
+    },
+    {
+      "active": 0,
+      "deaths": 0,
+      "delta_active": 0,
+      "delta_deaths": 0,
+      "delta_recovered": 0,
+      "delta_total": 0,
+      "id": 10,
+      "last_updated_time": "24/05/2020 11:00:25",
+      "record_time": "Thu, 24 May 2020 07:54:14 GMT",
+      "recovered": 1,
+      "state": "Karpaz | Karpasia",
+      "total": 1
+    }
+	],
+	"success": true,
+	"summary": {
+		"active": 85,
+	    "deaths": 4,
+	    "delta_active": 4,
+	    "delta_deaths": 0,
+	    "delta_recovered": 6,
+	    "delta_total": 4,
+	    "id": 1,
+	    "active" : 85,
+	    "last_updated_time": "26/08/2020 18:05:45",
+	    "record_time": "2020-08-26 18:05:45",
+	    "recovered": 192,
+	    "total": 281
+	},
+
+	"total_diff": 4,
+	"active_diff": 4,
+	"deaths_diff": 0,
+	"gender" : [
+		{
+			"count":3,
+			"gender": "Female"
+		},
+
+		{
+			"count": 7,
+			"gender": "Male"
+		}
+	],
+	 "age": {
+    "0-10": 0,
+    "10-20": 0,
+    "20-30": 10,
+    "30-40": 20,
+    "40-50": 5,
+    "50-60": 2,
+    "60-70": 0,
+    "70-80": 0,
+    "80-90": 0,
+    "90-100": 0
+  },
+	"message": "readings"
+}
