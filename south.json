@@ -1,19 +1,7 @@
 {
   "tests": 116383,
   "tests_diff": 1723,
-  "age": {
-    "0-10": 0,
-    "10-20": 0,
-    "20-30": 10,
-    "30-40": 20,
-    "40-50": 5,
-    "50-60": 2,
-    "60-70": 0,
-    "70-80": 0,
-    "80-90": 0,
-    "90-100": 0
-  },
-  "articles": [
+  "information": [
     
 	{
       "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1723 olduğunu, 10 pozitif vakaya  rastlandığını, 7 kişinin taburcu edildiğini açıkladı.",
@@ -2755,23 +2743,8 @@
     }
   ],
   "deaths_diff": 0,
-  "gender": [
-    {
-      "count": 3,
-      "gender": "Female"
-    },
-    {
-      "count": 7,
-      "gender": "Male"
-    },
-    {
-      "count": 15,
-      "gender": "Not Available"
-    }
-  ],
-  "message": "readings",
-  "num_days": 211,
-  "recovered_diff": 7,
+  
+
   "statewise": [
     {
       "active": 96,
@@ -2873,6 +2846,37 @@
     "recovered": 211,
     "total": 311
   },
+	
+	"gender": [
+    {
+      "count": 3,
+      "gender": "Female"
+    },
+    {
+      "count": 7,
+      "gender": "Male"
+    },
+    {
+      "count": 15,
+      "gender": "Not Available"
+    }
+  ],
+
+	"age": {
+    "0-10": 0,
+    "10-20": 0,
+    "20-30": 10,
+    "30-40": 20,
+    "40-50": 5,
+    "50-60": 2,
+    "60-70": 0,
+    "70-80": 0,
+    "80-90": 0,
+    "90-100": 0
+  },
+  "message": "readings",
+  "num_days": 211,
+  "recovered_diff": 7,
   "total_diff": 10,
   "undefinedage": 0,
   "active_diff": 10
