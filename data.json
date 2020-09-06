@@ -1,6 +1,6 @@
 {
-  "tests": 129893,
-  "tests_diff": 1302,
+  "tests": 125256,
+  "tests_diff": 1265,
   "age": {
     "0-10": 0,
     "10-20": 0,
@@ -594,21 +594,6 @@
 	{
       "count": 125256,
       "timestamp" : "1599174000"
-    },
-
-	{
-      "count": 127196,
-      "timestamp" : "1599220800"
-    },
-	 
-	{
-      "count": 128591,
-      "timestamp" : "1599307200"
-    },
-	 
-	{
-      "count": 129893,
-      "timestamp" : "1599393600"
     }
 
     
@@ -1153,21 +1138,7 @@
 	{
       "count": 1265,
       "timestamp" : "1599174000"
-    },
-	 {
-      "count": 1940,
-      "timestamp" : "1599220800"
-    },
-	  
-	 {
-      "count": 1395,
-      "timestamp" : "1599307200"
-    },
-	  {
-      "count": 1302,
-      "timestamp" : "1599393600"
-    },
-	  
+    }
 
 
     
@@ -2856,53 +2827,7 @@
       "recovered": 11,
       "timestamp": "1599174000",
       "total": 361
-    },
-	  
-	  {
-      "active": 93,
-      "daily_active": 10,
-      "daily_deaths": 4,
-      "daily_recovered": 274,
-      "daily_total": 93,
-      "day": "04 Sep 2020",
-      "deaths": 0,
-      "id": 56,
-      "record_time": "Fri, 04 Sep 2020 01:09:15 GMT",
-      "recovered": 5,
-      "timestamp": "1599220800",
-      "total": 371
-    },
-	 
-	  {
-      "active": 115,
-      "daily_active": 26,
-      "daily_deaths": 4,
-      "daily_recovered": 278,
-      "daily_total": 115,
-      "day": "05 Sep 2020",
-      "deaths": 0,
-      "id": 57,
-      "record_time": "Sat, 05 Sep 2020 01:09:15 GMT",
-      "recovered": 4,
-      "timestamp": "1599307200",
-      "total": 397
-    },
-	  
-	  {
-      "active": 127,
-      "daily_active": 14,
-      "daily_deaths": 4,
-      "daily_recovered": 280,
-      "daily_total": 127,
-      "day": "03 Sep 2020",
-      "deaths": 0,
-      "id": 55,
-      "record_time": "Thu, 03 Sep 2020 01:09:15 GMT",
-      "recovered": 2,
-      "timestamp": "1599393600",
-      "total": 411
     }
-	  
 	
 	
   ],
@@ -2995,21 +2920,21 @@
   ],
   "message": "readings",
   "num_days": 217,
-  "recovered_diff": 2,
+  "recovered_diff": 11,
   "statewise": [
     {
-      "active": 127,
+      "active": 88,
       "deaths": 4,
-      "delta_active": 14,
+      "delta_active": 17,
       "delta_deaths": 0,
-      "delta_recovered": 2,
-      "delta_total": 14,
+      "delta_recovered": 11,
+      "delta_total": 17,
       "id": 12,
-      "last_updated_time": "06/09/2020 08:05:53",
-      "record_time": "Sun, 06 Sep 2020 08:24:14 GMT",
-      "recovered": 220,
+      "last_updated_time": "03/09/2020 08:05:53",
+      "record_time": "Thu, 03 Sep 2020 08:24:14 GMT",
+      "recovered": 203,
       "state": "Lefkoşa | Nicosia",
-      "total": 351
+      "total": 295
     },
     {
       "active": 0,
@@ -3084,21 +3009,20 @@
   ],
   "success": true,
   "summary": {
-    "active": 127,
+    "active": 88,
     "deaths": 4,
-    "delta_active": 14,
+    "delta_active": 17,
     "delta_deaths": 0,
-    "delta_recovered": 2,
-    "delta_total": 14,
+    "delta_recovered": 11,
+    "delta_total": 17,
     "id": 1,
-    "active" : 127,
-    "last_updated_time": "06/09/2020 20:55:25",
-    "record_time": "2020-09-06 20:55:25",
-    "recovered": 280,
-    "total": 411
+    "active" : 88,
+    "last_updated_time": "04/09/2020 12:07:25",
+    "record_time": "2020-09-04 12:07:25",
+    "recovered": 269,
+    "total": 361
   },
-  "total_diff": 14,
+  "total_diff": 17,
   "undefinedage": 0,
-  "active_diff": 14
+  "active_diff": 17
 }
- 
