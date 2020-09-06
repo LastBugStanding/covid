@@ -16,9 +16,33 @@
   "articles": [
     
 	{
+      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1302 olduğunu, 14 pozitif vakaya  rastlandığını, 2 kişinin taburcu edildiğini açıkladı.",
+      "headline": "Bakan Pilli:Toplam 1302 test yapıldı, 14 pozitif vakaya rastlandı, 2 kişi taburcu edildi",
+      "id": 1,
+      "link": "https://brtk.net/bakan-pillitoplam-1302-test-yapildi-14-pozitif-vakaya-rastlandi-2-kisi-taburcu-edildi/",
+      "record_time": "06 Eyl 20 7:06 PM",
+      "tags": "news"
+    },
+	{
+      "body": "Güney Kıbrıs Sağlık Bakanlığı’ndan yapılan açıklamada, bugün 2149 test yapıldığı ve 3 yeni Koronavirüs pozitif vakaya rastlandığı duyuruldu.",
+      "headline": "7 Eylül’den itibaren 7 gün karantina",
+      "id": 2,
+      "link": "https://brtk.net/7-eylulden-itibaren-7-gun-karantina/",
+      "record_time": "05 Eyl 20 6:32 PM",
+      "tags": "news"
+    },
+	{
+      "body": "Milli Eğitim ve Kültür Bakanlığı’na bağlı ana okul, 1 ve 2’nci sınıfların oryantasyon eğitimi yarın başlıyor. Milli Eğitim ve Kültür Bakanı Nazım Çavuşoğlu BRT Muhabirine yaptığı açıklamada, daha önce verilen karar doğrultusunda anaokul, birinci ve ikinci sınıfların oryantasyon eğitimine yarın başlanacağını söyledi. Daha Fazla Bilgi Icin BRTK",
+      "headline": "Çavuşoğlu:Ana okul, 1 ve 2’nci sınıflar yarın eğitime başlıyor",
+      "id": 3,
+      "link": "https://brtk.net/cavusogluana-okul-1-ve-2nci-siniflar-yarin-egitime-basliyor/",
+      "record_time": "06 Eyl 20 7:31 PM",
+      "tags": "news"
+    },
+	{
       "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1265 olduğunu, 17 pozitif vakaya  rastlandığını, 11 kişinin taburcu edildiğini açıkladı.",
       "headline": "Pilli:Toplam 1265 test yapıldı, 17 pozitif vakaya rastlandı, 11 kişi taburcu edildi",
-      "id": 1,
+      "id": 4,
       "link": "https://brtk.net/bakan-pillitoplam-1265-test-yapildi-17-pozitif-vakaya-rastlandi-11-kisi-taburcu-edildi/",
       "record_time": "03 Eyl 20 7:06 PM",
       "tags": "news"
@@ -26,7 +50,7 @@
 	{
       "body": "Güney Kıbrıs Sağlık Bakanlığı’ndan yapılan açıklamada, bugün 2149 test yapıldığı ve 3 yeni Koronavirüs pozitif vakaya rastlandığı duyuruldu.",
       "headline": "Güney Kıbrıs'ta 3 yeni vaka!",
-      "id": 2,
+      "id": 5,
       "link": "https://brtk.net/guneyde-3-yeni-pozitif-vaka/",
       "record_time": "03 Eyl 20 6:32 PM",
       "tags": "news"
@@ -34,33 +58,9 @@
 	{
       "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte yapılan test sayısının 1724 olduğunu, 5 pozitif vakaya rastlandığını, 17 kişinin taburcu edildiğini açıkladı.",
       "headline": "Pilli:Toplam 1724 test yapıldı, 5 pozitif vakaya rastlandı, 17 kişi taburcu edildi.",
-      "id": 3,
+      "id": 6,
       "link": "https://brtk.net/bakan-pillitoplam-1724-test-yapildi-5-pozitif-vakaya-rastlandi-17kisi-taburcu-edildi/",
       "record_time": "02 Eyl 20 7:31 PM",
-      "tags": "news"
-    },
-	{
-      "body": "Güney Kıbrıs’ta son 24 saat icinde yapılan 2 bin 643 test sonucu 5 yeni Covid-19 vakas saptandı.Toplam vaka sayısı 1495’e yükseldi.",
-      "headline": "Güney'de 5 yeni vaka!",
-      "id": 4,
-      "link": "https://brtk.net/guney-kibrista-5-yeni-vaka/",
-      "record_time": "02 Eyl 20 6:54 PM",
-      "tags": "news"
-    },
-	{
-      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1455 olduğunu, 8 pozitif vakaya  rastlandığını, 12 kişinin taburcu edildiğini açıkladı.",
-      "headline": "Pilli:Toplam 1455 test yapıldı, 8 pozitif vakaya rastlandı, 12 kişi taburcu edildi.",
-      "id": 5,
-      "link": "https://www.brtk.net/bakan-pillitoplam-1455-test-yapildi-8-pozitif-vakaya-rastlandi-12-kisi-taburcu-edildi/",
-      "record_time": "01 Eyl 20 7:33 PM",
-      "tags": "news"
-    },
-	{
-      "body": "Güney Kıbrıs’ta bugün 2646 test sonucunda 2 yeni koronavirüs vakasına rastlandı. 1 kişi hayatını kaybetti.",
-      "headline": "Güney Kıbrıs’ta 2 yeni koronavirüs vakasına rastlandı, 1 kişi hayatını kaybetti",
-      "id": 6,
-      "link": "https://www.brtk.net/guney-kibrista-2-yeni-koronavirus-vakasina-rastlandi-1-kisi-hayatini-kaybetti/",
-      "record_time": "01 Eyl 20 6:04 PM",
       "tags": "news"
     }
 	
@@ -2894,10 +2894,10 @@
       "daily_deaths": 4,
       "daily_recovered": 280,
       "daily_total": 127,
-      "day": "03 Sep 2020",
+      "day": "06 Sep 2020",
       "deaths": 0,
       "id": 55,
-      "record_time": "Thu, 03 Sep 2020 01:09:15 GMT",
+      "record_time": "Thu, 06 Sep 2020 01:09:15 GMT",
       "recovered": 2,
       "timestamp": "1599393600",
       "total": 411
