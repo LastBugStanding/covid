@@ -1,6 +1,6 @@
 {
-  "tests": 129893,
-  "tests_diff": 1302,
+  "tests": 131704,
+  "tests_diff": 1811,
   "age": {
     "0-10": 0,
     "10-20": 0,
@@ -16,9 +16,25 @@
   "articles": [
     
 	{
+      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1811 olduğunu, 26 pozitif vakaya rastlandığını, 3 kişinin taburcu edildiğini açıkladı.",
+      "headline": "Pilli:Toplam 1811 test yapıldı, 26 pozitif vakaya rastlandı, 3 kişi taburcu edildi",
+      "id": 1,
+      "link": "https://brtk.net/bakan-pillitoplam-1811-test-yapildi-26-pozitif-vakaya-rastlandi-3-kisi-taburcu-edildi/",
+      "record_time": "07 Eyl 20 7:30 PM",
+      "tags": "news"
+    },
+	{
+      "body": "Rum Sağlık Bakanlığı’ndan yapılan açıklamaya göre, yapılan 2 bin 49 test sonucunda 1 yeni koronavirüs vakası tespit edildi.",
+      "headline": "Güney Kıbrıs’ta 1 yeni vaka,1 kişi hayatını kaybetti",
+      "id": 2,
+      "link": "https://brtk.net/guney-kibrista-1-yeni-vaka1-kisi-hayatini-kaybetti/",
+      "record_time": "07 Eyl 20 5:39 PM",
+      "tags": "news"
+    },
+	{
       "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1302 olduğunu, 14 pozitif vakaya  rastlandığını, 2 kişinin taburcu edildiğini açıkladı.",
       "headline": "Bakan Pilli:Toplam 1302 test yapıldı, 14 pozitif vakaya rastlandı, 2 kişi taburcu edildi",
-      "id": 1,
+      "id": 3,
       "link": "https://brtk.net/bakan-pillitoplam-1302-test-yapildi-14-pozitif-vakaya-rastlandi-2-kisi-taburcu-edildi/",
       "record_time": "06 Eyl 20 7:06 PM",
       "tags": "news"
@@ -26,7 +42,7 @@
 	{
       "body": "Güney Kıbrıs Sağlık Bakanlığı’ndan yapılan açıklamada, bugün 2149 test yapıldığı ve 3 yeni Koronavirüs pozitif vakaya rastlandığı duyuruldu.",
       "headline": "7 Eylül’den itibaren 7 gün karantina",
-      "id": 2,
+      "id": 4,
       "link": "https://brtk.net/7-eylulden-itibaren-7-gun-karantina/",
       "record_time": "05 Eyl 20 6:32 PM",
       "tags": "news"
@@ -34,7 +50,7 @@
 	{
       "body": "Milli Eğitim ve Kültür Bakanlığı’na bağlı ana okul, 1 ve 2’nci sınıfların oryantasyon eğitimi yarın başlıyor. Milli Eğitim ve Kültür Bakanı Nazım Çavuşoğlu BRT Muhabirine yaptığı açıklamada, daha önce verilen karar doğrultusunda anaokul, birinci ve ikinci sınıfların oryantasyon eğitimine yarın başlanacağını söyledi. Daha Fazla Bilgi Icin BRTK",
       "headline": "Çavuşoğlu:Ana okul, 1 ve 2’nci sınıflar yarın eğitime başlıyor",
-      "id": 3,
+      "id": 5,
       "link": "https://brtk.net/cavusogluana-okul-1-ve-2nci-siniflar-yarin-egitime-basliyor/",
       "record_time": "06 Eyl 20 7:31 PM",
       "tags": "news"
@@ -42,25 +58,9 @@
 	{
       "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1265 olduğunu, 17 pozitif vakaya  rastlandığını, 11 kişinin taburcu edildiğini açıkladı.",
       "headline": "Pilli:Toplam 1265 test yapıldı, 17 pozitif vakaya rastlandı, 11 kişi taburcu edildi",
-      "id": 4,
+      "id": 6,
       "link": "https://brtk.net/bakan-pillitoplam-1265-test-yapildi-17-pozitif-vakaya-rastlandi-11-kisi-taburcu-edildi/",
       "record_time": "03 Eyl 20 7:06 PM",
-      "tags": "news"
-    },
-	{
-      "body": "Güney Kıbrıs Sağlık Bakanlığı’ndan yapılan açıklamada, bugün 2149 test yapıldığı ve 3 yeni Koronavirüs pozitif vakaya rastlandığı duyuruldu.",
-      "headline": "Güney Kıbrıs'ta 3 yeni vaka!",
-      "id": 5,
-      "link": "https://brtk.net/guneyde-3-yeni-pozitif-vaka/",
-      "record_time": "03 Eyl 20 6:32 PM",
-      "tags": "news"
-    },
-	{
-      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte yapılan test sayısının 1724 olduğunu, 5 pozitif vakaya rastlandığını, 17 kişinin taburcu edildiğini açıkladı.",
-      "headline": "Pilli:Toplam 1724 test yapıldı, 5 pozitif vakaya rastlandı, 17 kişi taburcu edildi.",
-      "id": 6,
-      "link": "https://brtk.net/bakan-pillitoplam-1724-test-yapildi-5-pozitif-vakaya-rastlandi-17kisi-taburcu-edildi/",
-      "record_time": "02 Eyl 20 7:31 PM",
       "tags": "news"
     }
 	
@@ -609,6 +609,11 @@
 	{
       "count": 129893,
       "timestamp" : "1599393600"
+    },
+	
+	{
+      "count": 131704,
+      "timestamp" : "1599519600"
     }
 
     
@@ -1154,18 +1159,25 @@
       "count": 1265,
       "timestamp" : "1599174000"
     },
-	 {
+	
+	{
       "count": 1940,
       "timestamp" : "1599220800"
     },
 	  
-	 {
+	{
       "count": 1395,
       "timestamp" : "1599307200"
     },
-	  {
+	
+	{
       "count": 1302,
       "timestamp" : "1599393600"
+    },
+	
+	{
+      "count": 1811,
+      "timestamp" : "1599519600"
     }
 	  
 
@@ -2858,7 +2870,7 @@
       "total": 361
     },
 	  
-	  {
+	{
       "active": 93,
       "daily_active": 10,
       "daily_deaths": 4,
@@ -2873,7 +2885,7 @@
       "total": 371
     },
 	 
-	  {
+	{
       "active": 115,
       "daily_active": 26,
       "daily_deaths": 4,
@@ -2888,7 +2900,7 @@
       "total": 397
     },
 	  
-	  {
+	{
       "active": 127,
       "daily_active": 14,
       "daily_deaths": 4,
@@ -2897,10 +2909,25 @@
       "day": "06 Sep 2020",
       "deaths": 0,
       "id": 55,
-      "record_time": "Thu, 06 Sep 2020 01:09:15 GMT",
+      "record_time": "Sun, 06 Sep 2020 01:09:15 GMT",
       "recovered": 2,
       "timestamp": "1599393600",
       "total": 411
+    },
+	
+	{
+      "active": 150,
+      "daily_active": 26,
+      "daily_deaths": 4,
+      "daily_recovered": 283,
+      "daily_total": 150,
+      "day": "07 Sep 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Mon, 07 Sep 2020 01:09:15 GMT",
+      "recovered": 3,
+      "timestamp": "1599519600",
+      "total": 437
     }
 	  
 	
@@ -2994,22 +3021,22 @@
     }
   ],
   "message": "readings",
-  "num_days": 222,
-  "recovered_diff": 2,
+  "num_days": 223,
+  "recovered_diff": 3,
   "statewise": [
     {
-      "active": 127,
+      "active": 150,
       "deaths": 4,
-      "delta_active": 14,
+      "delta_active": 26,
       "delta_deaths": 0,
-      "delta_recovered": 2,
-      "delta_total": 14,
+      "delta_recovered": 3,
+      "delta_total": 26,
       "id": 12,
-      "last_updated_time": "06/09/2020 08:05:53",
-      "record_time": "Sun, 06 Sep 2020 08:24:14 GMT",
-      "recovered": 220,
+      "last_updated_time": "07/09/2020 08:05:53",
+      "record_time": "Mon, 07 Sep 2020 08:24:14 GMT",
+      "recovered": 223,
       "state": "Lefkoşa | Nicosia",
-      "total": 351
+      "total": 377
     },
     {
       "active": 0,
@@ -3084,20 +3111,20 @@
   ],
   "success": true,
   "summary": {
-    "active": 127,
+    "active": 150,
     "deaths": 4,
-    "delta_active": 14,
+    "delta_active": 26,
     "delta_deaths": 0,
-    "delta_recovered": 2,
-    "delta_total": 14,
+    "delta_recovered": 3,
+    "delta_total": 26,
     "id": 1,
-    "active" : 127,
-    "last_updated_time": "07/09/2020 13:12:25",
-    "record_time": "2020-09-07 13:12:25",
-    "recovered": 280,
-    "total": 411
+    "active" : 150,
+    "last_updated_time": "08/09/2020 02:41:10",
+    "record_time": "2020-09-08 02:41:10",
+    "recovered": 283,
+    "total": 437
   },
-  "total_diff": 14,
+  "total_diff": 26,
   "undefinedage": 0,
-  "active_diff": 14
+  "active_diff": 26
 }
