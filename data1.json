@@ -16,9 +16,17 @@
   "articles": [
     
 	{
+      "body": "Bakanlar Kurulu Sözcüsü, Başbakan Yardımcısı ve Dışişleri Bakanı  Kudret Özersay,  Bakanlar Kurulu toplantısı sonrası alınan kararları açıkladı.",
+      "headline": "Bakanlar Kurulu’nun bugünkü toplantısında bir dizi kararlar alındı.",
+      "id": 1,
+      "link": "https://brtk.net/bakanlar-kurulunun-bugunku-toplantisinda-bir-dizi-kararlar-alindi-iste-kararlar/",
+      "record_time": "08 Eyl 20 3:00 PM",
+      "tags": "news"
+    },
+	{
       "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1811 olduğunu, 26 pozitif vakaya rastlandığını, 3 kişinin taburcu edildiğini açıkladı.",
       "headline": "Pilli:Toplam 1811 test yapıldı, 26 pozitif vakaya rastlandı, 3 kişi taburcu edildi",
-      "id": 1,
+      "id": 2,
       "link": "https://brtk.net/bakan-pillitoplam-1811-test-yapildi-26-pozitif-vakaya-rastlandi-3-kisi-taburcu-edildi/",
       "record_time": "07 Eyl 20 7:30 PM",
       "tags": "news"
@@ -26,7 +34,7 @@
 	{
       "body": "Rum Sağlık Bakanlığı’ndan yapılan açıklamaya göre, yapılan 2 bin 49 test sonucunda 1 yeni koronavirüs vakası tespit edildi.",
       "headline": "Güney Kıbrıs’ta 1 yeni vaka,1 kişi hayatını kaybetti",
-      "id": 2,
+      "id": 3,
       "link": "https://brtk.net/guney-kibrista-1-yeni-vaka1-kisi-hayatini-kaybetti/",
       "record_time": "07 Eyl 20 5:39 PM",
       "tags": "news"
@@ -34,7 +42,7 @@
 	{
       "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1302 olduğunu, 14 pozitif vakaya  rastlandığını, 2 kişinin taburcu edildiğini açıkladı.",
       "headline": "Bakan Pilli:Toplam 1302 test yapıldı, 14 pozitif vakaya rastlandı, 2 kişi taburcu edildi",
-      "id": 3,
+      "id": 4,
       "link": "https://brtk.net/bakan-pillitoplam-1302-test-yapildi-14-pozitif-vakaya-rastlandi-2-kisi-taburcu-edildi/",
       "record_time": "06 Eyl 20 7:06 PM",
       "tags": "news"
@@ -42,7 +50,7 @@
 	{
       "body": "Güney Kıbrıs Sağlık Bakanlığı’ndan yapılan açıklamada, bugün 2149 test yapıldığı ve 3 yeni Koronavirüs pozitif vakaya rastlandığı duyuruldu.",
       "headline": "7 Eylül’den itibaren 7 gün karantina",
-      "id": 4,
+      "id": 5,
       "link": "https://brtk.net/7-eylulden-itibaren-7-gun-karantina/",
       "record_time": "05 Eyl 20 6:32 PM",
       "tags": "news"
@@ -50,20 +58,11 @@
 	{
       "body": "Milli Eğitim ve Kültür Bakanlığı’na bağlı ana okul, 1 ve 2’nci sınıfların oryantasyon eğitimi yarın başlıyor. Milli Eğitim ve Kültür Bakanı Nazım Çavuşoğlu BRT Muhabirine yaptığı açıklamada, daha önce verilen karar doğrultusunda anaokul, birinci ve ikinci sınıfların oryantasyon eğitimine yarın başlanacağını söyledi. Daha Fazla Bilgi Icin BRTK",
       "headline": "Çavuşoğlu:Ana okul, 1 ve 2’nci sınıflar yarın eğitime başlıyor",
-      "id": 5,
+      "id": 6,
       "link": "https://brtk.net/cavusogluana-okul-1-ve-2nci-siniflar-yarin-egitime-basliyor/",
       "record_time": "06 Eyl 20 7:31 PM",
       "tags": "news"
-    },
-	{
-      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1265 olduğunu, 17 pozitif vakaya  rastlandığını, 11 kişinin taburcu edildiğini açıkladı.",
-      "headline": "Pilli:Toplam 1265 test yapıldı, 17 pozitif vakaya rastlandı, 11 kişi taburcu edildi",
-      "id": 6,
-      "link": "https://brtk.net/bakan-pillitoplam-1265-test-yapildi-17-pozitif-vakaya-rastlandi-11-kisi-taburcu-edildi/",
-      "record_time": "03 Eyl 20 7:06 PM",
-      "tags": "news"
-    }
-	
+    }	
 	
   ],
   "cumulative_confirmed": [
@@ -3119,8 +3118,8 @@
     "delta_total": 26,
     "id": 1,
     "active" : 150,
-    "last_updated_time": "08/09/2020 14:39:08",
-    "record_time": "2020-09-08 14:39:08",
+    "last_updated_time": "08/09/2020 16:05:17",
+    "record_time": "2020-09-08 16:05:17",
     "recovered": 283,
     "total": 437
   },
