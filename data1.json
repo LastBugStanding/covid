@@ -3074,7 +3074,7 @@
   "recovered_diff": 10,
   "statewise": [
     {
-      "active": 194,
+      "active": 204,
       "deaths": 4,
       "delta_active": 19,
       "delta_deaths": 0,
@@ -3085,10 +3085,10 @@
       "record_time": "Wed, 09 Sep 2020 10:54:25 GMT",
       "recovered": 236,
       "state": "Lefkoşa | Nicosia",
-      "total": 434
+      "total": 444
     },
     {
-      "active": 10,
+      "active": 0,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -3099,7 +3099,7 @@
       "record_time": "Wed, 09 Eyl 2020 19:39:24 GMT",
       "recovered": 38,
       "state": "Girne | Kyrenia",
-      "total": 48
+      "total": 38
     },
     {
       "active": 0,
@@ -3168,8 +3168,8 @@
     "delta_total": 19,
     "id": 1,
     "active" : 194,
-    "last_updated_time": "09/09/2020 19:41:43",
-    "record_time": "2020-09-09 19:41:43",
+    "last_updated_time": "09/09/2020 20:08:10",
+    "record_time": "2020-09-09 20:08:10",
     "recovered": 296,
     "total": 494
   },
