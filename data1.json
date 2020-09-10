@@ -16,9 +16,17 @@
   "articles": [
     
 	{
+      "body": "Türkiye’den Ercan Havalimanı’na gelen Türkiye Sağlık Bakanlığı’na ait ambulans uçak, ilk etapta 4 Kovid-19 hastasını alarak, Türkiye’ye geri döndü.",
+      "headline": "Kovid-19 hastalarının Türkiye’ye nakli başladı",
+      "id": 1,
+      "link": "https://brtk.net/kovid-19-hastalarinin-turkiyeye-nakli-basladi/",
+      "record_time": "10 Eyl 20 09:14 AM",
+      "tags": "news"
+    },
+	{
       "body": "Başbakan Ersin Tatar, “ Türkiye’nin bu gece yarısından itibaren Kuzey Kıbrıs Türk Cumhuriyeti’ndeki kovid-19 hastalarının Türkiye’deki sağlık servislerine nakline başlayacağını” açıkladı.",
       "headline": "Başbakan Tatar:Türkiye Cumhuriyeti KKTC’deki Kovid-19 hastalarının Türkiye’deki sağlık servislerine nakline başlayacak",
-      "id": 1,
+      "id": 2,
       "link": "https://brtk.net/bakan-pillitoplam-1811-test-yapildi-26-pozitif-vakaya-rastlandi-3-kisi-taburcu-edildi/",
       "record_time": "09 Eyl 20 7:52 PM",
       "tags": "news"
@@ -26,7 +34,7 @@
 	{
       "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1214 olduğunu, 19 pozitif vakaya  rastlandığını, 10 kişinin taburcu edildiğini açıkladı.",
       "headline": "Pilli:Toplam 1214 test yapıldı, 19 pozitif vakaya rastlandı, 10 kişi taburcu edildi",
-      "id": 2,
+      "id": 3,
       "link": "https://brtk.net/bakan-pillitoplam-1214-test-yapildi-19-pozitif-vakaya-rastlandi-10-kisi-taburcu-edildi/",
       "record_time": "09 Eyl 20 7:12 PM",
       "tags": "news"
@@ -34,7 +42,7 @@
 	{
       "body": "Güney Kıbrıs Sağlık Bakanlığı, bugün 2 bin 251 test yapıldığını ve 3 yeni Koronavirüs pozitif vakaya rastlandığı duyurdu",
       "headline": "Güney Kıbrıs’ta 3 yeni vaka",
-      "id": 3,
+      "id": 4,
       "link": "https://brtk.net/guney-kibrista-3-yeni-vaka/",
       "record_time": "09 Eyl 20 5:02 PM",
       "tags": "news"
@@ -42,7 +50,7 @@
 	{
       "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1561 olduğunu, 38 pozitif vakaya rastlandığını, 3 kişinin taburcu edildiğini açıkladı.",
       "headline": "Pilli:Toplam 1561 test yapıldı, 38 pozitif vakaya rastlandı, 3 kişi taburcu edildi",
-      "id": 4,
+      "id": 5,
       "link": "https://brtk.net/bakan-pillitoplam-1561-test-yapildi-38-pozitif-vakaya-rastlandi-3-kisi-taburcu-edildi/",
       "record_time": "08 Eyl 20 8:20 PM",
       "tags": "news"
@@ -50,17 +58,9 @@
 	{
       "body": "Güney Kıbrıs’ta son 24 saat içerisinde gerçekleştirilen 2 bin 797 test sonucunda yalnızca 1 Covid-19 vakası tespit edildi.",
       "headline": "Güney Kıbrıs’ta 1 yeni vaka",
-      "id": 5,
+      "id": 6,
       "link": "https://brtk.net/guney-kibrista-1-yeni-vaka/",
       "record_time": "08 Eyl 20 5:23 PM",
-      "tags": "news"
-    },
-	{
-      "body": "Bakanlar Kurulu Sözcüsü, Başbakan Yardımcısı ve Dışişleri Bakanı  Kudret Özersay,  Bakanlar Kurulu toplantısı sonrası alınan kararları açıkladı.",
-      "headline": "Bakanlar Kurulu’nun bugünkü toplantısında bir dizi kararlar alındı.",
-      "id": 6,
-      "link": "https://brtk.net/bakanlar-kurulunun-bugunku-toplantisinda-bir-dizi-kararlar-alindi-iste-kararlar/",
-      "record_time": "08 Eyl 20 3:00 PM",
       "tags": "news"
     }	
 	
@@ -3168,8 +3168,8 @@
     "delta_total": 19,
     "id": 1,
     "active" : 194,
-    "last_updated_time": "10/09/2020 11:06:15",
-    "record_time": "2020-09-10 11:06:15",
+    "last_updated_time": "10/09/2020 11:08:17",
+    "record_time": "2020-09-10 11:08:17",
     "recovered": 296,
     "total": 494
   },
