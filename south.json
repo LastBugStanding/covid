@@ -1,6 +1,6 @@
 {
-  "tests": 320045,
-  "tests_diff": 2049,
+  "tests": 325093,
+  "tests_diff": 2251,
   "information": [
     
 	{
@@ -948,6 +948,16 @@
 	{
       "count": 320045,
       "timestamp" : "1599519974"
+    },
+	
+	{
+      "count": 322842,
+      "timestamp" : "1599549867"
+    },
+	
+	{
+      "count": 325093,
+      "timestamp" : "1599636267"
     }
 
     
@@ -1846,6 +1856,16 @@
 	{
       "count": 2049,
       "timestamp" : "1599519974"
+    },
+	
+	{
+      "count": 2797,
+      "timestamp" : "1599549867"
+    },
+	
+	{
+      "count": 2251,
+      "timestamp" : "1599636267"
     }
 
 
@@ -3521,95 +3541,95 @@
       "total": 1161
     }
   ],
-  "deaths_diff": 1,
+  "deaths_diff": 0,
   
 
   "statewise": [
     {
-      "active": 96,
-      "deaths": 4,
-      "delta_active": 10,
+      "active": 170,
+      "deaths": 0,
+      "delta_active": 0,
       "delta_deaths": 0,
-      "delta_recovered": 7,
-      "delta_total": 10,
+      "delta_recovered": 0,
+      "delta_total": 0,
       "id": 12,
-      "last_updated_time": "28/08/2020 08:05:53",
-      "record_time": "Fri, 28 Aug 2020 08:24:14 GMT",
-      "recovered": 145,
+      "last_updated_time": "11/09/2020 10:28:48",
+      "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
+      "recovered": 0,
       "state": "Ammochostos | Gazimağusa",
-      "total": 245
+      "total": 170
     },
     {
-      "active": 0,
+      "active": 254,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
       "delta_recovered": 0,
       "delta_total": 0,
       "id": 18,
-      "last_updated_time": "24/05/2020 10:40:24",
-      "record_time": "Thu, 24 May 2020 07:54:14 GMT",
-      "recovered": 38,
+      "last_updated_time": "11/09/2020 10:28:48",
+      "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
+      "recovered": 0,
       "state": "Larnaka",
-      "total": 38
+      "total": 254
     },
     {
-      "active": 0,
+      "active": 138,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
       "delta_recovered": 0,
       "delta_total": 0,
       "id": 5,
-      "last_updated_time": "24/05/2020 11:40:25",
-      "record_time": "Thu, 24 May 2020 07:54:14 GMT",
-      "recovered": 10,
+      "last_updated_time": "11/09/2020 10:28:48",
+      "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
+      "recovered": 0,
       "state": "Lefkosia | Lefkoşa",
-      "total": 10
+      "total": 138
     },
     {
-      "active": 0,
+      "active": 104,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
       "delta_recovered": 0,
       "delta_total": 0,
       "id": 4,
-      "last_updated_time": "24/05/2020 15:37:24",
-      "record_time": "Thu, 24 May 2020 15:54:14 GMT",
-      "recovered": 10,
+      "last_updated_time": "11/09/2020 10:28:48",
+      "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
+      "recovered": 0,
       "state": "Lemesos | Limasol",
-      "total": 10
+      "total": 104
     },
     {
-      "active": 0,
+      "active": 203,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
       "delta_recovered": 0,
       "delta_total": 0,
       "id": 17,
-      "last_updated_time": "24/05/2020 15:23:26",
-      "record_time": "Thu, 24 May 2020 15:44:14 GMT",
-      "recovered": 1,
+      "last_updated_time": "11/09/2020 10:28:48",
+      "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
+      "recovered": 0,
       "state": "Pafos | Baf",
-      "total": 1
+      "total": 203
     }
   ],
   "success": true,
   "summary": {
-    "active": 244,
-    "deaths": 21,
-    "delta_active": 2,
+    "active": 248,
+    "deaths": 22,
+    "delta_active": 3,
     "delta_deaths": 0,
     "delta_recovered": 0,
-    "delta_total": 2,
+    "delta_total": 3,
     "id": 1,
-    "active" : 244,
-    "last_updated_time": "07/09/2020 12:19:48",
-    "record_time": "2020-09-07 12:19:48",
+    "active" : 248,
+    "last_updated_time": "11/09/2020 10:28:48",
+    "record_time": "2020-09-11 10:28:48",
     "recovered": 1237,
-    "total": 1509
+    "total": 1514
   },
 	
 	"gender": [
@@ -3624,7 +3644,7 @@
   ],
 
 	"age": {
-    "0-10": 3,
+    "0-10": 2,
     "10-20": 8,
     "20-30": 19,
     "30-40": 20,
@@ -3635,9 +3655,9 @@
     "80+": 2
   },
   "message": "readings",
-  "num_days": 223,
+  "num_days": 226,
   "recovered_diff": 0,
-  "total_diff": 1,
+  "total_diff": 3,
   "undefinedage": 0,
-  "active_diff": 1
+  "active_diff": 3
 }
