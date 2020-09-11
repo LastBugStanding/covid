@@ -3095,7 +3095,7 @@
     }
   ],
   "message": "readings",
-  "num_days": 225,
+  "num_days": 226,
   "recovered_diff": 15,
   "statewise": [
     {
@@ -3193,8 +3193,8 @@
     "delta_total": 22,
     "id": 1,
     "active" : 201,
-    "last_updated_time": "10/09/2020 19:32:14",
-    "record_time": "2020-09-10 19:32:14",
+    "last_updated_time": "11/09/2020 10:34:14",
+    "record_time": "2020-09-11 10:34:14",
     "recovered": 311,
     "total": 516
   },
