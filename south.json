@@ -1,6 +1,6 @@
 {
-  "tests": 325093,
-  "tests_diff": 2251,
+  "tests": 327076,
+  "tests_diff": 2452,
   "information": [
     
 	{
@@ -958,6 +958,11 @@
 	{
       "count": 325093,
       "timestamp" : "1599636267"
+    },
+	
+	{
+      "count": 327076,
+      "timestamp" : "1599778802"
     }
 
     
@@ -1866,6 +1871,11 @@
 	{
       "count": 2251,
       "timestamp" : "1599636267"
+    },
+	
+	{
+      "count": 2452,
+      "timestamp" : "1599778802"
     }
 
 
@@ -3560,7 +3570,7 @@
       "total": 170
     },
     {
-      "active": 254,
+      "active": 255,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -3602,7 +3612,7 @@
       "total": 104
     },
     {
-      "active": 203,
+      "active": 204,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -3618,18 +3628,18 @@
   ],
   "success": true,
   "summary": {
-    "active": 248,
+    "active": 207,
     "deaths": 22,
     "delta_active": 3,
     "delta_deaths": 0,
     "delta_recovered": 0,
     "delta_total": 3,
     "id": 1,
-    "active" : 248,
-    "last_updated_time": "11/09/2020 10:28:48",
-    "record_time": "2020-09-11 10:28:48",
-    "recovered": 1237,
-    "total": 1514
+    "active" : 207,
+    "last_updated_time": "12/09/2020 11:06:48",
+    "record_time": "2020-09-12 11:06:48",
+    "recovered": 1281,
+    "total": 1517
   },
 	
 	"gender": [
@@ -3650,12 +3660,12 @@
     "30-40": 20,
     "40-50": 16,
     "50-60": 15,
-    "60-70": 9,
+    "60-70": 10,
     "70-80": 8,
     "80+": 2
   },
   "message": "readings",
-  "num_days": 226,
+  "num_days": 227,
   "recovered_diff": 0,
   "total_diff": 3,
   "undefinedage": 0,
