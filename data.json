@@ -1,6 +1,6 @@
 {
-  "tests": 135689,
-  "tests_diff": 1210,
+  "tests": 138030,
+  "tests_diff": 2341,
   "age": {
     "0-10": 0,
     "10-20": 0,
@@ -16,9 +16,25 @@
   "articles": [
     
 	{
+      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 2341 olduğunu, 25 pozitif vakaya  rastlandığını, 10 kişinin taburcu edildiğini açıkladı.",
+      "headline": "Pilli:Toplam 2341 test yapıldı, 25 pozitif vakaya rastlandı, 10 kişi taburcu edildi",
+      "id": 1,
+      "link": "https://brtk.net/bakan-pillitoplam-2341-test-yapildi-25-pozitif-vakaya-rastlandi-10-kisi-taburcu-edildi/",
+      "record_time": "11 Eyl 20 7:05 PM",
+      "tags": "news"
+    },
+	{
+      "body": "Güney Kıbrıs’ta son 24 saate yapılan 3108 test sonucunda 3 yeni vakaya rastlandı.",
+      "headline": "Güney Kıbrıs’ta 3 yeni vaka",
+      "id": 2,
+      "link": "https://brtk.net/guney-kibrista-son-24-saate-yapilan-3108-test-sonucunda-3-yeni-vakaya-rastlandi/",
+      "record_time": "11 Eyl 20 6:35 PM",
+      "tags": "news"
+    },
+	{
       "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1210 olduğunu, 22 pozitif vakaya  rastlandığını, 15 kişinin taburcu edildiğini açıkladı.",
       "headline": "Pilli:Toplam 1210 test yapıldı, 22 pozitif vakaya rastlandı, 15 kişi taburcu edildi",
-      "id": 1,
+      "id": 3,
       "link": "https://brtk.net/bakan-pillitoplam-1210-test-yapildi-22-pozitif-vakaya-rastlandi-15-kisi-taburcu-edildi/",
       "record_time": "10 Eyl 20 6:48 PM",
       "tags": "news"
@@ -26,7 +42,7 @@
 	{
       "body": "Güney Kıbrıs Sağlık Bakanlığı’ndan yapılan açıklamada, bugün 2452 PCR testi yapıldığı ve 3 Koronavirüs pozitif vakaya rastlandığı duyuruldu.",
       "headline": "Güney Kıbrıs’ta 2452 test yapıldı, 3 yeni vaka",
-      "id": 2,
+      "id": 4,
       "link": "https://brtk.net/guney-kibrista-2452-test-yapildi-3-yeni-vaka/",
       "record_time": "10 Eyl 20 5:07 PM",
       "tags": "news"
@@ -34,7 +50,7 @@
 	{
       "body": "Türkiye’den Ercan Havalimanı’na gelen Türkiye Sağlık Bakanlığı’na ait ambulans uçak, ilk etapta 4 Kovid-19 hastasını alarak, Türkiye’ye geri döndü.",
       "headline": "Kovid-19 hastalarının Türkiye’ye nakli başladı",
-      "id": 3,
+      "id": 5,
       "link": "https://brtk.net/kovid-19-hastalarinin-turkiyeye-nakli-basladi/",
       "record_time": "10 Eyl 20 09:14 AM",
       "tags": "news"
@@ -42,25 +58,9 @@
 	{
       "body": "Başbakan Ersin Tatar, “ Türkiye’nin bu gece yarısından itibaren Kuzey Kıbrıs Türk Cumhuriyeti’ndeki kovid-19 hastalarının Türkiye’deki sağlık servislerine nakline başlayacağını” açıkladı.",
       "headline": "Başbakan Tatar:Türkiye Cumhuriyeti KKTC’deki Kovid-19 hastalarının Türkiye’deki sağlık servislerine nakline başlayacak",
-      "id": 4,
+      "id": 6,
       "link": "https://brtk.net/bakan-pillitoplam-1811-test-yapildi-26-pozitif-vakaya-rastlandi-3-kisi-taburcu-edildi/",
       "record_time": "09 Eyl 20 7:52 PM",
-      "tags": "news"
-    },
-	{
-      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1214 olduğunu, 19 pozitif vakaya  rastlandığını, 10 kişinin taburcu edildiğini açıkladı.",
-      "headline": "Pilli:Toplam 1214 test yapıldı, 19 pozitif vakaya rastlandı, 10 kişi taburcu edildi",
-      "id": 5,
-      "link": "https://brtk.net/bakan-pillitoplam-1214-test-yapildi-19-pozitif-vakaya-rastlandi-10-kisi-taburcu-edildi/",
-      "record_time": "09 Eyl 20 7:12 PM",
-      "tags": "news"
-    },
-	{
-      "body": "Güney Kıbrıs Sağlık Bakanlığı, bugün 2 bin 251 test yapıldığını ve 3 yeni Koronavirüs pozitif vakaya rastlandığı duyurdu",
-      "headline": "Güney Kıbrıs’ta 3 yeni vaka",
-      "id": 6,
-      "link": "https://brtk.net/guney-kibrista-3-yeni-vaka/",
-      "record_time": "09 Eyl 20 5:02 PM",
       "tags": "news"
     }	
 	
@@ -628,6 +628,11 @@
 	{
       "count": 135689,
       "timestamp" : "1599755006"
+    },
+	
+	{
+      "count": 138030,
+      "timestamp" : "1599865202"
     }
 
     
@@ -1207,8 +1212,12 @@
 	{
       "count": 1210,
       "timestamp" : "1599755006"
-    }
-	  
+    },
+	
+	{
+      "count": 2341,
+      "timestamp" : "1599865202"
+    } 
 
 
     
@@ -3002,6 +3011,21 @@
       "recovered": 15,
       "timestamp": "1599755006",
       "total": 516
+    },
+	
+	{
+      "active": 216,
+      "daily_active": 25,
+      "daily_deaths": 4,
+      "daily_recovered": 321,
+      "daily_total": 216,
+      "day": "11 Sep 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Thu, 10 Sep 2020 01:09:15 GMT",
+      "recovered": 10,
+      "timestamp": "1599865202",
+      "total": 541
     }
 	  
 	
@@ -3096,21 +3120,21 @@
   ],
   "message": "readings",
   "num_days": 226,
-  "recovered_diff": 15,
+  "recovered_diff": 10,
   "statewise": [
     {
-      "active": 201,
+      "active": 216,
       "deaths": 4,
-      "delta_active": 22,
+      "delta_active": 25,
       "delta_deaths": 0,
-      "delta_recovered": 15,
-      "delta_total": 22,
+      "delta_recovered": 10,
+      "delta_total": 25,
       "id": 12,
-      "last_updated_time": "10/09/2020 10:54:25",
-      "record_time": "Thu, 10 Sep 2020 10:54:25 GMT",
-      "recovered": 251,
+      "last_updated_time": "11/09/2020 10:54:25",
+      "record_time": "Fri, 11 Sep 2020 10:54:25 GMT",
+      "recovered": 261,
       "state": "Lefkoşa | Nicosia",
-      "total": 456
+      "total": 481
     },
     {
       "active": 0,
@@ -3185,20 +3209,20 @@
   ],
   "success": true,
   "summary": {
-    "active": 201,
+    "active": 216,
     "deaths": 4,
-    "delta_active": 22,
+    "delta_active": 25,
     "delta_deaths": 0,
-    "delta_recovered": 15,
-    "delta_total": 22,
+    "delta_recovered": 10,
+    "delta_total": 25,
     "id": 1,
-    "active" : 201,
-    "last_updated_time": "11/09/2020 12:46:14",
-    "record_time": "2020-09-11 12:46:14",
-    "recovered": 311,
-    "total": 516
+    "active" : 216,
+    "last_updated_time": "12/09/2020 10:44:44",
+    "record_time": "2020-09-10 10:44:44",
+    "recovered": 321,
+    "total": 541
   },
-  "total_diff": 22,
+  "total_diff": 25,
   "undefinedage": 0,
-  "active_diff": 22
+  "active_diff": 25
 }
