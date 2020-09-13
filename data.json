@@ -1,6 +1,6 @@
 {
-  "tests": 138030,
-  "tests_diff": 2341,
+  "tests": 140284,
+  "tests_diff": 2254,
   "age": {
     "0-10": 0,
     "10-20": 0,
@@ -16,9 +16,25 @@
   "articles": [
     
 	{
+      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 2254 olduğunu, 32 pozitif vakaya  rastlandığını, 5 kişinin taburcu edildiğini açıkladı.",
+      "headline": "Pilli:Toplam 2254 test yapıldı, 32 pozitif vakaya rastlandı, 5 kişi taburcu edildi",
+      "id": 1,
+      "link": "https://brtk.net/bakan-pillitoplam-2254-test-yapildi-32-pozitif-vakaya-rastlandi-5-kisi-taburcu-edildi/",
+      "record_time": "12 Eyl 20 8:34 PM",
+      "tags": "news"
+    },
+	{
+      "body": "Rum Sağlık Bakanlığı verilerine göre bugün toplam 2320 test yapıldı. 3 yeni vakaya rastlandığı bildirildi.",
+      "headline": "Güney Kıbrıs’ta 3 yeni Covid-19 vakası tespit edildi",
+      "id": 2,
+      "link": "https://brtk.net/guney-kibrista-3-yeni-covid-19-vakasi-tespit-edildi/",
+      "record_time": "12 Eyl 20 5:31 PM",
+      "tags": "news"
+    },
+	{
       "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 2341 olduğunu, 25 pozitif vakaya  rastlandığını, 10 kişinin taburcu edildiğini açıkladı.",
       "headline": "Pilli:Toplam 2341 test yapıldı, 25 pozitif vakaya rastlandı, 10 kişi taburcu edildi",
-      "id": 1,
+      "id": 3,
       "link": "https://brtk.net/bakan-pillitoplam-2341-test-yapildi-25-pozitif-vakaya-rastlandi-10-kisi-taburcu-edildi/",
       "record_time": "11 Eyl 20 7:05 PM",
       "tags": "news"
@@ -26,7 +42,7 @@
 	{
       "body": "Güney Kıbrıs’ta son 24 saate yapılan 3108 test sonucunda 3 yeni vakaya rastlandı.",
       "headline": "Güney Kıbrıs’ta 3 yeni vaka",
-      "id": 2,
+      "id": 4,
       "link": "https://brtk.net/guney-kibrista-son-24-saate-yapilan-3108-test-sonucunda-3-yeni-vakaya-rastlandi/",
       "record_time": "11 Eyl 20 6:35 PM",
       "tags": "news"
@@ -34,7 +50,7 @@
 	{
       "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1210 olduğunu, 22 pozitif vakaya  rastlandığını, 15 kişinin taburcu edildiğini açıkladı.",
       "headline": "Pilli:Toplam 1210 test yapıldı, 22 pozitif vakaya rastlandı, 15 kişi taburcu edildi",
-      "id": 3,
+      "id": 5,
       "link": "https://brtk.net/bakan-pillitoplam-1210-test-yapildi-22-pozitif-vakaya-rastlandi-15-kisi-taburcu-edildi/",
       "record_time": "10 Eyl 20 6:48 PM",
       "tags": "news"
@@ -42,25 +58,9 @@
 	{
       "body": "Güney Kıbrıs Sağlık Bakanlığı’ndan yapılan açıklamada, bugün 2452 PCR testi yapıldığı ve 3 Koronavirüs pozitif vakaya rastlandığı duyuruldu.",
       "headline": "Güney Kıbrıs’ta 2452 test yapıldı, 3 yeni vaka",
-      "id": 4,
+      "id": 6,
       "link": "https://brtk.net/guney-kibrista-2452-test-yapildi-3-yeni-vaka/",
       "record_time": "10 Eyl 20 5:07 PM",
-      "tags": "news"
-    },
-	{
-      "body": "Türkiye’den Ercan Havalimanı’na gelen Türkiye Sağlık Bakanlığı’na ait ambulans uçak, ilk etapta 4 Kovid-19 hastasını alarak, Türkiye’ye geri döndü.",
-      "headline": "Kovid-19 hastalarının Türkiye’ye nakli başladı",
-      "id": 5,
-      "link": "https://brtk.net/kovid-19-hastalarinin-turkiyeye-nakli-basladi/",
-      "record_time": "10 Eyl 20 09:14 AM",
-      "tags": "news"
-    },
-	{
-      "body": "Başbakan Ersin Tatar, “ Türkiye’nin bu gece yarısından itibaren Kuzey Kıbrıs Türk Cumhuriyeti’ndeki kovid-19 hastalarının Türkiye’deki sağlık servislerine nakline başlayacağını” açıkladı.",
-      "headline": "Başbakan Tatar:Türkiye Cumhuriyeti KKTC’deki Kovid-19 hastalarının Türkiye’deki sağlık servislerine nakline başlayacak",
-      "id": 6,
-      "link": "https://brtk.net/bakan-pillitoplam-1811-test-yapildi-26-pozitif-vakaya-rastlandi-3-kisi-taburcu-edildi/",
-      "record_time": "09 Eyl 20 7:52 PM",
       "tags": "news"
     }	
 	
@@ -633,6 +633,11 @@
 	{
       "count": 138030,
       "timestamp" : "1599865202"
+    },
+	
+	{
+      "count": 140284,
+      "timestamp" : "1599951600"
     }
 
     
@@ -1217,7 +1222,14 @@
 	{
       "count": 2341,
       "timestamp" : "1599865202"
-    } 
+    },
+	
+	{
+      "count": 2254,
+      "timestamp" : "1599951600"
+    }
+
+	
 
 
     
@@ -3022,10 +3034,25 @@
       "day": "11 Sep 2020",
       "deaths": 0,
       "id": 55,
-      "record_time": "Thu, 10 Sep 2020 01:09:15 GMT",
+      "record_time": "Fri, 11 Sep 2020 01:09:15 GMT",
       "recovered": 10,
       "timestamp": "1599865202",
       "total": 541
+    },
+	
+	{
+      "active": 243,
+      "daily_active": 32,
+      "daily_deaths": 4,
+      "daily_recovered": 326,
+      "daily_total": 243,
+      "day": "12 Sep 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Sat, 12 Sep 2020 01:09:15 GMT",
+      "recovered": 10,
+      "timestamp": "1599951600",
+      "total": 573
     }
 	  
 	
@@ -3119,22 +3146,22 @@
     }
   ],
   "message": "readings",
-  "num_days": 227,
-  "recovered_diff": 10,
+  "num_days": 228,
+  "recovered_diff": 5,
   "statewise": [
     {
-      "active": 216,
+      "active": 243,
       "deaths": 4,
-      "delta_active": 25,
+      "delta_active": 32,
       "delta_deaths": 0,
-      "delta_recovered": 10,
+      "delta_recovered": 5,
       "delta_total": 25,
       "id": 12,
-      "last_updated_time": "11/09/2020 10:54:25",
-      "record_time": "Fri, 11 Sep 2020 10:54:25 GMT",
-      "recovered": 261,
+      "last_updated_time": "12/09/2020 10:54:25",
+      "record_time": "Sat, 12 Sep 2020 10:54:25 GMT",
+      "recovered": 266,
       "state": "Lefkoşa | Nicosia",
-      "total": 481
+      "total": 513
     },
     {
       "active": 0,
@@ -3209,20 +3236,20 @@
   ],
   "success": true,
   "summary": {
-    "active": 216,
+    "active": 243,
     "deaths": 4,
-    "delta_active": 25,
+    "delta_active": 32,
     "delta_deaths": 0,
-    "delta_recovered": 10,
-    "delta_total": 25,
+    "delta_recovered": 5,
+    "delta_total": 32,
     "id": 1,
     "active" : 216,
-    "last_updated_time": "12/09/2020 12:34:44",
-    "record_time": "2020-09-10 12:34:44",
-    "recovered": 321,
-    "total": 541
+    "last_updated_time": "13/09/2020 10:57:40",
+    "record_time": "2020-09-13 10:57:40",
+    "recovered": 326,
+    "total": 573
   },
-  "total_diff": 25,
+  "total_diff": 32,
   "undefinedage": 0,
-  "active_diff": 25
+  "active_diff": 32
 }
