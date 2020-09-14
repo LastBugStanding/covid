@@ -1,6 +1,6 @@
 {
-  "tests": 327076,
-  "tests_diff": 2452,
+  "tests": 335314,
+  "tests_diff": 2810,
   "information": [
     
 	{
@@ -963,6 +963,21 @@
 	{
       "count": 327076,
       "timestamp" : "1599778802"
+    },
+	
+	{
+      "count": 330184,
+      "timestamp" : "1599865228"
+    },
+	
+	{
+      "count": 332504,
+      "timestamp" : "1599951628"
+    },
+	
+	{
+      "count": 335314,
+      "timestamp" : "1600038028"
     }
 
     
@@ -1876,6 +1891,21 @@
 	{
       "count": 2452,
       "timestamp" : "1599778802"
+    },
+	
+	{
+      "count": 3108,
+      "timestamp" : "1599865228"
+    },
+	
+	{
+      "count": 2320,
+      "timestamp" : "1599951628"
+    },
+	
+	{
+      "count": 2810,
+      "timestamp" : "1600038028"
     }
 
 
@@ -3570,7 +3600,7 @@
       "total": 170
     },
     {
-      "active": 255,
+      "active": 256,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -3581,10 +3611,10 @@
       "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
       "recovered": 0,
       "state": "Larnaka",
-      "total": 254
+      "total": 256
     },
     {
-      "active": 138,
+      "active": 137,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -3595,7 +3625,7 @@
       "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
       "recovered": 0,
       "state": "Lefkosia | Lefkoşa",
-      "total": 138
+      "total": 137
     },
     {
       "active": 104,
@@ -3628,18 +3658,18 @@
   ],
   "success": true,
   "summary": {
-    "active": 207,
+    "active": 216,
     "deaths": 22,
     "delta_active": 3,
     "delta_deaths": 0,
     "delta_recovered": 0,
     "delta_total": 3,
     "id": 1,
-    "active" : 207,
-    "last_updated_time": "12/09/2020 11:06:48",
-    "record_time": "2020-09-12 11:06:48",
+    "active" : 216,
+    "last_updated_time": "14/09/2020 12:10:48",
+    "record_time": "2020-09-12 12:10:48",
     "recovered": 1281,
-    "total": 1517
+    "total": 1526
   },
 	
 	"gender": [
@@ -3665,7 +3695,7 @@
     "80+": 2
   },
   "message": "readings",
-  "num_days": 227,
+  "num_days": 229,
   "recovered_diff": 0,
   "total_diff": 3,
   "undefinedage": 0,
