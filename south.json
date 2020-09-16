@@ -1,6 +1,6 @@
 {
-  "tests": 337274,
-  "tests_diff": 1960,
+  "tests": 340431,
+  "tests_diff": 3157,
   "information": [
     
 	{
@@ -983,6 +983,11 @@
 	{
       "count": 337274,
       "timestamp" : "1600124425"
+    },
+	
+	{
+      "count": 340431,
+      "timestamp" : "1600210845"
     }
 
     
@@ -1916,6 +1921,11 @@
 	{
       "count": 1960,
       "timestamp" : "1600124425"
+    },
+	
+	{
+      "count": 3157,
+      "timestamp" : "1600210845"
     }
 
 
@@ -3670,16 +3680,16 @@
   "summary": {
     "active": 230,
     "deaths": 22,
-    "delta_active": 8,
+    "delta_active": 6,
     "delta_deaths": 0,
     "delta_recovered": 0,
-    "delta_total": 8,
+    "delta_total": 6,
     "id": 1,
     "active" : 230,
-    "last_updated_time": "16/09/2020 15:18:32",
-    "record_time": "2020-09-16 15:18:32",
+    "last_updated_time": "16/09/2020 18:31:23",
+    "record_time": "2020-09-16 18:31:23",
     "recovered": 1281,
-    "total": 1534
+    "total": 1540
   },
 	
 	"gender": [
@@ -3707,7 +3717,7 @@
   "message": "readings",
   "num_days": 231,
   "recovered_diff": 0,
-  "total_diff": 8,
+  "total_diff": 6,
   "undefinedage": 0,
-  "active_diff": 8
+  "active_diff": 6
 }
