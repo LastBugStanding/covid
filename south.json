@@ -1,12 +1,20 @@
 {
-  "tests": 335314,
-  "tests_diff": 2810,
+  "tests": 337274,
+  "tests_diff": 1960,
   "information": [
     
 	{
+      "body": "Epidemiological risk assessment of countries concerning COVID-19, dated 15/09/2020",
+      "headline": "Epidemiological risk assessment of countries concerning COVID-19, 15-9-2020",
+      "id": 1,
+      "link": "https://www.pio.gov.cy/coronavirus/en/press/03082020_1.pdf",
+      "record_time": "15 Eyl 20 7:46 PM",
+      "tags": "news"
+    },
+	{
       "body": "Epidemiological risk assessment of countries concerning COVID-19 dated 01/09/2020",
       "headline": "Epidemiological risk assessment of countries concerning COVID-19 dated 01/09/2020",
-      "id": 1,
+      "id": 2,
       "link": "https://www.pio.gov.cy/coronavirus/en/press/1092020_5.pdf",
       "record_time": "01 Eyl 20 6:18 PM",
       "tags": "news"
@@ -14,7 +22,7 @@
 	{
       "body": "Epidemiological risk assessment of countries concerning COVID-19 dated 24/08/2020",
       "headline": "Epidemiological risk assessment of countries concerning COVID-19 dated 24/08/2020",
-      "id": 2,
+      "id": 3,
       "link": "https://www.pio.gov.cy/coronavirus/en/press/24082020_7.pdf",
       "record_time": "24 Ağu 20 7:11 PM",
       "tags": "news"
@@ -22,7 +30,7 @@
 	{
       "body": "Epidemiological risk assessment of countries concerning COVID-19 dated 17/08/2020",
       "headline": "Epidemiological risk assessment of countries concerning COVID-19 dated 17/08/2020",
-      "id": 3,
+      "id": 4,
       "link": "https://www.pio.gov.cy/coronavirus/en/press/17082020_2.pdf",
       "record_time": "17 Ağu 20 6:05 PM",
       "tags": "news"
@@ -30,7 +38,7 @@
 	{
       "body": "Epidemiological risk assessment of countries concerning COVID-19 dated 11/8/2020",
       "headline": "Epidemiological risk assessment of countries concerning COVID-19 dated 11/8/2020",
-      "id": 4,
+      "id": 5,
       "link": "https://www.pio.gov.cy/coronavirus/en/press/11082020_8.pdf",
       "record_time": "11 Ağu 20 7:25 PM",
       "tags": "news"
@@ -38,17 +46,9 @@
 	{
       "body": "Epidemiological risk assessment of countries concerning COVID-19 dated 04/08/2020",
       "headline": "Epidemiological risk assessment of countries concerning COVID-19 dated 04/08/2020",
-      "id": 5,
+      "id": 6,
       "link": "https://www.pio.gov.cy/coronavirus/en/press/05082020_1.pdf",
       "record_time": "4 Ağu 20 5:58 PM",
-      "tags": "news"
-    },
-	{
-      "body": "Greece is to be moved tocategory B with effect from 6 August 2020.",
-      "headline": "Greece is being moved to category B",
-      "id": 6,
-      "link": "https://www.pio.gov.cy/coronavirus/en/press/03082020_1.pdf",
-      "record_time": "3 Ağu 20 7:46 PM",
       "tags": "news"
     }
 	
@@ -978,6 +978,11 @@
 	{
       "count": 335314,
       "timestamp" : "1600038028"
+    },
+	
+	{
+      "count": 337274,
+      "timestamp" : "1600124425"
     }
 
     
@@ -1906,6 +1911,11 @@
 	{
       "count": 2810,
       "timestamp" : "1600038028"
+    },
+	
+	{
+      "count": 1960,
+      "timestamp" : "1600124425"
     }
 
 
@@ -3628,7 +3638,7 @@
       "total": 137
     },
     {
-      "active": 104,
+      "active": 105,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -3639,10 +3649,10 @@
       "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
       "recovered": 0,
       "state": "Lemesos | Limasol",
-      "total": 104
+      "total": 105
     },
     {
-      "active": 204,
+      "active": 203,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -3658,18 +3668,18 @@
   ],
   "success": true,
   "summary": {
-    "active": 216,
+    "active": 230,
     "deaths": 22,
-    "delta_active": 3,
+    "delta_active": 8,
     "delta_deaths": 0,
     "delta_recovered": 0,
-    "delta_total": 3,
+    "delta_total": 8,
     "id": 1,
-    "active" : 216,
-    "last_updated_time": "14/09/2020 21:14:23",
-    "record_time": "2020-09-12 21:14:23",
+    "active" : 230,
+    "last_updated_time": "16/09/2020 11:49:23",
+    "record_time": "2020-09-16 11:49:23",
     "recovered": 1281,
-    "total": 1526
+    "total": 1534
   },
 	
 	"gender": [
@@ -3695,9 +3705,9 @@
     "80+": 2
   },
   "message": "readings",
-  "num_days": 229,
+  "num_days": 231,
   "recovered_diff": 0,
-  "total_diff": 3,
+  "total_diff": 8,
   "undefinedage": 0,
-  "active_diff": 3
+  "active_diff": 8
 }
