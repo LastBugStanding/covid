@@ -1,6 +1,6 @@
 {
-  "tests": 340431,
-  "tests_diff": 3157,
+  "tests": 342880,
+  "tests_diff": 2449,
   "information": [
     
 	{
@@ -988,6 +988,11 @@
 	{
       "count": 340431,
       "timestamp" : "1600210845"
+    },
+	
+	{
+      "count": 342880,
+      "timestamp" : "1600297248"
     }
 
     
@@ -1926,6 +1931,11 @@
 	{
       "count": 3157,
       "timestamp" : "1600210845"
+    },
+	
+	{
+      "count": 2449,
+      "timestamp" : "1600297248"
     }
 
 
@@ -3620,7 +3630,7 @@
       "total": 170
     },
     {
-      "active": 256,
+      "active": 255,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -3631,10 +3641,10 @@
       "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
       "recovered": 0,
       "state": "Larnaka",
-      "total": 256
+      "total": 255
     },
     {
-      "active": 137,
+      "active": 138,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -3645,7 +3655,7 @@
       "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
       "recovered": 0,
       "state": "Lefkosia | Lefkoşa",
-      "total": 137
+      "total": 138
     },
     {
       "active": 105,
@@ -3678,18 +3688,18 @@
   ],
   "success": true,
   "summary": {
-    "active": 230,
+    "active": 238,
     "deaths": 22,
-    "delta_active": 6,
+    "delta_active": 8,
     "delta_deaths": 0,
     "delta_recovered": 0,
-    "delta_total": 6,
+    "delta_total": 8,
     "id": 1,
-    "active" : 230,
-    "last_updated_time": "16/09/2020 18:31:23",
-    "record_time": "2020-09-16 18:31:23",
+    "active" : 238,
+    "last_updated_time": "17/09/2020 10:53:20",
+    "record_time": "2020-09-16 10:53:20",
     "recovered": 1281,
-    "total": 1540
+    "total": 1548
   },
 	
 	"gender": [
@@ -3715,9 +3725,9 @@
     "80+": 2
   },
   "message": "readings",
-  "num_days": 231,
+  "num_days": 232,
   "recovered_diff": 0,
-  "total_diff": 6,
+  "total_diff": 8,
   "undefinedage": 0,
-  "active_diff": 6
+  "active_diff": 8
 }
