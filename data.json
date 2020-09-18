@@ -16,9 +16,25 @@
   "articles": [
     
 	{
+      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 2291 olduğunu, 12 pozitif vakaya  rastlandığını, 7kişinin taburcu edildiğini açıkladı.",
+      "headline": "Bakan Pilli:Toplam 2291 test yapıldı, 12 pozitif vakaya rastlandı, 7 kişi taburcu edildi",
+      "id": 1,
+      "link": "https://brtk.net/bakan-pillitoplam-2291-test-yapildi-12-pozitif-vakaya-rastlandi-7-kisi-taburcu-edildi/",
+      "record_time": "17 Eyl 20 7:29 PM",
+      "tags": "news"
+    },
+	{
+      "body": "Güney Kıbrıs’ta son 24 saatte 1951 test yapıldı.Yapılan testler sonucunda 10 yeni vakaya daha rastlandı.",
+      "headline": "Güney Kıbrıs’ta 10 yeni vaka",
+      "id": 2,
+      "link": "https://brtk.net/guney-kibrista-10-yeni-vaka/",
+      "record_time": "17 Eyl 20 6:23 PM",
+      "tags": "news"
+    },
+	{
       "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 2408 olduğunu, 11 pozitif vakaya rastlandığını, 13 kişinin taburcu edildiğini açıkladı.",
       "headline": "Bakan Pilli:Toplam 2408 test yapıldı, 11 pozitif vakaya rastlandı, 13 kişi taburcu edildi",
-      "id": 1,
+      "id": 3,
       "link": "https://brtk.net/bakan-pillitoplam-1996-test-yapildi-20-pozitif-vakaya-rastlandi-5-kisi-taburcu-edildi/",
       "record_time": "16 Eyl 20 7:34 PM",
       "tags": "news"
@@ -26,7 +42,7 @@
 	{
       "body": "Güney Kıbrıs’ta son 24 saatte yapılan 2 bin 449 test sonucunda 8 yeni Koronavirüs vakası tespit edildi",
       "headline": "Güney Kıbrıs’ta bugün 8 yeni Koronavirüs vakası saptandı",
-      "id": 2,
+      "id": 4,
       "link": "https://brtk.net/guney-kibrista-bugun-8-yeni-koronavirus-vakasi-saptandi/",
       "record_time": "16 Eyl 20 6:00 PM",
       "tags": "news"
@@ -34,7 +50,7 @@
 	{
       "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 2002 olduğunu, 21 pozitif vakaya  rastlandığını, 8 kişinin taburcu edildiğini açıkladı.",
       "headline": "Pilli:Toplam 2002 test yapıldı, 21 pozitif vakaya rastlandı, 8 kişi taburcu edildi",
-      "id": 3,
+      "id": 5,
       "link": "https://brtk.net/bakan-pillitoplam-2002-test-yapildi-21-pozitif-vakaya-rastlandi-8-kisi-taburcu-edildi/",
       "record_time": "15 Eyl 20 7:49 PM",
       "tags": "news"
@@ -42,25 +58,9 @@
 	{
       "body": "Güney Kıbrıs’ta bugün 3 bin 157 koronavirüs testi yapıldı, 6’sı pozitif çıktı. Rum haber kaynaklarına göre, vaka sayısı 1540’a yükseldi.",
       "headline": "Güney Kıbrıs’ta 6 yeni Covid-19 vakası tespit edildi",
-      "id": 4,
+      "id": 6,
       "link": "https://brtk.net/guney-kibrista-6-yeni-vaka/",
       "record_time": "15 Eyl 20 6:04 PM",
-      "tags": "news"
-    },
-	{
-      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte yapılan test sayısının 2149 olduğunu, 14 pozitif vakaya rastlandığını, 4 kişinin taburcu edildiğini açıkladı.",
-      "headline": "Pilli:Toplam 2149 test yapıldı, 14 pozitif vakaya rastlandı, 4 kişi taburcu edildi",
-      "id": 5,
-      "link": "https://brtk.net/bakan-pillitoplam-2149-test-yapildi-14-pozitif-vakaya-rastlandi-4-kisi-taburcu-edildi/",
-      "record_time": "14 Eyl 20 6:45 PM",
-      "tags": "news"
-    },
-	{
-      "body": "Güney Kıbrıs’ta son 24 saat içinde yapılan testlerde 8 kişinin daha Kovid-19 pozitif olduğu tespit edildi.",
-      "headline": "Güney Kıbrıs’ta 8 yeni vaka",
-      "id": 6,
-      "link": "https://brtk.net/guney-kibrista-8-kisinin-kovid-19-pozitif-oldugu-tespit-edildi/",
-      "record_time": "14 Eyl 20 5:56 PM",
       "tags": "news"
     }	
 	
@@ -658,6 +658,11 @@
 	{
       "count": 148839,
       "timestamp" : "1600274117"
+    },
+	
+	{
+      "count": 151130,
+      "timestamp" : "1600383600"
     }
 
     
@@ -1267,6 +1272,11 @@
 	{
       "count": 2408,
       "timestamp" : "1600274117"
+    },
+	
+	{
+      "count": 2291,
+      "timestamp" : "1600383600"
     }
 
 	
@@ -3153,6 +3163,21 @@
       "recovered": 13,
       "timestamp": "1600274117",
       "total": 639
+    },
+	
+	{
+      "active": 284,
+      "daily_active": 12,
+      "daily_deaths": 4,
+      "daily_recovered": 363,
+      "daily_total": 284,
+      "day": "17 Sep 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Thu, 17 Sep 2020 01:09:15 GMT",
+      "recovered": 7,
+      "timestamp": "1600383600",
+      "total": 651
     }
 	  
 	
@@ -3246,22 +3271,22 @@
     }
   ],
   "message": "readings",
-  "num_days": 232,
-  "recovered_diff": 13,
+  "num_days": 233,
+  "recovered_diff": 7,
   "statewise": [
     {
-      "active": 277,
+      "active": 284,
       "deaths": 4,
-      "delta_active": 11,
+      "delta_active": 12,
       "delta_deaths": 0,
-      "delta_recovered": 13,
-      "delta_total": 11,
+      "delta_recovered": 7,
+      "delta_total": 12,
       "id": 12,
-      "last_updated_time": "16/09/2020 10:54:25",
-      "record_time": "Wed, 16 Sep 2020 10:54:25 GMT",
-      "recovered": 298,
+      "last_updated_time": "17/09/2020 10:54:25",
+      "record_time": "Thu, 17 Sep 2020 10:54:25 GMT",
+      "recovered": 303,
       "state": "Lefkoşa | Nicosia",
-      "total": 579
+      "total": 591
     },
     {
       "active": 0,
@@ -3336,20 +3361,20 @@
   ],
   "success": true,
   "summary": {
-    "active": 277,
+    "active": 284,
     "deaths": 4,
-    "delta_active": 11,
+    "delta_active": 12,
     "delta_deaths": 0,
-    "delta_recovered": 13,
-    "delta_total": 11,
+    "delta_recovered": 7,
+    "delta_total": 12,
     "id": 1,
-    "active" : 277,
-    "last_updated_time": "17/09/2020 16:47:12",
-    "record_time": "2020-09-17 16:47:12",
-    "recovered": 356,
-    "total": 639
+    "active" : 284,
+    "last_updated_time": "18/09/2020 11:15:13",
+    "record_time": "2020-09-17 11:15:13",
+    "recovered": 363,
+    "total": 651
   },
-  "total_diff": 11,
+  "total_diff": 12,
   "undefinedage": 0,
-  "active_diff": 11
+  "active_diff": 12
 }
