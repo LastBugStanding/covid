@@ -1,12 +1,20 @@
 {
-  "tests": 344831,
-  "tests_diff": 1951,
+  "tests": 362046,
+  "tests_diff": 3317,
   "information": [
     
 	{
+      "body": "Epidemiological risk assessment of countries concerning COVID-19, dated 21/09/2020",
+      "headline": "Epidemiological risk assessment of countries concerning COVID-19, 21-9-2020",
+      "id": 1,
+      "link": "https://www.pio.gov.cy/coronavirus/en/press/21092020_4.pdf",
+      "record_time": "21 Eyl 20 5:58 PM",
+      "tags": "news"
+    },
+	{
       "body": "Epidemiological risk assessment of countries concerning COVID-19, dated 15/09/2020",
       "headline": "Epidemiological risk assessment of countries concerning COVID-19, 15-9-2020",
-      "id": 1,
+      "id": 2,
       "link": "https://www.pio.gov.cy/coronavirus/en/press/03082020_1.pdf",
       "record_time": "15 Eyl 20 7:46 PM",
       "tags": "news"
@@ -14,7 +22,7 @@
 	{
       "body": "Epidemiological risk assessment of countries concerning COVID-19 dated 01/09/2020",
       "headline": "Epidemiological risk assessment of countries concerning COVID-19 dated 01/09/2020",
-      "id": 2,
+      "id": 3,
       "link": "https://www.pio.gov.cy/coronavirus/en/press/1092020_5.pdf",
       "record_time": "01 Eyl 20 6:18 PM",
       "tags": "news"
@@ -22,7 +30,7 @@
 	{
       "body": "Epidemiological risk assessment of countries concerning COVID-19 dated 24/08/2020",
       "headline": "Epidemiological risk assessment of countries concerning COVID-19 dated 24/08/2020",
-      "id": 3,
+      "id": 4,
       "link": "https://www.pio.gov.cy/coronavirus/en/press/24082020_7.pdf",
       "record_time": "24 Ağu 20 7:11 PM",
       "tags": "news"
@@ -30,7 +38,7 @@
 	{
       "body": "Epidemiological risk assessment of countries concerning COVID-19 dated 17/08/2020",
       "headline": "Epidemiological risk assessment of countries concerning COVID-19 dated 17/08/2020",
-      "id": 4,
+      "id": 5,
       "link": "https://www.pio.gov.cy/coronavirus/en/press/17082020_2.pdf",
       "record_time": "17 Ağu 20 6:05 PM",
       "tags": "news"
@@ -38,17 +46,9 @@
 	{
       "body": "Epidemiological risk assessment of countries concerning COVID-19 dated 11/8/2020",
       "headline": "Epidemiological risk assessment of countries concerning COVID-19 dated 11/8/2020",
-      "id": 5,
+      "id": 6,
       "link": "https://www.pio.gov.cy/coronavirus/en/press/11082020_8.pdf",
       "record_time": "11 Ağu 20 7:25 PM",
-      "tags": "news"
-    },
-	{
-      "body": "Epidemiological risk assessment of countries concerning COVID-19 dated 04/08/2020",
-      "headline": "Epidemiological risk assessment of countries concerning COVID-19 dated 04/08/2020",
-      "id": 6,
-      "link": "https://www.pio.gov.cy/coronavirus/en/press/05082020_1.pdf",
-      "record_time": "4 Ağu 20 5:58 PM",
       "tags": "news"
     }
 	
@@ -998,6 +998,36 @@
 	{
       "count": 344831,
       "timestamp" : "1600383600"
+    },
+	
+	{
+      "count": 347870,
+      "timestamp" : "1600470000"
+    },
+	
+	{
+      "count": 350820,
+      "timestamp" : "1600556400"
+    },
+	
+	{
+      "count": 352984,
+      "timestamp" : "1600642800"
+    },
+	
+	{
+      "count": 356020,
+      "timestamp" : "1600729200"
+    },
+	
+	{
+      "count": 358729,
+      "timestamp" : "1600815600"
+    },
+	
+	{
+      "count": 362046,
+      "timestamp" : "1600902000"
     }
 
     
@@ -1946,6 +1976,36 @@
 	{
       "count": 1951,
       "timestamp" : "1600383600"
+    },
+	
+	{
+      "count": 3039,
+      "timestamp" : "1600470000"
+    },
+	
+	{
+      "count": 2950,
+      "timestamp" : "1600556400"
+    },
+	
+	{
+      "count": 2164,
+      "timestamp" : "1600642800"
+    },
+	
+	{
+      "count": 3036,
+      "timestamp" : "1600729200"
+    },
+	
+	{
+      "count": 2709,
+      "timestamp" : "1600815600"
+    },
+	
+	{
+      "count": 3317,
+      "timestamp" : "1600902000"
     }
 
 
@@ -3626,7 +3686,7 @@
 
   "statewise": [
     {
-      "active": 172,
+      "active": 185,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -3637,10 +3697,10 @@
       "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
       "recovered": 0,
       "state": "Ammochostos | Gazimağusa",
-      "total": 172
+      "total": 185
     },
     {
-      "active": 157,
+      "active": 286,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -3651,10 +3711,10 @@
       "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
       "recovered": 0,
       "state": "Larnaka",
-      "total": 157
+      "total": 286
     },
     {
-      "active": 137,
+      "active": 139,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -3665,10 +3725,10 @@
       "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
       "recovered": 0,
       "state": "Lefkosia | Lefkoşa",
-      "total": 137
+      "total": 139
     },
     {
-      "active": 105,
+      "active": 107,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -3679,10 +3739,10 @@
       "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
       "recovered": 0,
       "state": "Lemesos | Limasol",
-      "total": 105
+      "total": 107
     },
     {
-      "active": 204,
+      "active": 211,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -3693,23 +3753,23 @@
       "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
       "recovered": 0,
       "state": "Pafos | Baf",
-      "total": 204
+      "total": 211
     }
   ],
   "success": true,
   "summary": {
-    "active": 248,
+    "active": 256,
     "deaths": 22,
-    "delta_active": 10,
+    "delta_active": 36,
     "delta_deaths": 0,
     "delta_recovered": 0,
-    "delta_total": 10,
+    "delta_total": 36,
     "id": 1,
-    "active" : 238,
-    "last_updated_time": "18/09/2020 11:20:12",
-    "record_time": "2020-09-18 11:20:12",
-    "recovered": 1281,
-    "total": 1558
+    "active" : 256,
+    "last_updated_time": "24/09/2020 13:45:12",
+    "record_time": "2020-09-24 13:45:12",
+    "recovered": 1369,
+    "total": 1654
   },
 	
 	"gender": [
@@ -3724,20 +3784,20 @@
   ],
 
 	"age": {
-    "0-10": 2,
+    "0-10": 3,
     "10-20": 8,
-    "20-30": 19,
+    "20-30": 20,
     "30-40": 20,
-    "40-50": 16,
+    "40-50": 15,
     "50-60": 15,
     "60-70": 10,
-    "70-80": 8,
+    "70-80": 7,
     "80+": 2
   },
   "message": "readings",
-  "num_days": 233,
+  "num_days": 239,
   "recovered_diff": 0,
-  "total_diff": 10,
+  "total_diff": 36,
   "undefinedage": 0,
-  "active_diff": 10
+  "active_diff": 36
 }
