@@ -1,6 +1,6 @@
 {
-  "tests": 160161,
-  "tests_diff": 1323,
+  "tests": 176548,
+  "tests_diff": 2069,
   "age": {
     "0-10": 0,
     "10-20": 0,
@@ -16,51 +16,51 @@
   "articles": [
     
 	{
-      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1323 olduğunu, 14 pozitif vakaya  rastlandığını, 24 kişinin taburcu edildiğini açıkladı.",
-      "headline": "Pilli: Toplam 1323 test yapıldı, 4’ü yerel 14 pozitif vakaya rastlandı, 24 kişi taburcu edildi",
+      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 2069 olduğunu, 3 pozitif vakaya  rastlandığını , 7 kişinin taburcu edildiğini, bir hastanın yoğun bakımda tedavi gördüğünü açıkladı.",
+      "headline": "Bakan Pilli:Toplam 2069 test yapıldı, 3 pozitif vakaya rastlandı, 7 kişi taburcu edildi",
       "id": 1,
-      "link": "https://brtk.net/pilli-toplam-1323-test-yapildi-4u-yerel-14-pozitif-vakaya-rastlandi-24-kisi-taburcu-edildi/",
-      "record_time": "23 Eyl 20 7:29 PM",
+      "link": "https://brtk.net/bakan-pillitoplam-2069-test-yapildi-3-pozitif-vakaya-rastlandi-7-kisi-taburcu-edildi/",
+      "record_time": "05 Eki 20 7:29 PM",
       "tags": "news"
     },
 	{
-      "body": "Güney Kıbrıs’ta yapılan 3 bin 317 test sonucunda 36 yeni Koronavirüs vakası daha tespit edildi.",
-      "headline": "Güney Kıbrıs’ta 36 yeni vaka",
+      "body": "Güney Kıbrıs’ta son 24 saatte yapılan 2 bin 736 test sonucunda 23 yeni Covid 19 vakası belirlendi.",
+      "headline": "Güney Kıbrıs’ta 23 vaka!",
       "id": 2,
-      "link": "Güney Kıbrıs’ta 36 yeni vaka tespit edildi",
-      "record_time": "23 Eyl 20 6:23 PM",
+      "link": "https://brtk.net/guney-kibrista-23-vaka/",
+      "record_time": "05 Eki 20 6:23 PM",
       "tags": "news"
     },
 	{
-      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1447 olduğunu, 7 pozitif vakaya  rastlandığını, 18 kişinin taburcu edildiğini açıkladı.",
-      "headline": "Bakan Pilli: Toplam 1447 test yapıldı, 7 pozitif vakaya rastlandı, 18 kişi taburcu edildi ",
+      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1335 olduğunu, 2 pozitif vakaya  rastlandığını , 16 kişinin taburcu edildiğini açıkladı.",
+      "headline": "Bakan Pilli:Toplam 1335 test yapıldı, 2 pozitif vakaya rastlandı, 16 kişi taburcu edildi",
       "id": 3,
-      "link": "https://brtk.net/bakan-pilli-toplam-1447-test-yapildi-7-pozitif-vakaya-rastlandi-18-kisi-taburcu-edildi/",
-      "record_time": "22 Eyl 20 8:06 PM",
+      "link": "https://brtk.net/bakan-pillitoplam-1335-test-yapildi-2-pozitif-vakaya-rastlandi-16-kisi-taburcu-edildi/",
+      "record_time": "04 Eki 20 8:06 PM",
       "tags": "news"
     },
 	{
-      "body": "Güney Kıbrıs’ta yapılan 2 bin 709 test sonucunda 15 yeni Koronavirüs vakası daha tespit edildi.",
-      "headline": "Güney Kıbrıs’ta 15 yeni vaka!",
+      "body": "Güney Kıbrıs’ta son 24 saatte yapılan 3 bin 177 test neticesinde 13 yeni Kovid-19 vakası belirlendi. Böylelikle  Toplam vaka sayısı bin 824 oldu.",
+      "headline": "Güney Kıbrıs’ta 13 vaka!",
       "id": 4,
-      "link": "https://brtk.net/guney-kibrista-15-yeni-vaka/",
-      "record_time": "22 Eyl 20 5:46 PM",
+      "link": "https://brtk.net/guney-kibrista-13-yeni-vaka/",
+      "record_time": "04 Eki 20 5:46 PM",
       "tags": "news"
     },
 	{
-      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1485 olduğunu, 4 pozitif vakaya  rastlandığını, 22  kişinin taburcu edildiğini açıkladı.",
-      "headline": "Bakan Pilli:Toplam 1485 test yapıldı, 4 pozitif vakaya rastlandı, 22 kişi taburcu edildi",
+      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte  yapılan test sayısının 1077 olduğunu, 8 pozitif vakaya  rastlandığını , 15 kişinin taburcu edildiğini açıkladı.",
+      "headline": "Bakan Pilli: Toplam 1077 test yapıldı, 8 pozitif vakaya rastlandı, 15 kişi taburcu edildi",
       "id": 5,
-      "link": "https://brtk.net/bakan-pillitoplam-1485-test-yapildi-4-pozitif-vakaya-rastlandi-22-kisi-taburcu-edildi/",
-      "record_time": "21 Eyl 20 7:24 PM",
+      "link": "https://brtk.net/bakan-pilli-toplam-1077-test-yapildi-8-pozitif-vakaya-rastlandi-15-kisi-taburcu-edildi/",
+      "record_time": "03 Eki 20 7:24 PM",
       "tags": "news"
     },
 	{
-      "body": "Güney Kıbrıs’ta son 24 saatte yapılan 3 bin 36 test sonucunda 3 yeni Covid-19 vakası belirlendi.",
-      "headline": "Güney Kıbrıs’ta 3 yeni Covid-19 vakası belirlendi",
+      "body": "Güney Kıbrıs’ta bugün 3 bin 477 test sonucunda 22 yeni Covid-19 vakası daha saptandı. Toplam vaka sayısı 1811’e yükseldi.",
+      "headline": "Güney Kıbrıs’ta 22 yeni vaka!",
       "id": 6,
-      "link": "https://brtk.net/guney-kibrista-3-bin-36-test-sonucunda-3-yeni-covid-19-vakasi-belirlendi/",
-      "record_time": "21 Eyl 20 6:11 PM",
+      "link": "https://brtk.net/guney-kibrista-22-yeni-vaka/",
+      "record_time": "03 Eki 20 6:11 PM",
       "tags": "news"
     }
 	
@@ -693,7 +693,68 @@
 	{
       "count": 160161,
       "timestamp" : "1600902000"
+    },
+	
+	{
+      "count": 162027,
+      "timestamp" : "1600988400"
+    },
+	
+	{
+      "count": 163073,
+      "timestamp" : "1601074800"
+    },
+	
+	{
+      "count": 164038,
+      "timestamp" : "1601161200"
+    },
+	
+	{
+      "count": 164817,
+      "timestamp" : "1601247600"
+    },
+	
+	{
+      "count": 166410,
+      "timestamp" : "1601334000"
+    },
+	
+	{
+      "count": 167580,
+      "timestamp" : "1601420400"
+    },
+	
+	{
+      "count": 169045,
+      "timestamp" : "1601506800"
+    },
+	
+	{
+      "count": 170621,
+      "timestamp" : "1601593200"
+    },
+	
+	{
+      "count": 172067,
+      "timestamp" : "1601679600"
+    },
+	
+	{
+      "count": 173144,
+      "timestamp" : "1601766000"
+    },
+	
+	{
+      "count": 174479,
+      "timestamp" : "1601852400"
+    },
+	
+	{
+      "count": 176548,
+      "timestamp" : "1601938800"
     }
+
 
     
   ],
@@ -1337,6 +1398,66 @@
 	{
       "count": 1323,
       "timestamp" : "1600902000"
+    },
+	
+	{
+      "count": 1866,
+      "timestamp" : "1600988400"
+    },
+	
+	{
+      "count": 1046,
+      "timestamp" : "1601074800"
+    },
+	
+	{
+      "count": 965,
+      "timestamp" : "1601161200"
+    },
+	
+	{
+      "count": 779,
+      "timestamp" : "1601247600"
+    },
+	
+	{
+      "count": 1593,
+      "timestamp" : "1601334000"
+    },
+	
+	{
+      "count": 1170,
+      "timestamp" : "1601420400"
+    },
+	
+	{
+      "count": 1465,
+      "timestamp" : "1601506800"
+    },
+	
+	{
+      "count": 1576,
+      "timestamp" : "1601593200"
+    },
+	
+	{
+      "count": 1446,
+      "timestamp" : "1601679600"
+    },
+	
+	{
+      "count": 1077,
+      "timestamp" : "1601766000"
+    },
+	
+	{
+      "count": 1335,
+      "timestamp" : "1601852400"
+    },
+	
+	{
+      "count": 2069,
+      "timestamp" : "1601938800"
     }
 
 	
@@ -3328,6 +3449,186 @@
       "recovered": 24,
       "timestamp": "1600902000",
       "total": 725
+    },
+	
+	{
+      "active": 207,
+      "daily_active": 7,
+      "daily_deaths": 4,
+      "daily_recovered": 521,
+      "daily_total": 207,
+      "day": "24 Sep 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Thu, 24 Sep 2020 01:09:15 GMT",
+      "recovered": 29,
+      "timestamp": "1600988400",
+      "total": 732
+    },
+	
+	{
+      "active": 186,
+      "daily_active": 3,
+      "daily_deaths": 4,
+      "daily_recovered": 545,
+      "daily_total": 186,
+      "day": "25 Sep 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Fri, 25 Sep 2020 01:09:15 GMT",
+      "recovered": 24,
+      "timestamp": "1601074800",
+      "total": 735
+    },
+	
+	{
+      "active": 160,
+      "daily_active": 6,
+      "daily_deaths": 4,
+      "daily_recovered": 577,
+      "daily_total": 160,
+      "day": "26 Sep 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Sat, 26 Sep 2020 01:09:15 GMT",
+      "recovered": 32,
+      "timestamp": "1601161200",
+      "total": 741
+    },
+	
+	{
+      "active": 155,
+      "daily_active": 5,
+      "daily_deaths": 4,
+      "daily_recovered": 587,
+      "daily_total": 155,
+      "day": "27 Sep 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Sun, 27 Sep 2020 01:09:15 GMT",
+      "recovered": 10,
+      "timestamp": "1601247600",
+      "total": 746
+    },
+	
+	{
+      "active": 144,
+      "daily_active": 6,
+      "daily_deaths": 4,
+      "daily_recovered": 604,
+      "daily_total": 144,
+      "day": "28 Sep 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Mon, 28 Sep 2020 01:09:15 GMT",
+      "recovered": 17,
+      "timestamp": "1601334000",
+      "total": 752
+    },
+	
+	{
+      "active": 128,
+      "daily_active": 5,
+      "daily_deaths": 4,
+      "daily_recovered": 625,
+      "daily_total": 128,
+      "day": "29 Sep 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Tue, 29 Sep 2020 01:09:15 GMT",
+      "recovered": 21,
+      "timestamp": "1601420400",
+      "total": 757
+    },
+	
+	{
+      "active": 106,
+      "daily_active": 0,
+      "daily_deaths": 4,
+      "daily_recovered": 647,
+      "daily_total": 106,
+      "day": "30 Sep 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Wed, 30 Sep 2020 01:09:15 GMT",
+      "recovered": 22,
+      "timestamp": "1601506800",
+      "total": 757
+    },
+	
+	{
+      "active": 88,
+      "daily_active": 4,
+      "daily_deaths": 4,
+      "daily_recovered": 669,
+      "daily_total": 88,
+      "day": "01 Oct 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Thu, 01 Oct 2020 01:09:15 GMT",
+      "recovered": 22,
+      "timestamp": "1601593200",
+      "total": 761
+    },
+	
+	{
+      "active": 68,
+      "daily_active": 4,
+      "daily_deaths": 4,
+      "daily_recovered": 690,
+      "daily_total": 68,
+      "day": "02 Oct 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Fri, 02 Oct 2020 01:09:15 GMT",
+      "recovered": 21,
+      "timestamp": "1601679600",
+      "total": 762
+    },
+	
+	{
+      "active": 61,
+      "daily_active": 8,
+      "daily_deaths": 4,
+      "daily_recovered": 705,
+      "daily_total": 61,
+      "day": "03 Oct 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Sat, 03 Oct 2020 01:09:15 GMT",
+      "recovered": 15,
+      "timestamp": "1601766000",
+      "total": 770
+    },
+	
+	{
+      "active": 47,
+      "daily_active": 2,
+      "daily_deaths": 4,
+      "daily_recovered": 721,
+      "daily_total": 47,
+      "day": "04 Oct 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Sun, 04 Oct 2020 01:09:15 GMT",
+      "recovered": 16,
+      "timestamp": "1601852400",
+      "total": 772
+    },
+	
+	{
+      "active": 43,
+      "daily_active": 3,
+      "daily_deaths": 4,
+      "daily_recovered": 728,
+      "daily_total": 43,
+      "day": "05 Oct 2020",
+      "deaths": 0,
+      "id": 55,
+      "record_time": "Mon, 05 Oct 2020 01:09:15 GMT",
+      "recovered": 7,
+      "timestamp": "1601938800",
+      "total": 775
     }
 	  
 	
@@ -3421,22 +3722,22 @@
     }
   ],
   "message": "readings",
-  "num_days": 239,
-  "recovered_diff": 24,
+  "num_days": 250,
+  "recovered_diff": 7,
   "statewise": [
     {
-      "active": 229,
+      "active": 43,
       "deaths": 4,
-      "delta_active": 14,
+      "delta_active": 3,
       "delta_deaths": 0,
-      "delta_recovered": 24,
-      "delta_total": 14,
+      "delta_recovered": 7,
+      "delta_total": 3,
       "id": 12,
-      "last_updated_time": "23/09/2020 10:54:25",
-      "record_time": "Wed, 23 Sep 2020 10:54:25 GMT",
-      "recovered": 432,
+      "last_updated_time": "05/10/2020 10:54:25",
+      "record_time": "Mon, 05 Oct 2020 10:54:25 GMT",
+      "recovered": 668,
       "state": "Lefkoşa | Nicosia",
-      "total": 665
+      "total": 715
     },
     {
       "active": 0,
@@ -3511,20 +3812,20 @@
   ],
   "success": true,
   "summary": {
-    "active": 229,
+    "active": 43,
     "deaths": 4,
-    "delta_active": 14,
+    "delta_active": 3,
     "delta_deaths": 0,
-    "delta_recovered": 24,
-    "delta_total": 14,
+    "delta_recovered": 7,
+    "delta_total": 3,
     "id": 1,
-    "active" : 229,
-    "last_updated_time": "24/09/2020 13:03:12",
-    "record_time": "2020-09-24 13:03:12",
-    "recovered": 492,
-    "total": 725
+    "active" : 43,
+    "last_updated_time": "06/10/2020 13:03:12",
+    "record_time": "2020-10-06 13:03:12",
+    "recovered": 728,
+    "total": 775
   },
-  "total_diff": 14,
+  "total_diff": 3,
   "undefinedage": 0,
-  "active_diff": 14
+  "active_diff": 3
 }
