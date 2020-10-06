@@ -1,6 +1,6 @@
 {
-  "tests": 362046,
-  "tests_diff": 3317,
+  "tests": 396665,
+  "tests_diff": 2736,
   "information": [
     
 	{
@@ -1028,6 +1028,66 @@
 	{
       "count": 362046,
       "timestamp" : "1600902000"
+    },
+	
+	{
+      "count": 364939,
+      "timestamp" : "1600988400"
+    },
+	
+	{
+      "count": 367554,
+      "timestamp" : "1601074800"
+    },
+	
+	{
+      "count": 370774,
+      "timestamp" : "1601161200"
+    },
+	
+	{
+      "count": 374112,
+      "timestamp" : "1601247600"
+    },
+	
+	{
+      "count": 376577,
+      "timestamp" : "1601334000"
+    },
+	
+	{
+      "count": 379262,
+      "timestamp" : "1601420400"
+    },
+	
+	{
+      "count": 382409,
+      "timestamp" : "1601506800"
+    },
+	
+	{
+      "count": 384863,
+      "timestamp" : "1601593200"
+    },
+	
+	{
+      "count": 387275,
+      "timestamp" : "1601679600"
+    },
+	
+	{
+      "count": 390752,
+      "timestamp" : "1601766000"
+    },
+	
+	{
+      "count": 393929,
+      "timestamp" : "1601852400"
+    },
+	
+	{
+      "count": 396665,
+      "timestamp" : "1601938800"
     }
 
     
@@ -2006,6 +2066,66 @@
 	{
       "count": 3317,
       "timestamp" : "1600902000"
+    },
+	
+	{
+      "count": 2893,
+      "timestamp" : "1600988400"
+    },
+	
+	{
+      "count": 2615,
+      "timestamp" : "1601074800"
+    },
+	
+	{
+      "count": 3220,
+      "timestamp" : "1601161200"
+    },
+	
+	{
+      "count": 3338,
+      "timestamp" : "1601247600"
+    },
+	
+	{
+      "count": 2465,
+      "timestamp" : "1601334000"
+    },
+	
+	{
+      "count": 2685,
+      "timestamp" : "1601420400"
+    },
+	
+	{
+      "count": 3147,
+      "timestamp" : "1601506800"
+    },
+	
+	{
+      "count": 2454,
+      "timestamp" : "1601593200"
+    },
+	
+	{
+      "count": 2412,
+      "timestamp" : "1601679600"
+    },
+	
+	{
+      "count": 3477,
+      "timestamp" : "1601766000"
+    },
+	
+	{
+      "count": 3177,
+      "timestamp" : "1601852400"
+    },
+	
+	{
+      "count": 2736,
+      "timestamp" : "1601938800"
     }
 
 
@@ -3686,7 +3806,7 @@
 
   "statewise": [
     {
-      "active": 185,
+      "active": 203,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -3697,10 +3817,10 @@
       "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
       "recovered": 0,
       "state": "Ammochostos | Gazimağusa",
-      "total": 185
+      "total": 203
     },
     {
-      "active": 286,
+      "active": 316,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -3711,10 +3831,10 @@
       "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
       "recovered": 0,
       "state": "Larnaka",
-      "total": 286
+      "total": 316
     },
     {
-      "active": 139,
+      "active": 145,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -3725,10 +3845,10 @@
       "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
       "recovered": 0,
       "state": "Lefkosia | Lefkoşa",
-      "total": 139
+      "total": 145
     },
     {
-      "active": 107,
+      "active": 111,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -3739,10 +3859,10 @@
       "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
       "recovered": 0,
       "state": "Lemesos | Limasol",
-      "total": 107
+      "total": 111
     },
     {
-      "active": 211,
+      "active": 26,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -3753,32 +3873,32 @@
       "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
       "recovered": 0,
       "state": "Pafos | Baf",
-      "total": 211
+      "total": 216
     }
   ],
   "success": true,
   "summary": {
-    "active": 256,
+    "active": 392,
     "deaths": 22,
-    "delta_active": 36,
+    "delta_active": 23,
     "delta_deaths": 0,
     "delta_recovered": 0,
-    "delta_total": 36,
+    "delta_total": 23,
     "id": 1,
-    "active" : 256,
-    "last_updated_time": "24/09/2020 13:45:12",
-    "record_time": "2020-09-24 13:45:12",
-    "recovered": 1369,
-    "total": 1654
+    "active" : 392,
+    "last_updated_time": "06/10/2020 13:45:12",
+    "record_time": "2020-10-06 13:45:12",
+    "recovered": 1426,
+    "total": 1847
   },
 	
 	"gender": [
     {
-      "count": 49,
+      "count": 47,
       "gender": "Female"
     },
     {
-      "count": 51,
+      "count": 53,
       "gender": "Male"
     }
   ],
@@ -3786,18 +3906,18 @@
 	"age": {
     "0-10": 3,
     "10-20": 8,
-    "20-30": 20,
+    "20-30": 21,
     "30-40": 20,
     "40-50": 15,
     "50-60": 15,
-    "60-70": 10,
+    "60-70": 9,
     "70-80": 7,
     "80+": 2
   },
   "message": "readings",
-  "num_days": 239,
+  "num_days": 250,
   "recovered_diff": 0,
-  "total_diff": 36,
+  "total_diff": 23,
   "undefinedage": 0,
-  "active_diff": 36
+  "active_diff": 23
 }
