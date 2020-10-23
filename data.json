@@ -4053,7 +4053,7 @@
       "recovered": 9,
       "timestamp": "1603368000",
       "total": 871
-    },
+    }
 	  
 	  
 	  
@@ -4237,20 +4237,20 @@
   ],
   "success": true,
   "summary": {
-    "active": 44,
-    "deaths": 4,
-    "delta_active": 1,
+    "active": 65,
+    "deaths": 5,
+    "delta_active": 3,
     "delta_deaths": 0,
-    "delta_recovered": 3,
-    "delta_total": 1,
+    "delta_recovered": 9,
+    "delta_total": 3,
     "id": 1,
-    "active" : 44,
-    "last_updated_time": "13/10/2020 14:03:12",
-    "record_time": "2020-10-13 14:03:12",
-    "recovered": 767,
-    "total": 815
+    "active" : 65,
+    "last_updated_time": "23/10/2020 14:57:12",
+    "record_time": "2020-10-23 14:57:12",
+    "recovered": 804,
+    "total": 874
   },
-  "total_diff": 1,
+  "total_diff": 3,
   "undefinedage": 0,
-  "active_diff": 1
+  "active_diff": 3
 }
