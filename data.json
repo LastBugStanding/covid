@@ -3918,7 +3918,7 @@
       "id": 56,
       "record_time": "Tue, 13 Oct 2020 12:00:00 GMT",
       "recovered": 2,
-      "timestamp": 1602590400,
+      "timestamp": "1602590400",
       "total": 816
     },
 {
@@ -3932,7 +3932,7 @@
       "id": 57,
       "record_time": "Mon, 14 Oct 2020 12:00:00 GMT",
       "recovered": 3,
-      "timestamp": 1602676800,
+      "timestamp": "1602676800",
       "total": 819
     },
 	  
@@ -3947,7 +3947,7 @@
       "id": 58,
       "record_time": "Thu, 15 Oct 2020 12:00:00 GMT",
       "recovered": 7,
-      "timestamp": 1602763200,
+      "timestamp": "1602763200",
       "total": 824
     },
 	  
@@ -3962,7 +3962,7 @@
       "id": 59,
       "record_time": "Fri, 16 Oct 2020 12:00:00 GMT",
       "recovered": 0,
-      "timestamp": 1602849600,
+      "timestamp": "1602849600",
       "total": 829
     },
 	  
@@ -3977,7 +3977,7 @@
       "id": 59,
       "record_time": "Sat, 17 Oct 2020 12:00:00 GMT",
       "recovered": 5,
-      "timestamp": 1602936000,
+      "timestamp": "1602936000",
       "total": 836
     },
 		{
@@ -3991,7 +3991,7 @@
       "id": 59,
       "record_time": "Sun, 18 Oct 2020 12:00:00 GMT",
       "recovered": 1,
-      "timestamp": 1603022400,
+      "timestamp": "1603022400",
       "total": 852
     },
 	  
@@ -4006,7 +4006,7 @@
       "id": 60,
       "record_time": "Mon, 19 Oct 2020 12:00:00 GMT",
       "recovered": 0,
-      "timestamp": 1603108800,
+      "timestamp": "1603108800",
       "total": 861
     },	  
 	  
@@ -4021,7 +4021,7 @@
       "id": 61,
       "record_time": "Tue, 20 Oct 2020 12:00:00 GMT",
       "recovered": 0,
-      "timestamp": 1603195200,
+      "timestamp": "1603195200",
       "total": 866
     },
 	  
@@ -4036,7 +4036,7 @@
       "id": 62,
       "record_time": "Wed, 21 Oct 2020 12:00:00 GMT",
       "recovered": 10,
-      "timestamp": 1603281600,
+      "timestamp": "1603281600",
       "total": 871
     },
 	  
@@ -4051,7 +4051,7 @@
       "id": 63,
       "record_time": "Thu, 22 Oct 2020 12:00:00 GMT",
       "recovered": 9,
-      "timestamp": 1603368000,
+      "timestamp": "1603368000",
       "total": 871
     },
 	  
