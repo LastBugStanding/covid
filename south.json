@@ -1,5 +1,5 @@
 {
-  "tests": 396665,
+  "tests": 458164,
   "tests_diff": 2736,
   "information": [
     
@@ -3915,7 +3915,7 @@
     "80+": 2
   },
   "message": "readings",
-  "num_days": 250,
+  "num_days": 268,
   "recovered_diff": 0,
   "total_diff": 23,
   "undefinedage": 0,
