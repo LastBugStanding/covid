@@ -838,7 +838,19 @@
 	{
       "count": 206626,
       "timestamp" : "1603368000"
-    }  
+    },
+	  
+	{
+      "count": 208677,
+      "timestamp" : "1603474684"
+    },
+	  
+	{
+      "count": 210497,
+      "timestamp" : "1603561084"
+    }
+	  
+	  
 
 
 
@@ -1629,6 +1641,16 @@
 	{
       "count": 1920,
       "timestamp" : "1603368000"
+    },
+	  
+	{
+      "count": 2051,
+      "timestamp" : "1603474684"
+    },
+	  
+	{
+      "count": 1820,
+      "timestamp" : "1603561084"
     }
 
 	
@@ -4053,7 +4075,37 @@
       "recovered": 9,
       "timestamp": "1603368000",
       "total": 871
-    }
+    },
+	  
+	{
+      "active": 66,
+      "daily_active": 11,
+      "daily_deaths": 5,
+      "daily_recovered": 814,
+      "daily_total": 66,
+      "day": "23 Oct 2020",
+      "deaths": 0,
+      "id": 63,
+      "record_time": "Fri, 23 Oct 2020 12:00:00 GMT",
+      "recovered": 10,
+      "timestamp": "1603474684",
+      "total": 885
+    },
+	  
+	{
+      "active": 73,
+      "daily_active": 9,
+      "daily_deaths": 5,
+      "daily_recovered": 816,
+      "daily_total": 73,
+      "day": "24 Oct 2020",
+      "deaths": 0,
+      "id": 63,
+      "record_time": "Sat, 24 Oct 2020 12:00:00 GMT",
+      "recovered": 2,
+      "timestamp": "1603561084",
+      "total": 894
+    }  
 	  
 	  
 	  
@@ -4147,8 +4199,8 @@
     }
   ],
   "message": "readings",
-  "num_days": 267,
-  "recovered_diff": 3,
+  "num_days": 268,
+  "recovered_diff": 2,
   "statewise": [
     {
       "active": 44,
@@ -4237,20 +4289,20 @@
   ],
   "success": true,
   "summary": {
-    "active": 65,
+    "active": 73,
     "deaths": 5,
-    "delta_active": 3,
+    "delta_active": 9,
     "delta_deaths": 0,
-    "delta_recovered": 9,
+    "delta_recovered": 2,
     "delta_total": 3,
     "id": 1,
-    "active" : 65,
-    "last_updated_time": "23/10/2020 14:57:12",
-    "record_time": "2020-10-23 14:57:12",
-    "recovered": 804,
-    "total": 874
+    "active" : 73,
+    "last_updated_time": "24/10/2020 20:57:12",
+    "record_time": "2020-10-24 20:57:12",
+    "recovered": 816,
+    "total": 894
   },
-  "total_diff": 3,
+  "total_diff": 9,
   "undefinedage": 0,
-  "active_diff": 3
+  "active_diff": 9
 }
