@@ -1,6 +1,6 @@
 {
-  "tests": 206626,
-  "tests_diff": 1920,
+  "tests": 211602,
+  "tests_diff": 1105,
   "age": {
     "0-10": 0,
     "10-20": 0,
@@ -848,6 +848,11 @@
 	{
       "count": 210497,
       "timestamp" : "1603561084"
+    },
+	
+	{
+      "count": 211602,
+      "timestamp" : "1603666800"
     }
 	  
 	  
@@ -1651,6 +1656,11 @@
 	{
       "count": 1820,
       "timestamp" : "1603561084"
+    },
+	
+	{
+      "count": 1105,
+      "timestamp" : "1603666800"
     }
 
 	
@@ -4105,7 +4115,22 @@
       "recovered": 2,
       "timestamp": "1603561084",
       "total": 894
-    }  
+    },
+	
+	{
+      "active": 64,
+      "daily_active": 5,
+      "daily_deaths": 5,
+      "daily_recovered": 830,
+      "daily_total": 64,
+      "day": "25 Oct 2020",
+      "deaths": 0,
+      "id": 63,
+      "record_time": "Sat, 25 Oct 2020 12:00:00 GMT",
+      "recovered": 14,
+      "timestamp": "1603561084",
+      "total": 899
+    }
 	  
 	  
 	  
@@ -4199,22 +4224,22 @@
     }
   ],
   "message": "readings",
-  "num_days": 268,
-  "recovered_diff": 2,
+  "num_days": 270,
+  "recovered_diff": 14,
   "statewise": [
     {
-      "active": 44,
-      "deaths": 4,
-      "delta_active": 1,
+      "active": 64,
+      "deaths": 5,
+      "delta_active": 5,
       "delta_deaths": 0,
-      "delta_recovered": 3,
-      "delta_total": 1,
+      "delta_recovered": 14,
+      "delta_total": 5,
       "id": 12,
-      "last_updated_time": "12/10/2020 10:54:25",
-      "record_time": "Mon, 12 Oct 2020 10:54:25 GMT",
-      "recovered": 707,
+      "last_updated_time": "25/10/2020 10:54:25",
+      "record_time": "Mon, 25 Oct 2020 10:54:25 GMT",
+      "recovered": 770,
       "state": "Lefkoşa | Nicosia",
-      "total": 755
+      "total": 838
     },
     {
       "active": 0,
@@ -4289,20 +4314,20 @@
   ],
   "success": true,
   "summary": {
-    "active": 73,
+    "active": 64,
     "deaths": 5,
-    "delta_active": 9,
+    "delta_active": 5,
     "delta_deaths": 0,
-    "delta_recovered": 2,
-    "delta_total": 3,
+    "delta_recovered": 14,
+    "delta_total": 5,
     "id": 1,
-    "active" : 73,
-    "last_updated_time": "24/10/2020 20:57:12",
-    "record_time": "2020-10-24 20:57:12",
-    "recovered": 816,
-    "total": 894
+    "active" : 64,
+    "last_updated_time": "26/10/2020 11:13:12",
+    "record_time": "2020-10-26 11:13:12",
+    "recovered": 830,
+    "total": 899
   },
-  "total_diff": 9,
+  "total_diff": 5,
   "undefinedage": 0,
-  "active_diff": 9
+  "active_diff": 5
 }
