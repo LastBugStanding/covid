@@ -1,6 +1,6 @@
 {
-  "tests": 458164,
-  "tests_diff": 2736,
+  "tests": 465230,
+  "tests_diff": 2781,
   "information": [
     
 	{
@@ -1088,6 +1088,106 @@
 	{
       "count": 396665,
       "timestamp" : "1601938800"
+    },
+	
+	{
+      "count": 400197,
+      "timestamp" : "1602025200"
+    },
+	
+	{
+      "count": 402292,
+      "timestamp" : "1602111600"
+    },
+	
+	{
+      "count": 405425,
+      "timestamp" : "1602198000"
+    },
+	
+	{
+      "count": 408316,
+      "timestamp" : "1602284400"
+    },
+	
+	{
+      "count": 411730,
+      "timestamp" : "1602370800"
+    },
+	
+	{
+      "count": 415095,
+      "timestamp" : "1602457200"
+    },
+	
+	{
+      "count": 417705,
+      "timestamp" : "1602543600"
+    },
+	  
+	{
+      "count": 421350,
+      "timestamp" : "1602590400"
+    },
+	  
+	{
+      "count": 423641,
+      "timestamp" : "1602676800"
+    }, 
+	  
+	{
+      "count": 427518,
+      "timestamp" : "1602763200"
+    }, 
+	  
+	{
+      "count": 430602,
+      "timestamp" : "1602849600"
+    }, 
+	  
+	{
+      "count": 435568,
+      "timestamp" : "1602936000"
+    }, 
+	
+	{
+      "count": 439256,
+      "timestamp" : "1603022400"
+    }, 
+	  
+	{
+      "count": 441814,
+      "timestamp" : "1603108800"
+    }, 
+	  
+	{
+      "count": 446224,
+      "timestamp" : "1603195200"
+    }, 
+	  
+	{
+      "count": 449533,
+      "timestamp" : "1603281600"
+    }, 
+	  
+	{
+      "count": 453837,
+      "timestamp" : "1603368000"
+    },
+	  
+	{
+      "count": 458164,
+      "timestamp" : "1603474684"
+    },
+	  
+	{
+      "count": 462449,
+      "timestamp" : "1603561084"
+    },
+	
+	{
+      "count": 465230,
+      "timestamp" : "1603666800"
     }
 
     
@@ -2126,6 +2226,106 @@
 	{
       "count": 2736,
       "timestamp" : "1601938800"
+    },
+	
+	{
+      "count": 3532,
+      "timestamp" : "1602025200"
+    },
+	
+	{
+      "count": 2095,
+      "timestamp" : "1602111600"
+    },
+	
+	{
+      "count": 3133,
+      "timestamp" : "1602198000"
+    },
+	
+	{
+      "count": 2891,
+      "timestamp" : "1602284400"
+    },
+	
+	{
+      "count": 3414,
+      "timestamp" : "1602370800"
+    },
+	
+	{
+      "count": 3365,
+      "timestamp" : "1602457200"
+    },
+	
+	{
+      "count": 2610,
+      "timestamp" : "1602543600"
+    },
+	  
+	{
+      "count": 3645,
+      "timestamp" : "1602590400"
+    },
+	  
+	{
+      "count": 2291,
+      "timestamp" : "1602676800"
+    }, 
+	  
+	{
+      "count": 3877,
+      "timestamp" : "1602763200"
+    }, 
+	  
+	{
+      "count": 3084,
+      "timestamp" : "1602849600"
+    }, 
+	  
+	{
+      "count": 4966,
+      "timestamp" : "1602936000"
+    }, 
+	
+	{
+      "count": 3688,
+      "timestamp" : "1603022400"
+    }, 
+	  
+	{
+      "count": 2558,
+      "timestamp" : "1603108800"
+    }, 
+	  
+	{
+      "count": 4410,
+      "timestamp" : "1603195200"
+    }, 
+	  
+	{
+      "count": 3309,
+      "timestamp" : "1603281600"
+    }, 
+	  
+	{
+      "count": 4304,
+      "timestamp" : "1603368000"
+    },
+	  
+	{
+      "count": 4327,
+      "timestamp" : "1603474684"
+    },
+	  
+	{
+      "count": 4285,
+      "timestamp" : "1603561084"
+    },
+	
+	{
+      "count": 2781,
+      "timestamp" : "1603666800"
     }
 
 
@@ -3806,7 +4006,7 @@
 
   "statewise": [
     {
-      "active": 203,
+      "active": 322,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -3817,10 +4017,10 @@
       "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
       "recovered": 0,
       "state": "Ammochostos | Gazimağusa",
-      "total": 203
+      "total": 322
     },
     {
-      "active": 316,
+      "active": 390,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -3831,10 +4031,10 @@
       "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
       "recovered": 0,
       "state": "Larnaka",
-      "total": 316
+      "total": 390
     },
     {
-      "active": 145,
+      "active": 175,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -3845,10 +4045,10 @@
       "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
       "recovered": 0,
       "state": "Lefkosia | Lefkoşa",
-      "total": 145
+      "total": 175
     },
     {
-      "active": 111,
+      "active": 246,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -3859,10 +4059,10 @@
       "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
       "recovered": 0,
       "state": "Lemesos | Limasol",
-      "total": 111
+      "total": 246
     },
     {
-      "active": 26,
+      "active": 318,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -3873,23 +4073,23 @@
       "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
       "recovered": 0,
       "state": "Pafos | Baf",
-      "total": 216
+      "total": 318
     }
   ],
   "success": true,
   "summary": {
-    "active": 1400,
+    "active": 1631,
     "deaths": 25,
-    "delta_active": 25,
+    "delta_active": 101,
     "delta_deaths": 0,
     "delta_recovered": 0,
     "delta_total": 0,
     "id": 1,
-    "active" : 1400,
-    "last_updated_time": "24/10/2020 21:45:12",
-    "record_time": "2020-10-24 21:45:12",
+    "active" : 1631,
+    "last_updated_time": "26/10/2020 11:43:12",
+    "record_time": "2020-10-26 11:43:12",
     "recovered": 1882,
-    "total": 3314
+    "total": 3545
   },
 	
 	"gender": [
@@ -3905,19 +4105,19 @@
 
 	"age": {
     "0-10": 3,
-    "10-20": 8,
-    "20-30": 21,
-    "30-40": 20,
-    "40-50": 15,
-    "50-60": 15,
-    "60-70": 9,
-    "70-80": 7,
+    "10-20": 9,
+    "20-30": 23,
+    "30-40": 21,
+    "40-50": 14,
+    "50-60": 14,
+    "60-70": 8,
+    "70-80": 5,
     "80+": 2
   },
   "message": "readings",
-  "num_days": 268,
+  "num_days": 270,
   "recovered_diff": 0,
-  "total_diff": 23,
+  "total_diff": 101,
   "undefinedage": 0,
-  "active_diff": 23
+  "active_diff": 101
 }
