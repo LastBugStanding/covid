@@ -1,6 +1,6 @@
 {
-  "tests": 238362,
-  "tests_diff": 1341,
+  "tests": 243786,
+  "tests_diff": 1621,
   "age": {
     "0-10": 0,
     "10-20": 0,
@@ -4224,8 +4224,8 @@
     }
   ],
   "message": "readings",
-  "num_days": 286,
-  "recovered_diff": 5,
+  "num_days": 291,
+  "recovered_diff": 0,
   "statewise": [
     {
       "active": 64,
@@ -4314,20 +4314,20 @@
   ],
   "success": true,
   "summary": {
-    "active": 64,
+    "active": 46,
     "deaths": 5,
-    "delta_active": 5,
+    "delta_active": 4,
     "delta_deaths": 0,
-    "delta_recovered": 14,
-    "delta_total": 5,
+    "delta_recovered": 0,
+    "delta_total": 4,
     "id": 1,
-    "active" : 51,
-    "last_updated_time": "11/11/2020 19:13:12",
-    "record_time": "2020-11-11 19:13:12",
-    "recovered": 930,
-    "total": 986
+    "active" : 46,
+    "last_updated_time": "15/11/2020 21:13:12",
+    "record_time": "2020-11-15 21:13:12",
+    "recovered": 943,
+    "total": 994
   },
-  "total_diff": 6,
+  "total_diff": 4,
   "undefinedage": 0,
-  "active_diff": 6
+  "active_diff": 4
 }
