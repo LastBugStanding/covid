@@ -1,6 +1,6 @@
 {
-  "tests": 246548,
-  "tests_diff": 1748,
+  "tests": 263412,
+  "tests_diff": 1093,
   "age": {
     "0-10": 0,
     "10-20": 0,
@@ -4224,22 +4224,22 @@
     }
   ],
   "message": "readings",
-  "num_days": 292,
+  "num_days": 305,
   "recovered_diff": 8,
   "statewise": [
     {
-      "active": 64,
+      "active": 75,
       "deaths": 5,
-      "delta_active": 5,
+      "delta_active": 8,
       "delta_deaths": 0,
-      "delta_recovered": 14,
-      "delta_total": 5,
+      "delta_recovered": 8,
+      "delta_total": 8,
       "id": 12,
-      "last_updated_time": "25/10/2020 10:54:25",
-      "record_time": "Mon, 25 Oct 2020 10:54:25 GMT",
-      "recovered": 770,
+      "last_updated_time": "29/11/2020 10:54:25",
+      "record_time": "Mon, 29 Nov 2020 10:54:25 GMT",
+      "recovered": 963,
       "state": "Lefkoşa | Nicosia",
-      "total": 838
+      "total": 1043
     },
     {
       "active": 0,
@@ -4314,20 +4314,20 @@
   ],
   "success": true,
   "summary": {
-    "active": 46,
+    "active": 75,
     "deaths": 5,
-    "delta_active": 4,
+    "delta_active": 8,
     "delta_deaths": 0,
-    "delta_recovered": 0,
-    "delta_total": 4,
+    "delta_recovered": 8,
+    "delta_total": 8,
     "id": 1,
-    "active" : 47,
-    "last_updated_time": "16/11/2020 19:13:12",
-    "record_time": "2020-11-16 19:13:12",
-    "recovered": 951,
-    "total": 1003
+    "active" : 75,
+    "last_updated_time": "29/11/2020 22:52:12",
+    "record_time": "2020-11-29 22:52:12",
+    "recovered": 1023,
+    "total": 1103
   },
-  "total_diff": 4,
+  "total_diff": 8,
   "undefinedage": 0,
-  "active_diff": 4
+  "active_diff": 8
 }
