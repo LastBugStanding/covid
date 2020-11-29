@@ -1,6 +1,6 @@
 {
-  "tests": 465230,
-  "tests_diff": 2781,
+  "tests": 616959,
+  "tests_diff": 3213,
   "information": [
     
 	{
@@ -4006,7 +4006,7 @@
 
   "statewise": [
     {
-      "active": 322,
+      "active": 992,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -4017,10 +4017,10 @@
       "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
       "recovered": 0,
       "state": "Ammochostos | Gazimağusa",
-      "total": 322
+      "total": 992
     },
     {
-      "active": 390,
+      "active": 852,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -4031,10 +4031,10 @@
       "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
       "recovered": 0,
       "state": "Larnaka",
-      "total": 390
+      "total": 852
     },
     {
-      "active": 175,
+      "active": 595,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -4045,10 +4045,10 @@
       "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
       "recovered": 0,
       "state": "Lefkosia | Lefkoşa",
-      "total": 175
+      "total": 595
     },
     {
-      "active": 246,
+      "active": 1551,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -4059,10 +4059,10 @@
       "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
       "recovered": 0,
       "state": "Lemesos | Limasol",
-      "total": 246
+      "total": 1551
     },
     {
-      "active": 318,
+      "active": 888,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -4073,51 +4073,51 @@
       "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
       "recovered": 0,
       "state": "Pafos | Baf",
-      "total": 318
+      "total": 888
     }
   ],
   "success": true,
   "summary": {
-    "active": 1631,
-    "deaths": 25,
-    "delta_active": 101,
+    "active": 8267,
+    "deaths": 48,
+    "delta_active": 152,
     "delta_deaths": 0,
     "delta_recovered": 0,
     "delta_total": 0,
     "id": 1,
-    "active" : 1631,
-    "last_updated_time": "26/10/2020 11:43:12",
-    "record_time": "2020-10-26 11:43:12",
-    "recovered": 1882,
-    "total": 3545
+    "active" : 8267,
+    "last_updated_time": "29/11/2020 23:27:12",
+    "record_time": "2020-11-29 23:27:12",
+    "recovered": 2057,
+    "total": 10383
   },
 	
 	"gender": [
     {
-      "count": 47,
+      "count": 50,
       "gender": "Female"
     },
     {
-      "count": 53,
+      "count": 50,
       "gender": "Male"
     }
   ],
 
 	"age": {
-    "0-10": 3,
-    "10-20": 9,
-    "20-30": 23,
-    "30-40": 21,
-    "40-50": 14,
-    "50-60": 14,
+    "0-10": 4,
+    "10-20": 13,
+    "20-30": 21,
+    "30-40": 19,
+    "40-50": 15,
+    "50-60": 13,
     "60-70": 8,
-    "70-80": 5,
-    "80+": 2
+    "70-80": 4,
+    "80+": 3
   },
   "message": "readings",
-  "num_days": 270,
+  "num_days": 305,
   "recovered_diff": 0,
-  "total_diff": 101,
+  "total_diff": 152,
   "undefinedage": 0,
-  "active_diff": 101
+  "active_diff": 152
 }
