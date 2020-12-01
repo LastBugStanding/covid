@@ -4662,7 +4662,8 @@
 	{
       "active": 51,
       "daily_active": 2,
-      "daily_deaths": 5902,
+      "daily_deaths": 5,
+	  "daily_recovered": 902,
       "daily_total": 51,
       "day": "06 Nov 2020",
       "deaths": 0,
