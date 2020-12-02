@@ -1,6 +1,6 @@
 {
-  "tests": 616959,
-  "tests_diff": 3213,
+  "tests": 622653,
+  "tests_diff": 3233,
   "information": [
     
 	{
@@ -4006,7 +4006,7 @@
 
   "statewise": [
     {
-      "active": 992,
+      "active": 1037,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -4017,10 +4017,10 @@
       "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
       "recovered": 0,
       "state": "Ammochostos | Gazimağusa",
-      "total": 992
+      "total": 1037
     },
     {
-      "active": 852,
+      "active": 876,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -4031,10 +4031,10 @@
       "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
       "recovered": 0,
       "state": "Larnaka",
-      "total": 852
+      "total": 876
     },
     {
-      "active": 595,
+      "active": 627,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -4045,10 +4045,10 @@
       "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
       "recovered": 0,
       "state": "Lefkosia | Lefkoşa",
-      "total": 595
+      "total": 627
     },
     {
-      "active": 1551,
+      "active": 1570,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -4059,10 +4059,10 @@
       "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
       "recovered": 0,
       "state": "Lemesos | Limasol",
-      "total": 1551
+      "total": 1570
     },
     {
-      "active": 888,
+      "active": 899,
       "deaths": 0,
       "delta_active": 0,
       "delta_deaths": 0,
@@ -4073,23 +4073,23 @@
       "record_time": "Fri, 11 Sep 2020 10:28:48 GMT",
       "recovered": 0,
       "state": "Pafos | Baf",
-      "total": 888
+      "total": 899
     }
   ],
   "success": true,
   "summary": {
-    "active": 8267,
-    "deaths": 48,
-    "delta_active": 152,
+    "active": 8766,
+    "deaths": 49,
+    "delta_active": 318,
     "delta_deaths": 0,
     "delta_recovered": 0,
     "delta_total": 0,
     "id": 1,
-    "active" : 8267,
-    "last_updated_time": "29/11/2020 23:27:12",
-    "record_time": "2020-11-29 23:27:12",
+    "active" : 8766,
+    "last_updated_time": "02/12/2020 20:12:12",
+    "record_time": "2020-12-02 20:12:12",
     "recovered": 2057,
-    "total": 10383
+    "total": 10883
   },
 	
 	"gender": [
@@ -4115,9 +4115,9 @@
     "80+": 3
   },
   "message": "readings",
-  "num_days": 305,
+  "num_days": 308,
   "recovered_diff": 0,
-  "total_diff": 152,
+  "total_diff": 318,
   "undefinedage": 0,
-  "active_diff": 152
+  "active_diff": 318
 }
