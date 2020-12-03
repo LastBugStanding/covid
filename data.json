@@ -1,6 +1,6 @@
 {
-  "tests": 267764,
-  "tests_diff": 1384,
+  "tests": 269354,
+  "tests_diff": 1591,
   "age": {
     "0-10": 0,
     "10-20": 0,
@@ -1043,6 +1043,11 @@
 	{
       "count": 267764,
       "timestamp" : "1606938540"
+    },
+	
+	{
+      "count": 269354,
+      "timestamp" : "1607036400"
     }
 	
 	  
@@ -2041,6 +2046,11 @@
 	{
       "count": 1384,
       "timestamp" : "1606938540"
+    },
+	
+	{
+      "count": 1591,
+      "timestamp" : "1607036400"
     }
 
 	
@@ -5082,6 +5092,21 @@
       "recovered": 13,
       "timestamp": "1606938540",
       "total": 1138
+    },
+	
+	{
+      "active": 95,
+      "daily_active": 6,
+      "daily_deaths": 5,
+      "daily_recovered": 1044,
+      "daily_total": 95,
+      "day": "03 Dec 2020",
+      "deaths": 0,
+      "id": 63,
+      "record_time": "Thu, 03 Dec 2020 12:00:00 GMT",
+      "recovered": 2,
+      "timestamp": "1607036400",
+      "total": 1144
     }
 	  
 	  
@@ -5176,22 +5201,22 @@
     }
   ],
   "message": "readings",
-  "num_days": 308,
+  "num_days": 309,
   "recovered_diff": 0,
   "statewise": [
     {
-      "active": 91,
+      "active": 95,
       "deaths": 5,
-      "delta_active": 9,
+      "delta_active": 6,
       "delta_deaths": 0,
-      "delta_recovered": 0,
-      "delta_total": 9,
+      "delta_recovered": 2,
+      "delta_total": 6,
       "id": 12,
-      "last_updated_time": "02/12/2020 10:54:25",
-      "record_time": "Wed, 02 Dec 2020 10:54:25 GMT",
-      "recovered": 982,
+      "last_updated_time": "03/12/2020 10:54:25",
+      "record_time": "Thu, 03 Dec 2020 10:54:25 GMT",
+      "recovered": 984,
       "state": "Lefkoşa | Nicosia",
-      "total": 1078
+      "total": 1084
     },
     {
       "active": 0,
@@ -5266,19 +5291,19 @@
   ],
   "success": true,
   "summary": {
-    "active": 91,
+    "active": 95,
     "deaths": 5,
-    "delta_active": 9,
+    "delta_active": 6,
     "delta_deaths": 0,
-    "delta_recovered": 13,
-    "delta_total": 9,
+    "delta_recovered": 2,
+    "delta_total": 6,
     "id": 1,
-    "last_updated_time": "03/12/2020 13:06:21",
-    "record_time": "2020-12-03 13:06:21",
-    "recovered": 1042,
-    "total": 1138
+    "last_updated_time": "03/12/2020 23:30:21",
+    "record_time": "2020-12-03 23:30:21",
+    "recovered": 1044,
+    "total": 1144
   },
-  "total_diff": 9,
+  "total_diff": 6,
   "undefinedage": 0,
-  "active_diff": 9
+  "active_diff": 6
 }
