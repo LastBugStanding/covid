@@ -1,6 +1,6 @@
 {
-  "tests": 276939,
-  "tests_diff": 1834,
+  "tests": 278505,
+  "tests_diff": 1566,
   "age": {
     "0-10": 0,
     "10-20": 0,
@@ -1053,6 +1053,11 @@
 	{
       "count": 271114,
       "timestamp" : "1607122800"
+    },
+	
+	{
+      "count": 278505,
+      "timestamp" : "1607447420"
     }
 	
 	  
@@ -2061,6 +2066,11 @@
 	{
       "count": 1760,
       "timestamp" : "1607122800"
+    },
+	
+	{
+      "count": 1566,
+      "timestamp" : "1607447420"
     }
 
 	
@@ -5177,6 +5187,21 @@
       "recovered": 5,
       "timestamp": "1607371200",
       "total": 1190
+    },
+	
+	{
+      "active": 124,
+      "daily_active": 13,
+      "daily_deaths": 6,
+      "daily_recovered": 1073,
+      "daily_total": 124,
+      "day": "08 Dec 2020",
+      "deaths": 0,
+      "id": 63,
+      "record_time": "Tue, 08 Dec 2020 12:00:00 GMT",
+      "recovered": 10,
+      "timestamp": "1607447420",
+      "total": 1203
     }
 	  
 	  
@@ -5255,7 +5280,7 @@
       "total": 1161
     }
   ],
-  "deaths_diff": 0,
+  "deaths_diff": 1,
   "gender": [
     {
       "count": 3,
@@ -5271,22 +5296,22 @@
     }
   ],
   "message": "readings",
-  "num_days": 314,
-  "recovered_diff": 5,
+  "num_days": 315,
+  "recovered_diff": 10,
   "statewise": [
     {
-      "active": 122,
-      "deaths": 5,
-      "delta_active": 14,
-      "delta_deaths": 0,
-      "delta_recovered": 5,
-      "delta_total": 14,
+      "active": 124,
+      "deaths": 6,
+      "delta_active": 13,
+      "delta_deaths": 1,
+      "delta_recovered": 10,
+      "delta_total": 13,
       "id": 12,
-      "last_updated_time": "07/12/2020 10:54:25",
-      "record_time": "Mon, 07 Dec 2020 10:54:25 GMT",
-      "recovered": 1003,
+      "last_updated_time": "08/12/2020 10:54:25",
+      "record_time": "Tue, 08 Dec 2020 10:54:25 GMT",
+      "recovered": 1013,
       "state": "Lefkoşa | Nicosia",
-      "total": 1130
+      "total": 1143
     },
     {
       "active": 0,
@@ -5361,19 +5386,19 @@
   ],
   "success": true,
   "summary": {
-    "active": 112,
-    "deaths": 5,
-    "delta_active": 14,
-    "delta_deaths": 0,
-    "delta_recovered": 5,
-    "delta_total": 14,
+    "active": 124,
+    "deaths": 6,
+    "delta_active": 13,
+    "delta_deaths": 1,
+    "delta_recovered": 10,
+    "delta_total": 13,
     "id": 1,
-    "last_updated_time": "07/12/2020 21:07:12",
-    "record_time": "2020-12-07 21:07:12",
-    "recovered": 1063,
-    "total": 1190
+    "last_updated_time": "08/12/2020 19:15:12",
+    "record_time": "2020-12-07 19:15:12",
+    "recovered": 1073,
+    "total": 1203
   },
-  "total_diff": 14,
+  "total_diff": 13,
   "undefinedage": 0,
-  "active_diff": 14
+  "active_diff": 13
 }
