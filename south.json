@@ -1,5 +1,5 @@
 {
-  "tests": 622653,
+  "tests": 651431,
   "tests_diff": 3233,
   "information": [
     
@@ -4086,8 +4086,8 @@
     "delta_total": 0,
     "id": 1,
     "active" : 8766,
-    "last_updated_time": "02/12/2020 20:12:12",
-    "record_time": "2020-12-02 20:12:12",
+    "last_updated_time": "10/12/2020 22:15:12",
+    "record_time": "2020-12-10 22:15:12",
     "recovered": 2057,
     "total": 10883
   },
@@ -4115,7 +4115,7 @@
     "80+": 3
   },
   "message": "readings",
-  "num_days": 308,
+  "num_days": 317,
   "recovered_diff": 0,
   "total_diff": 318,
   "undefinedage": 0,
