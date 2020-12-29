@@ -17,50 +17,50 @@
     
 	
 	{
+      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte yapılan test sayısının 2519 olduğunu, 23’ü yerel 33 pozitif vakaya rastlandığını, 18 kişinin taburcu edildiğini açıkladı.",
+      "headline": "Bakan Pilli: 23’ü yerel 33 pozitif vakaya rastlandı",
+      "id": 1,
+      "link": "https://brtk.net/bakan-pilli-23u-yerel-33-pozitif-vakaya-rastlandi/",
+      "record_time": "29 Ara 20 8:06 PM",
+      "tags": "news"
+    },
+	{
+      "body": "Güney Kıbrıs’ta son 24 saatte 4 kişi de Covid-19 nedeniyle hayatını kaybederken, gerçekleştirilen toplam 18 bin 070 test sonucunda 907 de yeni vaka tespit edildi.",
+      "headline": "Güney Kıbrıs’ta rekor vaka sayısı! 907 yeni vaka, 4 ölüm",
+      "id": 2,
+      "link": "https://brtk.net/guney-kibrista-rekor-vaka-sayisi-907-yeni-vaka-4-olum/",
+      "record_time": "29 Ara 20 5:46 PM",
+      "tags": "news"
+    },
+	{
       "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte yapılan test sayısının 2203 olduğunu, 13’ü yerel 14 pozitif vakaya rastlandığını, 10 kişinin taburcu edildiğini açıkladı.",
       "headline": "Pilli:13’ü yerel 14 pozitif vakaya rastlandı",
-      "id": 1,
+      "id": 3,
       "link": "https://brtk.net/pilli13u-yerel-14-pozitif-vakaya-rastlandi/",
-      "record_time": "29 Ara 20 8:06 PM",
+      "record_time": "28 Ara 20 7:24 PM",
       "tags": "news"
     },
 	{
       "body": "Güney Kıbrıs’ta son 24 saatte 1 kişi Covid 19’dan öldü, 751 yeni vaka belirlendi.",
       "headline": "Güney Kıbrıs’ta son 24 saatte 751 yeni vaka belirlendi",
-      "id": 2,
+      "id": 4,
       "link": "https://brtk.net/guney-kibrista-son-24-saatte-1-kisi-covid-19dan-oldu-751-yeni-vaka-belirlendi/",
-      "record_time": "29 Ara 20 5:46 PM",
+      "record_time": "28 Ara 20 6:11 PM",
       "tags": "news"
     },
 	{
       "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte yapılan test sayısının 1853 olduğunu, 13’ü yerel 20 pozitif vakaya rastlandığını, 13 kişinin taburcu edildiğini, 1 kişinin yoğun bakıma alındığını açıkladı.",
       "headline": "Bakan Pilli: Toplam 1853 test yapıldı, 13’ü yerel 20 pozitif vakaya rastlandı",
-      "id": 3,
-      "link": "https://brtk.net/bakan-pilli-toplam-1853-test-yapildi-13u-yerel-20-pozitif-vakaya-rastlandi/",
-      "record_time": "28 Ara 20 7:24 PM",
-      "tags": "news"
-    },
-	{
-      "body": "Güney Kıbrıs’ta son 24 saatte yapılan bin 970 test sonucunda 266 yeni vaka tespit edilirken 1 kişi de Covid 19 nedeniyle hayatını kaybetti.",
-      "headline": "Güney Kıbrıs’ta 266 yeni vaka,1 kişi hayatını kaybetti",
-      "id": 4,
-      "link": "https://brtk.net/guney-kibrista-266-yeni-vaka-1-kisi-hayatini-kaybetti/",
-      "record_time": "28 Ara 20 6:11 PM",
-      "tags": "news"
-    },
-	{
-      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte yapılan test sayısının 2010 olduğunu, 13 pozitif vakaya rastlandığını, 15 kişinin taburcu edildiğini açıkladı.",
-      "headline": "Bakan Pilli: Toplam 2010 test yapıldı, 13 pozitif vakaya rastlandı",
       "id": 5,
-      "link": "https://brtk.net/bakan-pilli-toplam-2010-test-yapildi-13-pozitif-vakaya-rastlandi/",
+      "link": "https://brtk.net/bakan-pilli-toplam-1853-test-yapildi-13u-yerel-20-pozitif-vakaya-rastlandi/",
       "record_time": "27 Ara 20 7:29 PM",
       "tags": "news"
     },
 	{
-      "body": "Güney Kıbrıs’ta bugün 3 bin 866 test yapıldı, 25 yeni vaka tespit edildi.",
-      "headline": "Güney Kıbrıs’ta 25 yeni vaka tespit edildi. 2 kişi hayatını kaybetti",
+      "body": "Güney Kıbrıs’ta son 24 saatte yapılan bin 970 test sonucunda 266 yeni vaka tespit edilirken 1 kişi de Covid 19 nedeniyle hayatını kaybetti.",
+      "headline": "Güney Kıbrıs’ta 266 yeni vaka.1 kişi hayatını kaybetti",
       "id": 6,
-      "link": "https://brtk.net/guney-kibrista-25-yeni-vaka-tespit-edildi-2-kisi-hayatini-kaybetti/",
+      "link": "https://brtk.net/guney-kibrista-266-yeni-vaka-1-kisi-hayatini-kaybetti/",
       "record_time": "27 Ara 20 6:23 PM",
       "tags": "news"
     }
