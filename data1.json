@@ -2997,6 +2997,7 @@
       "daily_deaths": 4,
       "daily_recovered": 311,
       "daily_total": 201,
+	  "daily_local": 10,
       "day": "10 Sep 2020",
       "deaths": 0,
       "id": 55,
