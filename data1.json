@@ -1,5 +1,6 @@
 {
-  "local_cases": 10,
+  "local_cases": 33,
+  "local_diff": 23,
   "tests": 135689,
   "tests_diff": 1210,
   "age": {
