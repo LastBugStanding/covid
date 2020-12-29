@@ -1,6 +1,6 @@
 {
-  "tests": 323197,
-  "tests_diff": 2203,
+  "tests": 325716,
+  "tests_diff": 2519,
   "age": {
     "0-10": 0,
     "10-20": 0,
@@ -21,7 +21,7 @@
       "headline": "Pilli:13’ü yerel 14 pozitif vakaya rastlandı",
       "id": 1,
       "link": "https://brtk.net/pilli13u-yerel-14-pozitif-vakaya-rastlandi/",
-      "record_time": "28 Ara 20 8:06 PM",
+      "record_time": "29 Ara 20 8:06 PM",
       "tags": "news"
     },
 	{
@@ -29,7 +29,7 @@
       "headline": "Güney Kıbrıs’ta son 24 saatte 751 yeni vaka belirlendi",
       "id": 2,
       "link": "https://brtk.net/guney-kibrista-son-24-saatte-1-kisi-covid-19dan-oldu-751-yeni-vaka-belirlendi/",
-      "record_time": "28 Ara 20 5:46 PM",
+      "record_time": "29 Ara 20 5:46 PM",
       "tags": "news"
     },
 	{
@@ -37,7 +37,7 @@
       "headline": "Bakan Pilli: Toplam 1853 test yapıldı, 13’ü yerel 20 pozitif vakaya rastlandı",
       "id": 3,
       "link": "https://brtk.net/bakan-pilli-toplam-1853-test-yapildi-13u-yerel-20-pozitif-vakaya-rastlandi/",
-      "record_time": "27 Ara 20 7:24 PM",
+      "record_time": "28 Ara 20 7:24 PM",
       "tags": "news"
     },
 	{
@@ -45,7 +45,7 @@
       "headline": "Güney Kıbrıs’ta 266 yeni vaka,1 kişi hayatını kaybetti",
       "id": 4,
       "link": "https://brtk.net/guney-kibrista-266-yeni-vaka-1-kisi-hayatini-kaybetti/",
-      "record_time": "27 Ara 20 6:11 PM",
+      "record_time": "28 Ara 20 6:11 PM",
       "tags": "news"
     },
 	{
@@ -53,7 +53,7 @@
       "headline": "Bakan Pilli: Toplam 2010 test yapıldı, 13 pozitif vakaya rastlandı",
       "id": 5,
       "link": "https://brtk.net/bakan-pilli-toplam-2010-test-yapildi-13-pozitif-vakaya-rastlandi/",
-      "record_time": "26 Ara 20 7:29 PM",
+      "record_time": "27 Ara 20 7:29 PM",
       "tags": "news"
     },
 	{
@@ -61,7 +61,7 @@
       "headline": "Güney Kıbrıs’ta 25 yeni vaka tespit edildi. 2 kişi hayatını kaybetti",
       "id": 6,
       "link": "https://brtk.net/guney-kibrista-25-yeni-vaka-tespit-edildi-2-kisi-hayatini-kaybetti/",
-      "record_time": "26 Ara 20 6:23 PM",
+      "record_time": "27 Ara 20 6:23 PM",
       "tags": "news"
     }
 	
@@ -5653,6 +5653,81 @@
       "recovered": 9,
       "timestamp": "1608829260",
       "total": 1451
+    },
+	
+	{
+      "active": 193,
+      "daily_active": 8,
+      "daily_deaths": 6,
+      "daily_recovered": 1260,
+      "daily_total": 193,
+      "day": "25 Dec 2020",
+      "deaths": 0,
+      "id": 63,
+      "record_time": "Fri, 25 Dec 2020 12:00:00 GMT",
+      "recovered": 9,
+      "timestamp": "1608937200",
+      "total": 1459
+    },
+	
+	{
+      "active": 191,
+      "daily_active": 13,
+      "daily_deaths": 6,
+      "daily_recovered": 1275,
+      "daily_total": 191,
+      "day": "26 Dec 2020",
+      "deaths": 0,
+      "id": 63,
+      "record_time": "Sat, 26 Dec 2020 12:00:00 GMT",
+      "recovered": 15,
+      "timestamp": "1609023600",
+      "total": 1472
+    },
+	
+	{
+      "active": 198,
+      "daily_active": 20,
+      "daily_deaths": 6,
+      "daily_recovered": 1288,
+      "daily_total": 198,
+      "day": "27 Dec 2020",
+      "deaths": 0,
+      "id": 63,
+      "record_time": "Sun, 27 Dec 2020 12:00:00 GMT",
+      "recovered": 13,
+      "timestamp": "1609110000",
+      "total": 1492
+    },
+	
+	{
+      "active": 202,
+      "daily_active": 14,
+      "daily_deaths": 6,
+      "daily_recovered": 1291,
+      "daily_total": 202,
+      "day": "28 Dec 2020",
+      "deaths": 0,
+      "id": 63,
+      "record_time": "Mon, 28 Dec 2020 12:00:00 GMT",
+      "recovered": 10,
+      "timestamp": "1609181300",
+      "total": 1499
+    },
+	
+	{
+      "active": 217,
+      "daily_active": 33,
+      "daily_deaths": 6,
+      "daily_recovered": 1309,
+      "daily_total": 217,
+      "day": "29 Dec 2020",
+      "deaths": 0,
+      "id": 63,
+      "record_time": "Tue, 29 Dec 2020 12:00:00 GMT",
+      "recovered": 18,
+      "timestamp": "1609267474",
+      "total": 1532
     }
 	  
 	  
@@ -5747,22 +5822,22 @@
     }
   ],
   "message": "readings",
-  "num_days": 331,
-  "recovered_diff": 9,
+  "num_days": 336,
+  "recovered_diff": 18,
   "statewise": [
     {
-      "active": 194,
+      "active": 217,
       "deaths": 6,
-      "delta_active": 11,
+      "delta_active": 33,
       "delta_deaths": 0,
-      "delta_recovered": 9,
-      "delta_total": 11,
+      "delta_recovered": 18,
+      "delta_total": 33,
       "id": 12,
-      "last_updated_time": "24/12/2020 10:54:25",
-      "record_time": "Thu, 24 Dec 2020 10:54:25 GMT",
-      "recovered": 1191,
+      "last_updated_time": "29/12/2020 10:54:25",
+      "record_time": "Tue, 29 Dec 2020 10:54:25 GMT",
+      "recovered": 1249,
       "state": "Lefkoşa | Nicosia",
-      "total": 1391
+      "total": 1472
     },
     {
       "active": 0,
@@ -5837,19 +5912,19 @@
   ],
   "success": true,
   "summary": {
-    "active": 194,
+    "active": 217,
     "deaths": 6,
-    "delta_active": 11,
+    "delta_active": 33,
     "delta_deaths": 0,
-    "delta_recovered": 9,
-    "delta_total": 11,
+    "delta_recovered": 18,
+    "delta_total": 33,
     "id": 1,
-    "last_updated_time": "24/12/2020 20:30:23",
-    "record_time": "2020-12-24 20:30:23",
-    "recovered": 1251,
-    "total": 1451
+    "last_updated_time": "29/12/2020 23:12:45",
+    "record_time": "2020-12-29 23:12:45",
+    "recovered": 1309,
+    "total": 1532
   },
-  "total_diff": 11,
+  "total_diff": 33,
   "undefinedage": 0,
-  "active_diff": 11
+  "active_diff": 33
 }
