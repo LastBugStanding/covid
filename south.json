@@ -4,19 +4,19 @@
   "information": [
     
 	{
-      "body": "Epidemiological risk assessment of countries concerning COVID-19, dated 21/09/2020",
-      "headline": "Epidemiological risk assessment of countries concerning COVID-19, 21-9-2020",
+      "body": "Travel Advice of the Ministry of Foreign Affairs for the Coronavirus Covid-19 for the United Kingdom , 22-12-2020",
+      "headline": "Travel Advice of the Ministry of Foreign Affairs for the Coronavirus Covid-19 for the United Kingdom , 22-12-2020",
       "id": 1,
-      "link": "https://www.pio.gov.cy/coronavirus/en/press/21092020_4.pdf",
-      "record_time": "21 Eyl 20 5:58 PM",
+      "link": "https://www.pio.gov.cy/coronavirus/uploads/22122020_ExoterikonTRAVEL-ADVISE-UK_ENGLISH.pdf",
+      "record_time": "22 Kas 20 5:58 PM",
       "tags": "news"
     },
 	{
-      "body": "Epidemiological risk assessment of countries concerning COVID-19, dated 15/09/2020",
-      "headline": "Epidemiological risk assessment of countries concerning COVID-19, 15-9-2020",
+      "body": "Cyprus lifts travel ban for 56 countries , 16-12-2020",
+      "headline": " Cyprus lifts travel ban for 56 countries , 16-12-2020",
       "id": 2,
-      "link": "https://www.pio.gov.cy/coronavirus/en/press/03082020_1.pdf",
-      "record_time": "15 Eyl 20 7:46 PM",
+      "link": "https://www.pio.gov.cy/coronavirus/uploads/14122020_Cyprustoliftban_letter.pdf",
+      "record_time": "14 Kas 20 7:46 PM",
       "tags": "news"
     },
 	{
@@ -4115,9 +4115,9 @@
     "80+": 3
   },
   "message": "readings",
-  "num_days": 350,
+  "num_days": 345,
   "recovered_diff": 0,
-  "total_diff": 259,
+  "total_diff": 427,
   "undefinedage": 0,
-  "active_diff": 259
+  "active_diff": 427
 }
