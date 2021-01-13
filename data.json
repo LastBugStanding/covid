@@ -1,6 +1,6 @@
 {
-  "tests": 356833,
-  "tests_diff": 2215,
+  "tests": 358873,
+  "tests_diff": 2040,
   "age": {
     "0-10": 0,
     "10-20": 0,
@@ -17,9 +17,25 @@
     
 	
 	{
+      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte yapılan test sayısının 2040 olduğunu, 13 yerel 19 pozitif vakaya rastlandığını, 2 kişinin yoğun bakıma alındığını, 19 kişinin taburcu edildiğini açıkladı..",
+      "headline": "Bakan Pilli: 13’ü yerel 19 pozitif vakaya rastlandı, 2 kişi yoğun bakıma alındı",
+      "id": 1,
+      "link": "https://brtk.net/bakan-pilli-13u-yerel-19-pozitif-vakaya-rastlandi-2-kisi-yogun-bakima-alindi/",
+      "record_time": "10 Oca 21 7:24 PM",
+      "tags": "news"
+    },
+	{
+      "body": "Güney Kıbrıs’ta son 24 saatte yapılan testler neticesinde 227 vaka saptandı.",
+      "headline": "Güney Kıbrıs’ta 227 vaka, 6 ölüm",
+      "id": 2,
+      "link": "https://brtk.net/guney-kibrista-227-vaka-6-olum/",
+      "record_time": "10 Oca 21 6:11 PM",
+      "tags": "news"
+    },
+	{
       "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte yapılan test sayısının 2215 olduğunu, 10 yerel vakaya rastlandığını, 1kişinin hayatını kaybettiğini, 17 kişinin taburcu edildiğini açıkladı.",
       "headline": "Bakan Pilli:10 yerel vakaya rastlandı ,1 kişi hayatını kaybetti",
-      "id": 1,
+      "id": 3,
       "link": "https://brtk.net/bakan-pilli10-yerel-vakaya-rastlandi-1-kisi-hayatini-kaybetti/",
       "record_time": "12 Oca 21 7:29 PM",
       "tags": "news"
@@ -27,7 +43,7 @@
 	{
       "body": "Rum Sağlık Bakanlığı yetkililerinin açıkladığı bilgiye göre son 24 saatte 13 bin 231 test yapıldı, 259 yeni vaka tespit edildi ve 4 yeni ölüm gerçekleşti.",
       "headline": "Güney Kıbrıs’ta son 24 saatte koronavirüs kaynaklı 4 yeni can kaybı oldu, 259 yeni vaka saptandı",
-      "id": 2,
+      "id": 4,
       "link": "https://brtk.net/guney-kibrista-son-24-saatte-koronavirus-kaynakli-4-yeni-can-kaybi-oldu-259-yeni-vaka-saptandi/",
       "record_time": "12 Oca 21 6:23 PM",
       "tags": "news"
@@ -35,7 +51,7 @@
 	{
       "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte yapılan test sayısının 2868 olduğunu, 20’si yerel 21 pozitif vakaya rastlandığını, 23 kişinin taburcu edildiğini açıkladı.",
       "headline": "Pilli: 20’si yerel 21 pozitif vakaya rastlandı",
-      "id": 3,
+      "id": 5,
       "link": "https://brtk.net/pilli-20si-yerel-21-pozitif-vakaya-rastlandi/",
       "record_time": "11 Oca 21 8:06 PM",
       "tags": "news"
@@ -43,25 +59,9 @@
 	{
       "body": "Güney Kıbrıs’ta bugün koronavirüsten 5 can kaybı daha oldu, 288 de yeni vaka saptandı. Son 24 saatte yapılan 12 bin 842 testten 288’i pozitif çıktı.",
       "headline": "Koronavirüs Güney Kıbrıs’ta 5 can daha aldı,288 yeni vaka saptandı",
-      "id": 4,
+      "id": 6,
       "link": "https://brtk.net/koronavirus-guney-kibrista-5-can-daha-aldi288-yeni-vaka-saptandi/",
       "record_time": "11 Oca 21 5:46 PM",
-      "tags": "news"
-    },
-	{
-      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte yapılan test sayısının 2145 olduğunu, 11’i yerel 14 pozitif vakaya rastlandığını, 17 kişinin taburcu edildiğini açıkladı.",
-      "headline": "Bakan Pilli: 11’i yerel 14 pozitif vakaya rastlandı",
-      "id": 5,
-      "link": "https://brtk.net/bakan-pilli-11i-yerel-14-pozitif-vakaya-rastlandi/",
-      "record_time": "10 Oca 21 7:24 PM",
-      "tags": "news"
-    },
-	{
-      "body": "Güney Kıbrıs’ta son 24 saatte koronavirüs kaynaklı 1 yeni can kaybı oldu, 339 yeni vaka tespit edildi",
-      "headline": "Güney Kıbrıs’ta 1 yeni can kaybı oldu, 339 yeni vaka tespit edildi",
-      "id": 6,
-      "link": "https://brtk.net/guney-kibrista-koronavirus-kaynakli-1-yeni-can-kaybi-oldu-339-yeni-vaka-tespit-edildi/",
-      "record_time": "10 Oca 21 6:11 PM",
       "tags": "news"
     }
 	
@@ -1234,6 +1234,11 @@
 	{
       "count": 356833,
       "timestamp" : "1610474986"
+    },
+	
+	{
+      "count": 358873,
+      "timestamp" : "1610563453"
     }
 	
 	  
@@ -2422,6 +2427,11 @@
 	{
       "count": 2215,
       "timestamp" : "1610474986"
+    },
+	
+	{
+      "count": 2040,
+      "timestamp" : "1610563453"
     }
 
 	
@@ -6078,6 +6088,21 @@
       "recovered": 17,
       "timestamp": "1610474986",
       "total": 1810
+    },
+	
+	{
+      "active": 243,
+      "daily_active": 19,
+      "daily_deaths": 11,
+      "daily_recovered": 1575,
+      "daily_total": 243,
+      "day": "13 Jan 2021",
+      "deaths": 0,
+      "id": 63,
+      "record_time": "Wed, 13 Jan 2021 12:00:00 GMT",
+      "recovered": 19,
+      "timestamp": "1610563453",
+      "total": 1829
     }
 	  
 	  
@@ -6172,22 +6197,22 @@
     }
   ],
   "message": "readings",
-  "num_days": 350,
-  "recovered_diff": 17,
+  "num_days": 351,
+  "recovered_diff": 19,
   "statewise": [
     {
       "active": 243,
       "deaths": 11,
-      "delta_active": 10,
-      "delta_deaths": 1,
-      "delta_recovered": 17,
-      "delta_total": 10,
+      "delta_active": 19,
+      "delta_deaths": 0,
+      "delta_recovered": 19,
+      "delta_total": 19,
       "id": 12,
-      "last_updated_time": "12/01/2021 10:54:25",
-      "record_time": "Tue, 12 Jan 2021 10:54:25 GMT",
-      "recovered": 1496,
+      "last_updated_time": "13/01/2021 10:54:25",
+      "record_time": "Wed, 13 Jan 2021 10:54:25 GMT",
+      "recovered": 1515,
       "state": "Lefkoşa | Nicosia",
-      "total": 1750
+      "total": 1769
     },
     {
       "active": 0,
@@ -6264,17 +6289,17 @@
   "summary": {
     "active": 243,
     "deaths": 11,
-    "delta_active": 10,
-    "delta_deaths": 1,
-    "delta_recovered": 17,
-    "delta_total": 10,
+    "delta_active": 19,
+    "delta_deaths": 0,
+    "delta_recovered": 19,
+    "delta_total": 19,
     "id": 1,
-    "last_updated_time": "12/01/2021 20:03:47",
-    "record_time": "2021-01-12 20:03:47",
-    "recovered": 1556,
-    "total": 1810
+    "last_updated_time": "13/01/2021 20:52:47",
+    "record_time": "2021-01-13 20:52:47",
+    "recovered": 1575,
+    "total": 1829
   },
-  "total_diff": 10,
+  "total_diff": 19,
   "undefinedage": 0,
-  "active_diff": 10
+  "active_diff": 19
 }
