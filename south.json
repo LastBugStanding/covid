@@ -1,6 +1,6 @@
 {
   "tests": 688866,
-  "tests_diff": 5981,
+  "tests_diff": 28569,
   "information": [
     
 	{
@@ -4115,9 +4115,9 @@
     "80+": 3
   },
   "message": "readings",
-  "num_days": 373,
+  "num_days": 374,
   "recovered_diff": 0,
-  "total_diff": 128,
+  "total_diff": 139,
   "undefinedage": 0,
-  "active_diff": 128
+  "active_diff": 139
 }
