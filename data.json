@@ -18,7 +18,7 @@
 	
 	{
       "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte yapılan test sayısının 4954   olduğunu, 62’si yerel 71 pozitif vakaya rastlandığını, 21 kişinin taburcu edildiğini açıkladı.",
-      "headline": "Son 24 saatte 71 pozitif vaka",
+      "headline": "Son 24 saatte 71 pozitif vaka!",
       "id": 1,
       "link": "https://brtk.net/son-24-saatte-71-pozitif-vaka/",
       "record_time": "03 Şub 21 8:06 PM",
@@ -29,7 +29,7 @@
       "headline": "Güney Kıbrıs’ta son 24 saatte 139 yeni vaka saptandı.",
       "id": 2,
       "link": "https://brtk.net/guney-kibrista-koronavirus-nedeniyle-1-kisi-hayatini-kaybetti-139-yeni-vaka-saptandi/",
-      "record_time": "03 Şub 21 6:46 PM",
+      "record_time": "03 Şub 21 7:46 PM",
       "tags": "news"
     },
 	{
@@ -1341,7 +1341,8 @@
       "timestamp" : "1612306800"
     },
 	
-	  "count": 416085,
+	{
+      "count": 416085,
       "timestamp" : "1612393200"
     }
 	
@@ -6820,8 +6821,8 @@
     "delta_recovered": 21,
     "delta_total": 71,
     "id": 1,
-    "last_updated_time": "04/02/2021 16:14:13",
-    "record_time": "2021-02-04 16:14:13",
+    "last_updated_time": "04/02/2021 16:20:14",
+    "record_time": "2021-02-04 16:20:14",
     "recovered": 1923,
     "total": 2504
   },
