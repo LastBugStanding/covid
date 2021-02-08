@@ -4086,8 +4086,8 @@
     "delta_total": 0,
     "id": 1,
     "active" : 17476,
-    "last_updated_time": "05/02/2021 21:24:21",
-    "record_time": "2021-02-05 21:24:21",
+    "last_updated_time": "08/02/2021 11:24:21",
+    "record_time": "2021-02-08 11:24:21",
     "recovered": 2057,
     "total": 17476
   },
@@ -4115,9 +4115,9 @@
     "80+": 3
   },
   "message": "readings",
-  "num_days": 375,
+  "num_days": 378,
   "recovered_diff": 0,
-  "total_diff": 133,
+  "total_diff": 115,
   "undefinedage": 0,
-  "active_diff": 133
+  "active_diff": 115
 }
