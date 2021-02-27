@@ -4115,9 +4115,9 @@
     "80+": 3
   },
   "message": "readings",
-  "num_days": 382,
+  "num_days": 398,
   "recovered_diff": 0,
-  "total_diff": 103,
+  "total_diff": 272,
   "undefinedage": 0,
-  "active_diff": 103
+  "active_diff": 272
 }
