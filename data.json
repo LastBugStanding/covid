@@ -1,6 +1,6 @@
 {
-  "tests": 458553,
-  "tests_diff": 5764,
+  "tests": 533486,
+  "tests_diff": 5494,
   "age": {
     "0-10": 0,
     "10-20": 0,
@@ -17,51 +17,51 @@
     
 	
 	{
-      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte yapılan test sayısının 5764 olduğunu, 31’i yerel 48 pozitif vakaya rastlandığını , 1kişinin hayatını kaybettiğini, 30 kişinin taburcu edildiğini açıkladı.",
-      "headline": "Bakan Pilli: 31’i yerel 48 pozitif vakaya rastlandı",
+      "body": "Sağlık Bakanlığı’ndan yapılan açıklamaya göre son 24 saatte yapılan test sayısı 5494 olup, 20’si yerel 38 pozitif vakaya rastlanmış, 2 kişi yoğun bakımdan çıkarılarak servise alınmış ve 23 kişi taburcu edilmiştir.",
+      "headline": "20’si yerel 38 pozitif vakaya rastlandı",
       "id": 1,
-      "link": "https://brtk.net/bakan-pilli-31i-yerel-48-pozitif-vakaya-rastlandi/",
-      "record_time": "11 Şub 21 7:29 PM",
+      "link": "https://brtk.net/20si-yerel-38-pozitif-vakaya-rastlandi/",
+      "record_time": "26 Şub 21 7:29 PM",
       "tags": "news"
     },
 	{
-      "body": "Güney Kıbrıs’ta son 24 saatte gerçekleştirilen toplam 25 bin 971 test sonucunda 103 yeni Covid-19 vakası tespit edilirken, 1 kişi daha hayatını kaybetti.",
-      "headline": "Güney Kıbrıs’ta 103 yeni vaka, 1 yeni can kaybı",
+      "body": "Güney Kıbrıs’ta son 24 saatte yapılan 43 bin 958 PCR testi sonucu 272 yeni Covid-19 vakası tespit edilirken, salgına bağlı can kaybı yaşanmadı.",
+      "headline": "Güney Kıbrıs’ta 272 yeni vaka!",
       "id": 2,
-      "link": "https://brtk.net/guney-kibrista-103-yeni-vaka-1-yeni-can-kaybi/",
-      "record_time": "11 Şub 21 7:23 PM",
+      "link": "https://brtk.net/guney-kibrista-272-yeni-vaka/",
+      "record_time": "26 Şub 21 7:23 PM",
       "tags": "news"
     },
 	{
-      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte yapılan test sayısının 4880 olduğunu, 25’i yerel 34 pozitif vakaya rastlandığını ,45 kişinin taburcu edildiğini açıkladı.",
-      "headline": "Bakan Pilli: 25’i yerel 34 pozitif vakaya rastlandı",
+      "body": "Sağlık Bakanlığı’ndan yapılan açıklamaya göre son 24 saatte yapılan test sayısı 6179 olup, 17’si  yerel 21 pozitif vakaya rastlanmış, 15 kişi taburcu edilmiştir.",
+      "headline": "17’si  yerel 21 pozitif vakaya rastlandı",
       "id": 3,
-      "link": "https://brtk.net/bakan-pilli-25i-yerel-34-pozitif-vakaya-rastlandi/",
-      "record_time": "10 Şub 21 8:06 PM",
+      "link": "https://brtk.net/17si-yerel-21-pozitif-vakaya-rastlandi/",
+      "record_time": "25 Şub 21 8:06 PM",
       "tags": "news"
     },
 	{
-      "body": "Güney Kıbrıs’ta son 24 saatte koronavirüsten 3 can kaybı meydana geldi 113 yeni vaka saptandı.",
-      "headline": "Güney Kıbrıs’ta 113 yeni pozitif vakaya rastlandı",
+      "body": "Rum Sağlık Bakanlığı tarafından yapılan açıklamaya göre, son 24 saatte yapılan 28 bin 461 test neticesinde, 199 yeni vaka tespit edildi.",
+      "headline": "Güney Kıbrıs’ta son 24 saatte 199 yeni vaka belirlendi",
       "id": 4,
-      "link": "https://brtk.net/guney-kibrista-113-yeni-pozitif-vakaya-rastlandi-3-kisi-hayatini-kaybetti/",
-      "record_time": "10 Şub 21 7:46 PM",
+      "link": "https://brtk.net/guney-kibrista-son-24-saatte-199-yeni-vaka-belirlendi/",
+      "record_time": "25 Şub 21 7:46 PM",
       "tags": "news"
     },
 	{
-      "body": "Sağlık Bakanı Dr. Ali Pilli, son 24 saatte yapılan test sayısının 5103 olduğunu, 32’si yerel 50 pozitif vakaya rastlandığını ,41 kişinin taburcu edildiğini açıkladı.",
-      "headline": "Bakan Pilli:32’si yerel 50 pozitif vakaya rastlandı",
+      "body": "Sağlık Bakanı Dt. Ünal Üstel, son 24 saatte yapılan test sayısının 5143   olduğunu, 29’u yerel 49 pozitif vakaya rastlandığını , 1 kişinin yoğun bakımdan çıkarılarak servise alındığını, 40 kişinin taburcu edildiğini açıkladı.",
+      "headline": "Bakan Üstel : 29’u yerel 49 pozitif vakaya rastlandı",
       "id": 5,
-      "link": "https://brtk.net/bakan-pilli32si-yerel-50-pozitif-vakaya-rastlandi/",
-      "record_time": "09 Şub 21 7:36 PM",
+      "link": "https://brtk.net/bakan-ustel-29u-yerel-49-pozitif-vakaya-rastlandi/",
+      "record_time": "24 Şub 21 7:36 PM",
       "tags": "news"
     },
 	{
-      "body": "Güney Kıbrıs’ta günlük vaka sayısı haftalar sonra iki haneli rakamlara geriledi. Son 24 saatte 95 yeni vaka tespit edildi.",
-      "headline": "Güney Kıbrıs’ta son 24 saatte 95 yeni vaka",
+      "body": "Bugün yapılan 26 bin 603 testten 143’ü pozitif sonuçlandı. Bugün itibarıyla tedavi gören hasta sayısı 81, durumu ciddi olanların sayısı da 25 olarak açıklandı.",
+      "headline": "Güney Kıbrıs’ta 143 vaka, 1 ölüm",
       "id": 6,
-      "link": "https://brtk.net/guney-kibrista-son-24-saatte-95-yeni-vaka/",
-      "record_time": "09 Şub 21 7:25 PM",
+      "link": "https://brtk.net/guney-kibrista-143-vaka-1-olum/",
+      "record_time": "24 Şub 21 7:25 PM",
       "tags": "news"
     }
 	
@@ -1384,6 +1384,81 @@
 	{
       "count": 458553,
       "timestamp" : "1613077166"
+    },
+	
+	{
+      "count": 462775,
+      "timestamp" : "1613163616"
+    },
+	
+	{
+      "count": 467112,
+      "timestamp" : "1613250016"
+    },
+	
+	{
+      "count": 472145,
+      "timestamp" : "1613336416"
+    },
+	
+	{
+      "count": 477334,
+      "timestamp" : "1613422816"
+    },
+	
+	{
+      "count": 482118,
+      "timestamp" : "1613509216"
+    },
+	
+	{
+      "count": 485708,
+      "timestamp" : "1613595616"
+    },
+	
+	{
+      "count": 489602,
+      "timestamp" : "1613682016"
+    },
+	
+	{
+      "count": 494658,
+      "timestamp" : "1613768416"
+    },
+	
+	{
+      "count": 499505,
+      "timestamp" : "1613854816"
+    },
+	
+	{
+      "count": 504171,
+      "timestamp" : "1613941216"
+    },
+	
+	{
+      "count": 510078,
+      "timestamp" : "1614027616"
+    },
+	
+	{
+      "count": 516670,
+      "timestamp" : "1614114016"
+    },
+	
+	{
+      "count": 521814,
+      "timestamp" : "1614200416"
+    },
+	
+	{
+      "count": 527992,
+      "timestamp" : "1614286816"
+    },
+	
+	{
+      "count": 533486,
+      "timestamp" : "1614373216"
     }
 	
 
@@ -2724,6 +2799,81 @@
 	{
       "count": 5764,
       "timestamp" : "1613077166"
+    },
+	
+	{
+      "count": 4222,
+      "timestamp" : "1613163616"
+    },
+	
+	{
+      "count": 4337,
+      "timestamp" : "1613250016"
+    },
+	
+	{
+      "count": 5033,
+      "timestamp" : "1613336416"
+    },
+	
+	{
+      "count": 5189,
+      "timestamp" : "1613422816"
+    },
+	
+	{
+      "count": 4784,
+      "timestamp" : "1613509216"
+    },
+	
+	{
+      "count": 3590,
+      "timestamp" : "1613595616"
+    },
+	
+	{
+      "count": 3894,
+      "timestamp" : "1613682016"
+    },
+	
+	{
+      "count": 5056,
+      "timestamp" : "1613768416"
+    },
+	
+	{
+      "count": 4847,
+      "timestamp" : "1613854816"
+    },
+	
+	{
+      "count": 4666,
+      "timestamp" : "1613941216"
+    },
+	
+	{
+      "count": 5907,
+      "timestamp" : "1614027616"
+    },
+	
+	{
+      "count": 6592,
+      "timestamp" : "1614114016"
+    },
+	
+	{
+      "count": 5143,
+      "timestamp" : "1614200416"
+    },
+	
+	{
+      "count": 6179,
+      "timestamp" : "1614286816"
+    },
+	
+	{
+      "count": 5494,
+      "timestamp" : "1614373216"
     }
 
 	
@@ -6830,6 +6980,231 @@
       "recovered": 30,
       "timestamp": "1613077166",
       "total": 2967
+    },
+	
+	{
+      "active": 760,
+      "daily_active": 40,
+      "daily_deaths": 17,
+      "daily_recovered": 2230,
+      "daily_total": 760,
+      "day": "12 Feb 2021",
+      "deaths": 0,
+      "id": 63,
+      "record_time": "Fri, 12 Feb 2021 12:00:00 GMT",
+      "recovered": 43,
+      "timestamp": "1613163616",
+      "total": 3007
+    },
+	
+	{
+      "active": 737,
+      "daily_active": 30,
+      "daily_deaths": 17,
+      "daily_recovered": 2283,
+      "daily_total": 737,
+      "day": "13 Feb 2021",
+      "deaths": 0,
+      "id": 63,
+      "record_time": "Sat, 13 Feb 2021 12:00:00 GMT",
+      "recovered": 53,
+      "timestamp": "1613250016",
+      "total": 3037
+    },
+	
+	{
+      "active": 696,
+      "daily_active": 17,
+      "daily_deaths": 17,
+      "daily_recovered": 2338,
+      "daily_total": 696,
+      "day": "14 Feb 2021",
+      "deaths": 0,
+      "id": 63,
+      "record_time": "Sun, 14 Feb 2021 12:00:00 GMT",
+      "recovered": 55,
+      "timestamp": "1613336416",
+      "total": 3054
+    },
+	
+	{
+      "active": 654,
+      "daily_active": 28,
+      "daily_deaths": 19,
+      "daily_recovered": 2408,
+      "daily_total": 654,
+      "day": "15 Feb 2021",
+      "deaths": 2,
+      "id": 63,
+      "record_time": "Mon, 15 Feb 2021 12:00:00 GMT",
+      "recovered": 70,
+      "timestamp": "1613422816",
+      "total": 3082
+    },
+	
+	{
+      "active": 601,
+      "daily_active": 23,
+      "daily_deaths": 20,
+      "daily_recovered": 2408,
+      "daily_total": 654,
+      "day": "16 Feb 2021",
+      "deaths": 1,
+      "id": 63,
+      "record_time": "Tue, 16 Feb 2021 12:00:00 GMT",
+      "recovered": 75,
+      "timestamp": "1613509216",
+      "total": 3105
+    },
+	
+	{
+      "active": 574,
+      "daily_active": 27,
+      "daily_deaths": 21,
+      "daily_recovered": 2536,
+      "daily_total": 574,
+      "day": "17 Feb 2021",
+      "deaths": 1,
+      "id": 63,
+      "record_time": "Wed, 17 Feb 2021 12:00:00 GMT",
+      "recovered": 53,
+      "timestamp": "1613595616",
+      "total": 3132
+    },
+	
+	{
+      "active": 531,
+      "daily_active": 25,
+      "daily_deaths": 21,
+      "daily_recovered": 2604,
+      "daily_total": 531,
+      "day": "18 Feb 2021",
+      "deaths": 0,
+      "id": 63,
+      "record_time": "Thu, 18 Feb 2021 12:00:00 GMT",
+      "recovered": 68,
+      "timestamp": "1613682016",
+      "total": 3157
+    },
+	
+	{
+      "active": 475,
+      "daily_active": 14,
+      "daily_deaths": 22,
+      "daily_recovered": 2604,
+      "daily_total": 531,
+      "day": "19 Feb 2021",
+      "deaths": 1,
+      "id": 63,
+      "record_time": "Fri, 19 Feb 2021 12:00:00 GMT",
+      "recovered": 69,
+      "timestamp": "1613768416",
+      "total": 3171
+    },
+	
+	{
+      "active": 425,
+      "daily_active": 21,
+      "daily_deaths": 22,
+      "daily_recovered": 2744,
+      "daily_total": 425,
+      "day": "20 Feb 2021",
+      "deaths": 0,
+      "id": 63,
+      "record_time": "Sat, 20 Feb 2021 12:00:00 GMT",
+      "recovered": 71,
+      "timestamp": "1613854816",
+      "total": 3192
+    },
+	
+	{
+      "active": 392,
+      "daily_active": 23,
+      "daily_deaths": 23,
+      "daily_recovered": 2800,
+      "daily_total": 392,
+      "day": "21 Feb 2021",
+      "deaths": 1,
+      "id": 63,
+      "record_time": "Sun, 21 Feb 2021 12:00:00 GMT",
+      "recovered": 56,
+      "timestamp": "1613941216",
+      "total": 3216
+    },
+	
+	{
+      "active": 377,
+      "daily_active": 16,
+      "daily_deaths": 23,
+      "daily_recovered": 2831,
+      "daily_total": 377,
+      "day": "22 Feb 2021",
+      "deaths": 0,
+      "id": 63,
+      "record_time": "Mon, 22 Feb 2021 12:00:00 GMT",
+      "recovered": 31,
+      "timestamp": "1614027616",
+      "total": 3232
+    },
+	
+	{
+      "active": 347,
+      "daily_active": 16,
+      "daily_deaths": 23,
+      "daily_recovered": 2877,
+      "daily_total": 347,
+      "day": "23 Feb 2021",
+      "deaths": 0,
+      "id": 63,
+      "record_time": "Tue, 23 Feb 2021 12:00:00 GMT",
+      "recovered": 46,
+      "timestamp": "1614114016",
+      "total": 3248
+    },
+	
+	{
+      "active": 356,
+      "daily_active": 49,
+      "daily_deaths": 23,
+      "daily_recovered": 2877,
+      "daily_total": 356,
+      "day": "24 Feb 2021",
+      "deaths": 0,
+      "id": 63,
+      "record_time": "Wed, 24 Feb 2021 12:00:00 GMT",
+      "recovered": 40,
+      "timestamp": "1614200416",
+      "total": 3297
+    },
+	
+	{
+      "active": 362,
+      "daily_active": 21,
+      "daily_deaths": 23,
+      "daily_recovered": 2932,
+      "daily_total": 362,
+      "day": "25 Feb 2021",
+      "deaths": 0,
+      "id": 63,
+      "record_time": "Thu, 25 Feb 2021 12:00:00 GMT",
+      "recovered": 15,
+      "timestamp": "1614286816",
+      "total": 3318
+    },
+	
+	{
+      "active": 377,
+      "daily_active": 38,
+      "daily_deaths": 23,
+      "daily_recovered": 2955,
+      "daily_total": 377,
+      "day": "26 Feb 2021",
+      "deaths": 0,
+      "id": 63,
+      "record_time": "Fri, 26 Feb 2021 12:00:00 GMT",
+      "recovered": 23,
+      "timestamp": "1614373216",
+      "total": 3356
     }
 	  
 	  
@@ -6924,22 +7299,22 @@
     }
   ],
   "message": "readings",
-  "num_days": 382,
-  "recovered_diff": 30,
+  "num_days": 398,
+  "recovered_diff": 23,
   "statewise": [
     {
-      "active": 763,
-      "deaths": 16,
-      "delta_active": 48,
+      "active": 377,
+      "deaths": 23,
+      "delta_active": 38,
       "delta_deaths": 0,
-      "delta_recovered": 30,
+      "delta_recovered": 23,
       "delta_total": 48,
       "id": 12,
-      "last_updated_time": "11/02/2021 10:54:25",
-      "record_time": "Thu, 11 Feb 2021 10:54:25 GMT",
-      "recovered": 2127,
+      "last_updated_time": "27/02/2021 14:54:25",
+      "record_time": "Sat, 27 Feb 2021 14:54:25 GMT",
+      "recovered": 2895,
       "state": "Lefkoşa | Nicosia",
-      "total": 2907
+      "total": 3296
     },
     {
       "active": 0,
@@ -7014,19 +7389,19 @@
   ],
   "success": true,
   "summary": {
-    "active": 763,
-    "deaths": 16,
-    "delta_active": 48,
+    "active": 377,
+    "deaths": 23,
+    "delta_active": 38,
     "delta_deaths": 0,
-    "delta_recovered": 30,
-    "delta_total": 48,
+    "delta_recovered": 23,
+    "delta_total": 38,
     "id": 1,
-    "last_updated_time": "12/02/2021 13:32:47",
-    "record_time": "2021-02-12 13:32:47",
-    "recovered": 2187,
-    "total": 2967
+    "last_updated_time": "27/02/2021 14:54:47",
+    "record_time": "2021-02-27 14:54:47",
+    "recovered": 2955,
+    "total": 3356
   },
-  "total_diff": 48,
+  "total_diff": 38,
   "undefinedage": 0,
-  "active_diff": 48
+  "active_diff": 38
 }
