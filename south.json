@@ -1,6 +1,6 @@
 {
-  "tests": 210589,
-  "tests_diff": 45896,
+  "tests": 302589,
+  "tests_diff": 48484,
   "information": [
     
 	{
@@ -4086,8 +4086,8 @@
     "delta_total": 0,
     "id": 1,
     "active" : 17476,
-    "last_updated_time": "17/03/2021 19:24:21",
-    "record_time": "2021-03-17 19:24:21",
+    "last_updated_time": "26/03/2021 21:24:21",
+    "record_time": "2021-03-26 21:24:21",
     "recovered": 2057,
     "total": 17476
   },
@@ -4115,9 +4115,9 @@
     "80+": 3
   },
   "message": "readings",
-  "num_days": 416,
+  "num_days": 425,
   "recovered_diff": 0,
-  "total_diff": 272,
+  "total_diff": 361,
   "undefinedage": 0,
-  "active_diff": 272
+  "active_diff": 361
 }
