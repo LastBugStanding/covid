@@ -1,6 +1,6 @@
 {
-  "tests": 302589,
-  "tests_diff": 48484,
+  "tests": 514567,
+  "tests_diff": 43914,
   "information": [
     
 	{
@@ -4078,18 +4078,18 @@
   ],
   "success": true,
   "summary": {
-    "active": 17476,
-    "deaths": 49,
-    "delta_active": 419,
-    "delta_deaths": 0,
+    "active": 46173,
+    "deaths": 260,
+    "delta_active": 309,
+    "delta_deaths": 4,
     "delta_recovered": 0,
     "delta_total": 0,
     "id": 1,
-    "active" : 17476,
-    "last_updated_time": "26/03/2021 21:24:21",
-    "record_time": "2021-03-26 21:24:21",
+    "active" : 46173,
+    "last_updated_time": "01/04/2021 23:45:21",
+    "record_time": "2021-04-01 23:45:21",
     "recovered": 2057,
-    "total": 17476
+    "total": 46173
   },
 	
 	"gender": [
@@ -4115,9 +4115,9 @@
     "80+": 3
   },
   "message": "readings",
-  "num_days": 425,
+  "num_days": 431,
   "recovered_diff": 0,
-  "total_diff": 361,
+  "total_diff": 309,
   "undefinedage": 0,
-  "active_diff": 361
+  "active_diff": 309
 }
